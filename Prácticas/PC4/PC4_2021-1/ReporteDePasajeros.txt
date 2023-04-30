@@ -1,0 +1,754 @@
+                         Lista de pasajeros
+====================================================================
+Vehiculo No. 1
+Placa: Q8B-464
+Chofer: Zamora Cabrera Carmen 
+Ruta: Huaraz - Trujillo - Chiclayo - Piura - Sullana - Tumbes
+Pasajeros:
+Huaraz:
+No.    DNI         Nombre
+1    57690875      Norabuena Villegas Arturo Rafael
+2    62566305      Romero Alfaro Monica Johana
+Trujillo:
+No.    DNI         Nombre
+1    90687076      Mercado Caro Ofelia Carmen
+2    91932848      Mejia Zegarra Giovana
+3    88830718      Shirakawa Saona Victoria Milagros
+4    43053402      Benavente Zimic Madeleine Zkenia
+5    89298238      Alfaro Preciado Johnny
+6    95751208      Coronel Zegarra Fiorella
+Chiclayo:
+No.    DNI         Nombre
+1    39598526      Gonzales Aguirre Emilio Emigdio
+2    83236386      Rivero Corrales Juan Fernando
+3    71378466      Miyake Caro Henrry Edgar
+4    90237332      Espinoza Castro Ydali Giovana
+5    73185299      Cortes Landa Surami
+Piura:
+No.    DNI         Nombre
+1    59297012      Ayala Zevallos Johan Enrique
+2    84165595      Salamanca Gavidia Alex
+3    29847168      Aldave Zevallos Rosario
+4    76388967      Gonzales Quio Isabel
+Sullana:
+No.    DNI         Nombre
+1    60359888      Cabello Lam Alfonso Waldemar
+2    84857574      Zarate Acuna Milena Cinthia
+3    20864087      Zegarra Casanova Estefania
+4    35565959      Vilcara Rodriguez Annie
+5    80048864      Justino Castillo Sandro Christian
+Tumbes:
+No.    DNI         Nombre
+1    50365593      Suarez Bravo Mariella Tatiana
+2    77191257      Corrales Zuniga Jenny
+3    16151792      Durand Castro Flor Martha
+--------------------------------------------------------------------
+Vehiculo No. 2
+Placa: Z0V-608
+Chofer: Zarate Urbina Delia 
+Ruta: Huaraz - Trujillo - Cajamarca - Chachapoyas - Tarapoto
+Pasajeros:
+Huaraz:
+No.    DNI         Nombre
+1    55552996      Suchero Preciado Milagros Ericka
+2    24995742      Merel Tavera Walter
+3    56364198      Wong Martel Madeleine
+Trujillo:
+No.    DNI         Nombre
+1    44679500      Correa Arca Heli
+2    42172802      Preciado Rivero Johana
+3    99532801      Preciado Tokeshi Henry
+4    97934179      Sanchez Preciado Sandro Wilmer
+5    47866569      Norabuena Preciado Cinthia
+Cajamarca:
+No.    DNI         Nombre
+1    87503190      Del Castillo Chung Felicita Erika
+2    19829266      Tomasiche Mejia Melvin
+3    71463316      Prado Calixto Karin
+Chachapoyas:
+No.    DNI         Nombre
+1    19580504      Montero Bolanos Ofelia Beatriz
+2    22777006      Asmad Pinto Maria Lorena
+3    15561764      Villegas Castro Alonso
+4    85871751      Ayala Laura Janet
+Tarapoto:
+No.    DNI         Nombre
+1    85152986      Munoz Vergel Edgar
+2    96258632      Florencio Garcia Walter
+3    95161027      Falcon Pozo Walter
+4    24716202      Pinto Calixto Shirley
+5    48832211      Forzani Caro Alonso
+6    99315346      Castro Suarez Rolando
+7    42593311      Piscoya Bravo Cesar Bruno
+--------------------------------------------------------------------
+Vehiculo No. 3
+Placa: P9A-528
+Chofer: Castillo Mejia Gustavo Alonso 
+Ruta: Ica - Arequipa - Moquegua - Tacna
+Pasajeros:
+Ica:
+No.    DNI         Nombre
+1    22344625      Cuba Pomajambo Victoria Fiorella
+2    77642521      Soria Castillo Luis Gustavo
+3    33397650      Rondon Egusquiza Carmela Valentina
+Arequipa:
+No.    DNI         Nombre
+1    69975105      Valderrama Mendoza Luis Adolfo
+2    64394265      Salazar Gonzales David Rafael
+Moquegua:
+No.    DNI         Nombre
+1    48467976      Benites Sanchez Margot Delicia
+Tacna:
+No.    DNI         Nombre
+1    37787771      Acuna Ayllon Blanca Luz
+2    71984468      Iparraguirre Villegas Nicolas Edilberto
+3    79140840      Torrealba Arca Victoria Glenda
+4    78078115      Tsukazan Amezquita Delia
+--------------------------------------------------------------------
+Vehiculo No. 4
+Placa: V1S-429
+Chofer: Calixto Torres Miguel 
+Ruta: Huanuco - Pucallpa - Yurimaguas - Iquitos
+Pasajeros:
+Huanuco:
+No.    DNI         Nombre
+1    36931603      Ortiz Guevara Yliana Flor
+2    35584593      Lam Vizcardo Milagros Yvonne
+3    17913944      Palomares Santisteban Henrry
+4    40348917      Vega Tsukazan Valentina
+Pucallpa:
+No.    DNI         Nombre
+1    32093968      Martel Mercado Teresa Teresa
+Yurimaguas:
+No.    DNI         Nombre
+1    45783712      Pozo Chung Rafael
+2    48184351      Lopez Jauregui Rolando
+3    46462527      Loyola Mori Nicolas Fernando
+4    25171011      Cruz Jugo Sandro Fausto
+Iquitos:
+No.    DNI         Nombre
+1    25669913      Vargas Guevara Humberto Alberto
+2    99995135      Arca Leiva Delicia Rosa
+3    73786035      Ortiz Epiquen Henry Israel
+4    67418025      Moscoso Sueldo Marina
+5    32821689      Zavaleta Epiquen Carmen Zkenia
+6    45828535      Sedano Mercado Fiorella Gloria
+--------------------------------------------------------------------
+Vehiculo No. 5
+Placa: W4X-437
+Chofer: Zegarra Cabello Cinthia Milena 
+Ruta: Chiclayo - Paita - Sullana - Talara
+Pasajeros:
+Chiclayo:
+No.    DNI         Nombre
+1    87000267      Benavente Aranda Moises
+2    11743727      Reyes Tang Edward
+Paita:
+No.    DNI         Nombre
+1    26221442      Preciado Pinto Surami Heli
+2    50862708      Zimic Salas Francisco
+3    87800799      Quiroga Salazar Johnny Roberto
+4    38637282      Tabori Carbajal Ydali Magda
+5    86402303      Ruiz Ruiz Ofelia Delia
+6    32904023      Prado Forzani Lourdes
+7    52097922      Cuba Durand Yvonne Delia
+8    17739376      Benites Raffo Ofelia Luz
+9    34057485      Vega Garcia Janet Rebeca
+Sullana:
+No.    DNI         Nombre
+1    69324480      Flores Iparraguirre Henrry Ricardo
+2    93160528      Santisteban Martel Martin Luis
+3    14170550      Landeo Chavarri Fausto
+4    58464455      Cerna Pairazaman Fiorella Margot
+Talara:
+No.    DNI         Nombre
+--------------------------------------------------------------------
+Vehiculo No. 6
+Placa: I1X-633
+Chofer: Vilcara Jugo Julio 
+Ruta: Huancavelica - Pasco - Huanuco - Tingo Maria
+Pasajeros:
+Huancavelica:
+No.    DNI         Nombre
+1    54761731      Loyola Iberos Angel Gustavo
+2    66409237      Cano Delgado Williams
+3    63437380      Pinto Cabello Silvia Felicita
+4    78922174      Alamo Meza Alvaro
+5    49087435      Gallo Martinez Victor Guillermo
+6    99251008      Salas Pena Karina Carmen
+7    51673086      Sam Estrada Marina Estefania
+Pasco:
+No.    DNI         Nombre
+1    19515050      Arca Aquino Delicia
+2    57263719      Prado Torrealba Carmen Janet
+3    94080926      Soria Cruz Madeleine
+4    45877001      Soria Villa Henrry
+5    97403853      Piscoya Malca Maria Monica
+6    88995291      Perez Torres Milagros Rebeca
+7    44248752      Henriquez Leyva Fernando Walter
+Huanuco:
+No.    DNI         Nombre
+1    38913831      Fuentes Tsukazan Patricia Ofelia
+2    88956889      Chumpitaz Carbajal Maritza
+Tingo Maria:
+No.    DNI         Nombre
+1    73905548      Garcia Inga Marina Natalia
+2    73535476      Ayala Sanchez Maria Teresa
+3    87813843      Ayala Acuna Rony Alex
+4    40112594      Caro Raraz Christian Ronal
+--------------------------------------------------------------------
+Vehiculo No. 7
+Placa: W0O-821
+Chofer: Chung Zuniga Zkenia Irma 
+Ruta: Ayacucho - Abancay - Cuzco - Puno
+Pasajeros:
+Ayacucho:
+No.    DNI         Nombre
+1    79238499      Acuna Gordillo Lorena Surami
+2    84847055      Salazar Figueroa Evert Johnny
+Abancay:
+No.    DNI         Nombre
+1    44888415      Aranda Minaya Janet Cinthia
+2    16552775      Yallico Paredes Lourdes Carmela
+3    79475585      Retto Arca Annie Magda
+4    79420973      Auris Jolay Diana
+5    41036366      Justino Loyola Jenny Magda
+6    27912250      Cuba Chung Israel Edilberto
+7    78757121      Astete Solis Fanny
+8    36380447      Rivero Retto Jesus
+9    37110873      Vergel Hijar Jesus
+10   97704824      Mori Caro Freysa
+Cuzco:
+No.    DNI         Nombre
+1    87334863      Urbina Antezano Valentina Paula
+2    94326707      Chang Segura Angel
+3    91897732      Gamarra Alcocer Virginia
+4    22280452      Gonzales Maldonado Zkenia Erika
+5    15210391      Quiroga Casanova Bruno
+6    79901434      Salazar Florencio Sandro Johnny
+7    77484838      Epiquen Alamo Nancy
+8    69639726      Rojas Patino Gonzalo Jair
+Puno:
+No.    DNI         Nombre
+1    79464412      Portugal Raffo Alexander
+2    31611146      Landeo Larriega Martin
+3    42157219      Luna Cueva Richard
+4    36008913      Castillo Zamora Victor Nestor
+--------------------------------------------------------------------
+Vehiculo No. 8
+Placa: U3G-207
+Chofer: Perez Antezano David Carlos 
+Ruta: Pisco - Ica - Nazca
+Pasajeros:
+Pisco:
+No.    DNI         Nombre
+Ica:
+No.    DNI         Nombre
+1    26290971      Santisteban Ayala Carola Maritza
+2    90365520      Palomino Adams Sandro Ronald
+3    89148118      Zambrano Leyva Alvaro
+4    42798099      Zegarra Munoz Sonia Guida
+5    59407188      Canales Moya Alonso Julio
+6    27635082      Contreras Guevara Marina
+7    28546649      Lopez Laura Felicita
+8    96994320      Diaz Correa Irma Virginia
+9    52061162      Coronado Figueroa Johan
+10   48537380      Patino Bolanos Delicia Virginia
+11   95031231      Retamoso Salamanca Delia Maritza
+12   69614902      Justino Martinez Enrique
+Nazca:
+No.    DNI         Nombre
+1    62303425      Cabrera Mori Glenda
+2    96659352      Bravo Vizcarra Roberto
+3    62324793      Gavidia Moreno Israel Rolando
+4    28390487      Iparraguirre Paredes Raul
+5    31117769      Lozada Yino Martha
+6    62935160      Cabrera Canales Guillermo Edric
+7    81190754      Medina Velasquez Milena Jenny
+8    42463525      Amezquita Epiquen Evert Roberto
+--------------------------------------------------------------------
+Vehiculo No. 9
+Placa: Q6F-925
+Chofer: Jolay Chumpitaz Walter 
+Ruta: Arequipa - Juliaca - Puno
+Pasajeros:
+Arequipa:
+No.    DNI         Nombre
+1    95015539      Chang Saona Ronald
+2    53166028      Cano Chung Emilio Nicolas
+3    99250306      Aquino Baca Alex
+4    33321424      Morales Quiroga Silvana Glenda
+5    64333011      Justino Forzani Ericka Victoria
+6    93862741      Valverde Berrocal Rony Gonzalo
+7    19449476      Rosemberg Lau Julio Henrry
+Juliaca:
+No.    DNI         Nombre
+1    78475257      Jauregui Bravo Luz Sofia
+2    74067467      Yep Zavaleta Rosario Maribel
+3    26976877      Toro De La Cuba Dialy Diana
+4    93845419      Quio Gavidia Dialy Felicita
+5    89863424      Santisteban Bravo Edgard
+6    40097416      Cerna Durand Martin
+7    93553218      Suarez Bolanos Rafael
+8    78500352      Iberos Valderrama Rafael
+9    74028555      Antezano Segura Teresa Delia
+10   80528968      Barrera Miranda Alexander Martin
+Puno:
+No.    DNI         Nombre
+1    63124303      Gavidia Escalante Evert Gonzalo
+2    36297392      Zarate Del Pozo Humberto Antonio
+3    27777608      Henriquez Diaz Silvana Diana
+--------------------------------------------------------------------
+Vehiculo No. 10
+Placa: H7K-813
+Chofer: Amezquita Contreras Humberto Alfonso Miguel 
+Ruta: Huaraz - Huanuco - Moyobamaba
+Pasajeros:
+Huaraz:
+No.    DNI         Nombre
+1    20667571      Aquino Toro Valentina Rocio
+Huanuco:
+No.    DNI         Nombre
+1    22010173      Hernandez Barrios Emilio
+2    17366750      Fernandez Ortega Elizabeth Elizabeth
+3    29594780      Palomares Vera Henrry Humberto
+4    68445757      Landa Piscoya Christian
+5    13588661      Urbina Castillo Heli
+6    75432503      Montero Montero Annie
+7    48090595      Trigueros Jugo Luz
+8    69228571      Solis Narvaez Maria Madeleine
+9    69255097      Zamora Zavaleta Ronal Manuel
+10   11973737      Durand Miranda Miguel Juan
+Moyobamaba:
+No.    DNI         Nombre
+1    33718985      Landeo Estrada Miguel Alex
+2    81114108      Zambrano Shirakawa Wilmer
+3    89429489      Serrano Iparraguirre Virginia
+4    43488351      Minaya Cerna Lorena Fiorella
+5    54716824      Valverde Segura Miguel Jose
+6    83505958      Contreras Meza Erika Blanca
+7    58187172      Suarez Zimic Moises
+8    22899205      Salazar Corrales Lorena Irma
+9    83756748      Yoshinari Rivera Paul
+10   98297137      Retamoso Barrera Oscar
+11   97738037      Soma Pinto Lourdes Sonia
+12   80208319      Suarez Morales Amaru
+13   90404826      Escalante Rojas Ines Adria
+14   21386432      Rivero Cortez Wilver Alfonso
+--------------------------------------------------------------------
+Vehiculo No. 11
+Placa: G7Y-809
+Chofer: Tabori Arias Rosario 
+Ruta: Arequipa - Cuzco - Puerto Maldonado
+Pasajeros:
+Arequipa:
+No.    DNI         Nombre
+1    71469277      Arca Sanchez Magali Beatriz
+2    43701372      Leyva Sam Diana Delia
+3    43722669      Zavaleta Vilca Ericka Eleonor
+4    87990396      Vilca Lee Nestor Hugo
+5    48904773      Torrealba Salas Diana Annie
+6    59100291      Diaz Serrano Waldemar
+Cuzco:
+No.    DNI         Nombre
+1    87027873      Auris Salazar Madeleine Guida
+2    21814849      Martel Asmad Bruno Roberto
+3    78755618      De La Cuba Jugo Lucero Delicia
+4    21589652      Vega Soria Henrry
+5    17266507      Florencio Coronado Alonso
+6    76990683      Baca Camacho Milagros Natalia
+7    90573514      Carbajal Salas Magda Zkenia
+8    91497975      Quiroga Hernandez Silvana Zkenia
+Puerto Maldonado:
+No.    DNI         Nombre
+1    33713901      Villegas Castro Sofia Virginia
+2    74032894      Cerna Hijar Jose Rolando
+3    69990549      Prado Vergel Carlos Julian
+4    59608456      Landeo Sueldo Adolfo
+5    33332473      Caro Polo Sandro
+6    50222718      Gordillo Yino Yvonne Rosario
+7    42804086      Farfan Falcon Elizabeth Karin
+8    22129918      Prado Vera Juan
+9    99843190      Hijar Lam Martin
+10   42284294      Wong Maeireizo Beatriz
+11   81051334      Ayala Shirakawa Victoria
+--------------------------------------------------------------------
+Vehiculo No. 12
+Placa: H9R-580
+Chofer: Saenz Aranda Wilmer 
+Ruta: Junin - Pasco - Pucallpa
+Pasajeros:
+Junin:
+No.    DNI         Nombre
+1    67592501      Mori Suarez Edilberto Jesus
+2    27530155      Landa Cabrera Javier Edgard
+3    43877279      Raraz Suchero Adolfo
+4    86241107      Sanchez Epiquen Edgar Melvin
+5    44229880      Palomares Barrios Edward Cesar
+6    42928709      Hernandez Malca Virginia
+7    61270996      Chumpitaz Iberos Ronal
+8    47944203      Pairazaman Alamo Moises Miguel
+9    23086600      Arca Amezquita Edric Ronald
+10   17711594      Maldonado Florian Johana
+11   35039741      Acuna Yino Rocio Yolanda
+12   55626526      Moscoso Arias Fiorella
+Pasco:
+No.    DNI         Nombre
+1    69158037      Perez Farfan Richard Sandro
+2    84551054      Paredes Patino Christian
+3    53054602      Hijar Yep Williams Christian
+4    24829546      Durand Meza Waldemar Edgard
+5    63627446      Villa Sedano Martin Juvenal
+6    73775471      Lozada Aguero Antonio Eloy
+7    72652460      Valverde Maeireizo Melvin Jair
+Pucallpa:
+No.    DNI         Nombre
+1    86828079      Preciado Adams Erika Delia
+2    43043986      Lozada Valverde Moises Henrry
+3    20337192      Hernandez Cerna Ines
+4    35679358      Moya Aranda Johnny
+5    19291013      Ruiz Gordillo Carola Erika
+6    52650685      Guevara Miyake Milena
+--------------------------------------------------------------------
+Vehiculo No. 13
+Placa: S0M-437
+Chofer: Collado Villa Garcia Raul 
+Ruta: Trujillo - Piura - Tumbes
+Pasajeros:
+Trujillo:
+No.    DNI         Nombre
+1    48902750      Benavente Ayala Virginia Irma
+2    16159030      Cortez Segura Carmela Ines
+3    66066730      Sakaguchi Mori Carlos Ronal
+4    69765157      Rivero Coronado Hector Alonso
+5    42721310      Avila Reyes Tatiana
+Piura:
+No.    DNI         Nombre
+1    13245501      Escalante Yino Edward Gonzalo
+2    85949265      Leyva Gonzales Cinthia
+3    29337157      Vizcardo Yep Guida Yolanda
+4    25504077      Lau Vizcarra Hector Alex
+5    47917936      Raffo Chung Adria Gloria
+6    84265465      Bravo Cortes Janet Flor
+7    45242696      Zarate Perez Alexander
+8    37187313      Fuentes Escalante Patricia Elizabeth
+Tumbes:
+No.    DNI         Nombre
+1    73914283      Casanova Carbajal Ricardo Israel
+2    23928045      Arca Vilca Ronald
+3    32565207      Rivera Zarate Marina
+4    98589725      Forzani Antezano Oscar Jose
+5    99842319      Martinez Martinez Carmela
+6    71762850      Valderrama Chang Johan Juvenal
+7    61358228      Cabrera Luna Shirley Isabel
+8    24304492      Romero Palomares Gloria Tatiana
+9    42436159      Santisteban Meza Rosa
+10   58821689      Coronel Chumpitaz Heli
+11   81274303      Barrios Tomasiche Carlos Alberto
+12   64877170      Calixto Tomasiche Monica Doris
+13   65873711      Salas Urbina Magda Carmen
+14   91459909      Chavez Berrocal Johan
+--------------------------------------------------------------------
+Vehiculo No. 14
+Placa: F1D-694
+Chofer: Rodriguez Serrano Cesar Jaime 
+Ruta: Huancavelica - Ayacucho
+Pasajeros:
+Huancavelica:
+No.    DNI         Nombre
+1    49593787      Arca Urbina Israel Christian
+2    62229503      Benites Benavente Flor Patricia
+3    69937474      Diaz Velasquez Marina Ofelia
+4    61002359      Delgado Gonzales Guillermo Alfonso
+5    83302451      Henriquez Espino Beatriz
+6    52338712      Chavez Prado Silvana
+7    73884562      Patino Chung Beatriz Rosa
+8    52027852      Astete Rios Cesar Wilver
+9    90010594      Egusquiza Berrocal Doris Nancy
+10   44033308      Jauregui Castillo Victor Ricardo
+11   90153517      Mercado Coronel Elia
+12   16602777      Arroyo Tomasiche Natalia
+13   56166837      Sedano Retamoso Elia Yolanda
+14   30378149      Cueva Fuentes Cinthia Delia
+Ayacucho:
+No.    DNI         Nombre
+1    54073409      Raffo Arias Surami Annie
+2    28014253      Gonzales Arias Henry
+3    30013565      Suchero Epiquen Edgar Javier
+4    38934372      Figueroa Collado Evert
+5    12588249      Zuniga Rosemberg Rebeca
+--------------------------------------------------------------------
+Vehiculo No. 15
+Placa: W4M-272
+Chofer: Shirakawa Florian Jaime Julian 
+Ruta: Moquegua - Tacna
+Pasajeros:
+Moquegua:
+No.    DNI         Nombre
+1    11602775      Hijar Arca Adolfo
+2    41347722      Mejia Florian Arturo
+3    92040310      Valverde Flores Irma Ydali
+4    73831431      Maldonado Ramirez Silvana
+5    39417975      Mejia De La Haza Francisco Edgar
+6    99289525      Portugal Benavente Johana Gloria
+7    17182437      Calderon Ortega Guillermo
+8    94675504      Villegas Palomino Doris Freysa
+9    92039993      Vargas Alamo Daniel
+10   78377191      Durand Valverde Enrique Jorge
+11   59347357      Asmad Chavez Adria
+12   87310295      Arca Larriega Lucero Yliana
+Tacna:
+No.    DNI         Nombre
+1    18523250      Chung Lee Alvaro
+2    28119151      Arroyo Gordillo Maria Heli
+3    52629673      Pasquel Quio Surami Janet
+4    47241133      Miyake Merel Madeleine Yliana
+5    31879918      Mejia Huayanay Christian Alonso
+6    24596637      Lau Baca Monica Teresa
+7    27329072      Calixto Castillo Erick Paul
+8    23912934      Sueldo Sedano Adria
+--------------------------------------------------------------------
+Vehiculo No. 16
+Placa: M3H-482
+Chofer: Cabrera Moreno Delia Estefania 
+Ruta: Huacho - Pasco
+Pasajeros:
+Huacho:
+No.    DNI         Nombre
+1    39082665      Garcia Astete Victor Edgar
+2    31193794      Garcia Yino Americo Waldemar
+3    60574154      Lozada Gonzales Jaime
+4    26233063      Tsukazan Ayala Marina Magda
+5    59162728      Huayanay Cortes Glenda Marina
+6    32395559      Shirakawa Ortega Angel
+7    45132265      Diaz Antezano Magali Silvana
+8    47632196      Morales Valverde Ines Martha
+9    31419360      Laura Wong Melvin Henrry
+10   45749698      Correa Vizcardo Miguel
+11   53693075      Henriquez Portugal Alex
+12   19477308      Gavidia Mendoza Ronald Johnny
+13   78862029      Urbina Hijar Rafael
+14   66433105      Serrano Ramirez Arturo Gustavo
+15   65745002      Sinche Rivero Yvonne Silvana
+16   69648154      Camacho Pairazaman Ydali Lucero
+17   41257674      Luna Vargas Waldemar
+18   80463739      Hernandez Corrales Guillermo
+19   80659999      Mori Tokeshi Felicita Glenda
+20   89539477      Velasquez Ortega Carmela Eloisa
+Pasco:
+No.    DNI         Nombre
+1    94384393      Epiquen Yep Guida Victoria
+2    54861496      Rios Vilca Shirley
+3    47176689      Delgado Benites Juvenal
+4    22576118      Rodriguez Arguedas Alfonso
+--------------------------------------------------------------------
+Vehiculo No. 17
+Placa: M9J-101
+Chofer: Norabuena Zegarra Delicia 
+Ruta: Huacho - Cimbote
+Pasajeros:
+Huacho:
+No.    DNI         Nombre
+Cimbote:
+No.    DNI         Nombre
+1    79372768      Berrocal Yallico Annie Sofia
+2    50375303      Sanchez Huayanay Dialy Lucero
+3    81310110      Mendoza Egusquiza Rosario
+4    19336444      Mejia Diaz Blanca Milagros
+5    79875775      Salas Aguero Daniel
+6    45525687      Ayala Castillo Ericka Ofelia
+7    95451438      Sanchez Del Castillo Fiorella Rosario
+8    94533040      Cano Polo Milagros Isabel
+9    48202441      Arroyo Collado Jessica Delicia
+10   69188068      Loyola Perez Alberto
+--------------------------------------------------------------------
+Vehiculo No. 18
+Placa: G8Y-63
+Chofer: Florencio Polo Fiorella Erika 
+Ruta: Ayacucho - Abancay
+Pasajeros:
+Ayacucho:
+No.    DNI         Nombre
+1    20366682      Urbina Mejia Magda Dialy
+2    40382824      Sinche Preciado Martha
+3    87252843      Soma Miranda Eloisa
+4    84563532      Calderon Rosemberg Rhony
+5    41787735      Mercado Fuentes Martin
+6    38748370      Urbina Arroyo Hector
+Abancay:
+No.    DNI         Nombre
+1    23716946      Shirakawa Miranda Madeleine
+2    93202947      Vilcara Correa Victor
+3    35956910      Vega Munoz Gonzalo
+4    24833706      Haza Cabrera Alberto Denis
+5    18297138      Ayala Vizcardo Edgar Manuel
+6    80294521      Chumpitaz Alcocer Angel Erick
+7    65802912      Zambrano Moscoso Ofelia Maria
+8    23715594      Pairazaman Raffo Tatiana Delicia
+9    66084391      Alfaro Alfaro Erick Bruno
+10   52478914      Figueroa Medina Madeleine
+11   30346442      Cortes Cortez Raul Alex
+12   57054262      Mendoza Romero Virginia Ydali
+13   19145687      Zambrano Torres Moises Guillermo
+14   54644007      Vizcarra Vega Surami
+--------------------------------------------------------------------
+
+====================================================================
+PASAJEROS EN LISTA DE ESPERA
+--------------------------------------------------------------------
+No.     DNI        Nombre                                  Destino
+  1    12663268    Barrera Flores Enrique                  Iquitos
+  2    17972674    Piscoya Portugal Waldemar Gustavo       Iquitos
+  3    98140264    Alamo Zegarra Israel Gustavo            Iquitos
+  4    53759600    Prado Falcon Edgar Richard              Iquitos
+  5    20790905    Villa Yallico Tatiana Nancy             Yurimaguas
+  6    45232784    Vasquez Paz Alex Martin                 Chiclayo
+  7    69965717    Velasquez Huayanay Edgard Henry         Chachapoyas
+  8    91510172    Inga Flores Cesar Adolfo                Chachapoyas
+  9    15171622    Corrales Tsukazan Irma Lourdes          Chachapoyas
+ 10    35065161    Auris Zimic Javier Daniel               Yurimaguas
+ 11    89473250    Justino Cruz Williams                   Yurimaguas
+ 12    75454254    Camacho Aguero Elia Rosa                Tarapoto
+ 13    70532120    Cruz Fuentes Johana Ydali               Chachapoyas
+ 14    60184235    Asmad Acuna Annie Ofelia                Cajamarca
+ 15    33132202    Pairazaman Cuba Alberto                 Chachapoyas
+ 16    55661032    Florian Morales Ydali                   Chachapoyas
+ 17    23972672    Hijar Pairazaman Jenny Delicia          Yurimaguas
+ 18    18869687    Alamo Pairazaman Miguel Roberto         Tingo Maria
+ 19    39923112    Segura Malca Rony                       Chiclayo
+ 20    18843347    Merel Salazar Annie Lourdes             Sullana
+ 21    78239339    Sueldo Ruiz Antonio                     Iquitos
+ 22    41368424    Diaz Reyes Walter Edgar                 Iquitos
+ 23    44472907    Falcon Preciado Alex Henry              Paita
+ 24    50349647    Villegas Leiva Felicita                 Yurimaguas
+ 25    52256304    Suarez Munoz Madeleine                  Cajamarca
+ 26    30057152    Chumpitaz Palomares Virginia            Yurimaguas
+ 27    47925388    Miranda Chumpitaz Alfonso               Paita
+ 28    56196922    Ortiz Durand Raul                       Cajamarca
+ 29    90983614    Escalante Espino Emigdio Francisco      Puno
+ 30    27473221    Justino Norabuena Virginia Karina       Tarapoto
+ 31    90665950    Sam Yallico Ines                        Cajamarca
+ 32    59602968    Lozada Iberos Heli Blanca               Cajamarca
+ 33    20229814    Solis Chung Rolando                     Yurimaguas
+ 34    74217478    Lozada Arguedas Felicita Valentina      Yurimaguas
+ 35    15988939    Ramirez Astete Karina Estefania         Puno
+ 36    76685676    Vizcardo Sinche Maribel                 Cajamarca
+ 37    41722980    Contreras Chang Johana Cinthia          Puno
+ 38    26247257    Narvaez Castillo Jesus Rafael           Yurimaguas
+ 39    46567452    Lozada Forzani Delia                    Cajamarca
+ 40    85152618    Rodriguez Moreno Blanca Ofelia          Pucallpa
+ 41    43530448    Diaz Tang Enrique                       Paita
+ 42    92051747    Pena Suarez Glenda Margot               Iquitos
+ 43    72299912    Rios Zamora Ines                        Sullana
+ 44    37851651    Vega Vilcara Carmela Teresa             Tingo Maria
+ 45    85990274    Cerna Cerna Cinthia                     Cajamarca
+ 46    72461485    Moscoso Laura Janet Valentina           Chiclayo
+ 47    78446851    Raffo Coronado Rolando                  Tingo Maria
+ 48    12293585    Infantes Mercado Luis Waldemar          Tarapoto
+ 49    27455636    Farfan Salazar Margot                   Chachapoyas
+ 50    96652987    Salamanca Vega Virginia Martha          Tacna
+ 51    63811239    Morales Pasquel Karin Maribel           Tarapoto
+ 52    26959197    Saavedra Gonzales Wilmer                Junin
+ 53    86235838    Tang Moscoso Johana                     Chachapoyas
+ 54    62092814    Lee Serrano Rosario                     Cajamarca
+ 55    44329979    Lau Zavaleta Ydali Elia                 Chachapoyas
+ 56    79196765    Tokeshi Guevara Jaime                   Puno
+ 57    33491703    Vilcara Yallico Magali                  Moquegua
+ 58    55368576    Ruiz Zevallos Walter Rony               Junin
+ 59    21745683    Rios Durand Carlos Edilberto            Tingo Maria
+ 60    99550710    Pinto Rojas Juvenal Francisco           Pucallpa
+ 61    57968975    Astete Chang Guida                      Paita
+ 62    38794979    Zegarra Pena Carmela                    Paita
+ 63    93820408    Florian Valderrama Jose                 Junin
+ 64    12149270    Inga Palomares Erika                    Tarapoto
+ 65    42145492    Fuentes Gamarra Hugo                    Chiclayo
+ 66    55666470    Epiquen Avila Enrique                   Nazca
+ 67    40372229    Trigueros Portugal Arturo Fausto        Pucallpa
+ 68    13492454    Leyva Landeo Nancy Sonia                Tingo Maria
+ 69    83020026    Diaz Moya Elia Annie                    Ica
+ 70    73185914    Mejia Rodriguez Ines Valentina          Huanuco
+ 71    91494505    Salamanca Cabrera Nestor Evert          Iquitos
+ 72    66724048    Gonzales Gamarra Giovana Karina         Cajamarca
+ 73    68189125    Rondon Cabrera Alexander Adolfo         Moquegua
+ 74    90540400    Martinez Cruz Evert Rony                Tarapoto
+ 75    46784697    Iparraguirre Perez Nicolas              Nazca
+ 76    97491722    Suarez Chang Gloria                     Huanuco
+ 77    65176543    Del Castillo Annie Avila                Juliaca
+ 78    40364347    Avila Martel Jaime Manuel               Piura
+ 79    56398193    Vizcarra Montero Jair                   Tingo Maria
+ 80    26967571    Yep Preciado Richard                    Moyobamaba
+ 81    51469018    Vizcarra Carbajal Ivan Fausto           Juliaca
+ 82    80974350    Prado Espinoza Milagros                 Nazca
+ 83    65342380    Florian Cuba Christian                  Cajamarca
+ 84    59792081    Henriquez Paredes Paul Rafael           Sullana
+ 85    36448815    Norabuena Moya Hector                   Tacna
+ 86    41428224    Minaya Berrocal Heli                    Sullana
+ 87    90165584    Casanova Zegarra Maritza                Nazca
+ 88    48441864    Gordillo Sanchez Ronald Juvenal         Huaraz
+ 89    51877849    Pomajambo Egusquiza Paul                Paita
+ 90    58824092    Serrano Iberos Francisco                Piura
+ 91    29071170    Zavaleta Coronado Felicita Eloisa       Trujillo
+ 92    59344282    Cabrera Toro Fanny                      Trujillo
+ 93    22702818    Sueldo Antezano Luis Jesus              Ica
+ 94    66248500    Espinoza Chang Shirley                  Puno
+ 95    55470532    Valderrama Berrocal Evert               Huanuco
+ 96    13047945    Castillo Narvaez Eloisa Silvana         Juliaca
+ 97    78213234    Rosemberg Rosemberg Jair Alonso         Junin
+ 98    34538548    Villa Toro Ronal Jaime                  Tarapoto
+ 99    48432568    Yep Valderrama Alvaro                   Chachapoyas
+100    71910185    Benites Raffo Fiorella Eleonor          Piura
+101    38236879    Wong Sueldo Richard                     Piura
+102    16448723    Romero Raffo Jenny Silvia               Chiclayo
+103    92461405    Gamarra Gavidia Fausto Emigdio          Sullana
+104    70242514    Zambrano Miranda Juvenal Melvin         Yurimaguas
+105    63636702    Correa Rojas Beatriz                    Pucallpa
+106    96952834    Rios Arroyo Raul Enrique                Tumbes
+107    87067411    Miranda Rodriguez Javier                Chachapoyas
+108    23353581    Del Pozo Jenny Maeireizo                Tarapoto
+109    97821181    Gavidia Toro Blanca                     Chachapoyas
+110    19257585    Valverde Mercado Nestor Gustavo         Chiclayo
+111    70318627    Bolanos Correa Maribel Freysa           Nazca
+112    12796163    Tsukazan Ortega Victor                  Cuzco
+113    79571251    Pinto Saavedra Raul                     Ica
+114    25122383    Vilca Espino Ines                       Piura
+115    80951690    Bolanos Santisteban Marina Guida        Junin
+116    69560327    Salazar Pairazaman Annie Eveling        Iquitos
+117    17683671    Urbina Moya Israel Oscar                Tacna
+118    76620776    Arana Calderon Milagros                 Tacna
+119    64068205    Martinez Aquino Yvonne                  Puno
+120    60728886    Pasquel Aguero Luis Melvin              Cajamarca
+121    65355578    Delgado Justino Teresa                  Chachapoyas
+122    43216567    Moreno Vergel Guillermo                 Puerto Maldonado
+123    89347327    Narvaez Perez Eveling                   Chiclayo
+124    64578004    Inga Leyva Rony Alexander               Tumbes
+125    36819622    Hernandez Contreras Melvin Alvaro       Puno
+126    29764816    Contreras Egusquiza Amaru Alonso        Chachapoyas
+127    98944329    Gordillo Shirakawa Ydali                Arequipa
+128    18085529    Solis Vilca Julian                      Moquegua
+129    58694253    Preciado Ramirez Estefania Carmela      Puno
+130    96288129    Barrios Sanchez Henrry Emilio           Chiclayo
+131    91028471    Benites Segura Victor                   Tarapoto
+132    78067173    Mercado Quiroga Christian               Ica
+133    59406428    Mercado Saavedra Oscar Fernando         Nazca
+134    13810210    Moreno Valderrama Javier Alfonso        Sullana
+135    83749577    Egusquiza Soma Jessica                  Sullana
+136    79361674    Lovera Aguirre Javier Paul              Tingo Maria
+137    70604038    Escalante Vizcarra Heli                 Arequipa
+138    38621303    Mejia Quio Jessica Johana               Tumbes
+139    15175784    Calixto Berrocal Alonso Luis            Juliaca
+140    59779912    Figueroa Chavez Fernando                Yurimaguas
+141    84794183    Soria Meza Henrry Javier                Junin
+142    78409335    Gavidia Pomajambo Patricia              Iquitos
+143    24510768    Zamora Zamora Williams                  Cuzco
+144    55987731    Zambrano Salamanca Williams             Tumbes
+145    12524697    Saona Pomajambo Diana Janet             Iquitos
+146    40446378    Vilca Contreras Surami Yvonne           Huaraz
+147    47403175    Avila Quiroga Edric                     Tingo Maria
+148    53423306    Quispe Berrocal Victoria Marina         Sullana
+149    97333062    Arca Fuentes Henrry Christian           Huaraz
+150    61135045    Zavaleta Benavente Alonso               Tumbes
+151    81525992    Pena Arca Delicia Giovana               Tacna
+152    58164669    Salas Rosemberg Silvana                 Iquitos
+153    80280986    Baca Lovera Luis Williams               Moyobamaba
+154    72435455    Loyola Zimic Wilmer                     Junin
+155    15547800    Alamo Aldave Williams                   Huancavelica

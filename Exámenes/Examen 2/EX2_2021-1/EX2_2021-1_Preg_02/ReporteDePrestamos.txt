@@ -1,0 +1,135 @@
+                                          BIBLIOTECA CENTRAL          Fecha: 26/06/2021
+CODIGO     NOMBRE                             COD. DE LIBRO   TITULO                                  OBSERVACION
+81082011   Arroyo Gordillo Maria Heli               BB35881   Una Navidad                             Supero el limite de prestamos 
+15129661   Wong Martel Madeleine                    PL70268   Lady -- Windermeres Fan                 No hay libro disponible       
+65071478   Mejia Diaz Blanca Milagros               QO90975   La Peau de chagrin                      Supero fecha limite           
+23636303   Piscoya Bravo Cesar Bruno                BB35881   Una Navidad                             Se le entrego el libro        
+45834351   Velasquez Huayanay Edgard Henry          FY82455   La guerra del fin del mundo             Supero fecha limite           
+37751890   Shirakawa Miranda Madeleine              UW23132   House of Pomegranates                   Supero el limite de prestamos 
+74295562   Bolanos Fuentes Jorge                    QV96140   El Duque en su territorio               No hay libro disponible       
+65071478   Mejia Diaz Blanca Milagros               LM05731   Le Chevalier de Maison - Rouge          Supero fecha limite           
+63602514   Auris Zimic Javier Daniel                QA53897   The Corsican Brothers                   Supero fecha limite           
+70385303   Velasquez Cano Fernando                  ZM20053   The Fencing Master                      Se le entrego el libro        
+37067112   Fernandez Ortega Elizabeth Elizabeth     FW74175   La Cousine Bette                        Se le entrego el libro        
+63602514   Auris Zimic Javier Daniel                JO84937   Historia de Mayta                       Supero fecha limite           
+63602514   Auris Zimic Javier Daniel                MG75057   La vuelta al mundo en 75 dias           No hay libro disponible       
+99666105   Justino Forzani Ericka Victoria          QV96140   El Duque en su territorio               No hay libro disponible       
+37500242   Vasquez Paz Alex Martin                  OT07742   La Fille aux yeux d-or                  Supero fecha limite           
+11750801   Shirakawa Ortega Angel                   ZQ38637   La casa verde                           No hay libro disponible       
+67517268   Gordillo Castro Ronal                    QE47018   El Manuscrito del Domino                Se le entrego el libro        
+69561370   Zevallos Prado Ricardo                   FY25192   La hermosa jardinera                    Se le entrego el libro        
+70848926   Minaya Vizcarra Juvenal                  TA81777   Musica para camaleones                  Se le entrego el libro        
+74228820   Patino Fuentes Milagros Mariella         IW10872   El Club de los explotadores             No hay libro disponible       
+92240876   Vega Garcia Janet Rebeca                 QO90975   La Peau de chagrin                      Supero fecha limite           
+87804471   Cerna Durand Martin                      PT00038   El nino perdido                         Supero fecha limite           
+26916299   Diaz Antezano Magali Silvana             KC34197   Las demoliciones de Paris               Supero fecha limite           
+37067112   Fernandez Ortega Elizabeth Elizabeth     UW23132   House of Pomegranates                   Supero fecha limite           
+50860318   Prado Vergel Carlos Julian               FY25192   La hermosa jardinera                    Supero fecha limite           
+81082011   Arroyo Gordillo Maria Heli               QA53897   The Corsican Brothers                   Supero el limite de prestamos 
+11750801   Shirakawa Ortega Angel                   BH96036   Los tesoros del Rajah                   Supero fecha limite           
+15129661   Wong Martel Madeleine                    FW74175   La Cousine Bette                        No hay libro disponible       
+61896832   Zavaleta Lopez Karin Virginia            UW23132   House of Pomegranates                   Se le entrego el libro        
+75876413   Quispe Berrocal Antonio Alvaro           FW74175   La Cousine Bette                        No hay libro disponible       
+68953100   Rivero Rett Rony Antonio                 QA53897   The Corsican Brothers                   Se le entrego el libro        
+96056368   Pasquel Quio Surami Janet                ZQ38637   La casa verde                           No hay libro disponible       
+26916299   Diaz Antezano Magali Silvana             TA81777   Musica para camaleones                  No hay libro disponible       
+11750801   Shirakawa Ortega Angel                   OT07742   La Fille aux yeux d-or                  Supero fecha limite           
+54393647   Norabuena Preciado Cinthia               TA81777   Musica para camaleones                  No hay libro disponible       
+76881195   Sanchez De La Cuba Natalia Estefania     SK15788   Le Chef-d oeuvre inconnu                Se le entrego el libro        
+92511513   Villa Yallico Tatiana Nancy              XN48844   The Countess de Charny                  Se le entrego el libro        
+59447743   Palomares Guevara Karina                 MG75057   La vuelta al mundo en 75 dias           No hay libro disponible       
+71654827   Saona Arias Alberto                      ZQ38637   La casa verde                           No hay libro disponible       
+72832218   Corrales Tsukazan Irma Lourdes           SV17719   Le Colonel Chabert                      No hay libro disponible       
+45834351   Velasquez Huayanay Edgard Henry          FW74175   La Cousine Bette                        No hay libro disponible       
+87804471   Cerna Durand Martin                      SK15788   Le Chef-d oeuvre inconnu                Supero fecha limite           
+61039260   Mejia De La Haza Francisco Edgar         PL70268   Lady -- Windermeres Fan                 No hay libro disponible       
+45834351   Velasquez Huayanay Edgard Henry          KW25071   La Resurrección de Rocambole            Supero fecha limite           
+79057834   Cerna Hijar Jose Rolando                 JO84937   Historia de Mayta                       Se le entrego el libro        
+37067112   Fernandez Ortega Elizabeth Elizabeth     KW25071   La Resurrección de Rocambole            Supero fecha limite           
+63602514   Auris Zimic Javier Daniel                BB35881   Una Navidad                             Supero fecha limite           
+79057834   Cerna Hijar Jose Rolando                 QE47018   El Manuscrito del Domino                No hay libro disponible       
+14268463   Raffo Chung Adria Gloria                 QO90975   La Peau de chagrin                      Supero fecha limite           
+87804471   Cerna Durand Martin                      NF53199   Suspense                                Supero fecha limite           
+45834351   Velasquez Huayanay Edgard Henry          OT07742   La Fille aux yeux d-or                  Supero fecha limite           
+80026981   Prado Falcon Edgar Richard               QA53897   The Corsican Brothers                   Se le entrego el libro        
+54393647   Norabuena Preciado Cinthia               FW74175   La Cousine Bette                        No hay libro disponible       
+49516360   Delgado Gonzales Guillermo Alfonso       OC73472   Le Cousin Pons                          Supero fecha limite           
+83265244   Pairazaman Alamo Moises Miguel           ZR63735   Elogio de la madrastra                  Supero fecha limite           
+99666105   Justino Forzani Ericka Victoria          PT00038   El nino perdido                         Se le entrego el libro        
+14268463   Raffo Chung Adria Gloria                 BH96036   Los tesoros del Rajah                   Supero fecha limite           
+99666105   Justino Forzani Ericka Victoria          OT07742   La Fille aux yeux d-or                  Supero fecha limite           
+80026981   Prado Falcon Edgar Richard               SK15788   Le Chef-d oeuvre inconnu                Supero fecha limite           
+67776822   Iberos Zambrano Gonzalo                  OT07742   La Fille aux yeux d-or                  Se le entrego el libro        
+54393647   Norabuena Preciado Cinthia               MG75057   La vuelta al mundo en 75 dias           No hay libro disponible       
+26916299   Diaz Antezano Magali Silvana             QE47018   El Manuscrito del Domino                No hay libro disponible       
+50860318   Prado Vergel Carlos Julian               TA81777   Musica para camaleones                  No hay libro disponible       
+11750801   Shirakawa Ortega Angel                   IW10872   El Club de los explotadores             No hay libro disponible       
+72832218   Corrales Tsukazan Irma Lourdes           QE47018   El Manuscrito del Domino                No hay libro disponible       
+15129661   Wong Martel Madeleine                    XQ03477   Les Ressources de Quinola               Supero fecha limite           
+96056368   Pasquel Quio Surami Janet                UW23132   House of Pomegranates                   No hay libro disponible       
+23636303   Piscoya Bravo Cesar Bruno                SK15788   Le Chef-d oeuvre inconnu                Supero fecha limite           
+15129661   Wong Martel Madeleine                    SV17719   Le Colonel Chabert                      No hay libro disponible       
+61212473   Castro Suarez Rolando                    IW10872   El Club de los explotadores             No hay libro disponible       
+68771233   Cortes Calixto Rosario                   QO90975   La Peau de chagrin                      Se le entrego el libro        
+45834351   Velasquez Huayanay Edgard Henry          QO90975   La Peau de chagrin                      Supero fecha limite           
+92511513   Villa Yallico Tatiana Nancy              BH96036   Los tesoros del Rajah                   Supero fecha limite           
+92240876   Vega Garcia Janet Rebeca                 BB35881   Una Navidad                             Supero fecha limite           
+81082011   Arroyo Gordillo Maria Heli               OT07742   La Fille aux yeux d-or                  Supero el limite de prestamos 
+81082011   Arroyo Gordillo Maria Heli               ZQ38637   La casa verde                           No hay libro disponible       
+49516360   Delgado Gonzales Guillermo Alfonso       FW74175   La Cousine Bette                        No hay libro disponible       
+14268463   Raffo Chung Adria Gloria                 PL70268   Lady -- Windermeres Fan                 No hay libro disponible       
+72832218   Corrales Tsukazan Irma Lourdes           OT07742   La Fille aux yeux d-or                  Supero fecha limite           
+37067112   Fernandez Ortega Elizabeth Elizabeth     NF53199   Suspense                                Supero fecha limite           
+92511513   Villa Yallico Tatiana Nancy              SA04133   An Ideal Husband                        No hay libro disponible       
+11750801   Shirakawa Ortega Angel                   XQ03477   Les Ressources de Quinola               Supero fecha limite           
+92240876   Vega Garcia Janet Rebeca                 XN48844   The Countess de Charny                  Supero fecha limite           
+37751890   Shirakawa Miranda Madeleine              SA04133   An Ideal Husband                        No hay libro disponible       
+66152145   Salas Aguero Daniel                      BB35881   Una Navidad                             Supero fecha limite           
+35030611   Inga Flores Cesar Adolfo                 UW23132   House of Pomegranates                   No hay libro disponible       
+72832218   Corrales Tsukazan Irma Lourdes           TA81777   Musica para camaleones                  No hay libro disponible       
+35030611   Inga Flores Cesar Adolfo                 VA35843   L-ecole des menages                     Supero fecha limite           
+17750908   Hernandez Barrios Emilio                 BH96036   Los tesoros del Rajah                   Supero el limite de prestamos 
+33958767   Aquino Toro Valentina Rocio              ZM20053   The Fencing Master                      No hay libro disponible       
+87804471   Cerna Durand Martin                      QA53897   The Corsican Brothers                   Supero fecha limite           
+15129661   Wong Martel Madeleine                    QV96140   El Duque en su territorio               No hay libro disponible       
+63602514   Auris Zimic Javier Daniel                NF53199   Suspense                                Supero fecha limite           
+92240876   Vega Garcia Janet Rebeca                 KC34197   Las demoliciones de Paris               Supero fecha limite           
+83265244   Pairazaman Alamo Moises Miguel           SA04133   An Ideal Husband                        No hay libro disponible       
+15547710   Maldonado Ramirez Silvana                QE47018   El Manuscrito del Domino                No hay libro disponible       
+92240876   Vega Garcia Janet Rebeca                 PT00038   El nino perdido                         Supero fecha limite           
+61039260   Mejia De La Haza Francisco Edgar         JO84937   Historia de Mayta                       Supero fecha limite           
+37500242   Vasquez Paz Alex Martin                  FY82455   La guerra del fin del mundo             Supero fecha limite           
+37751890   Shirakawa Miranda Madeleine              ZM20053   The Fencing Master                      No hay libro disponible       
+23636303   Piscoya Bravo Cesar Bruno                QV96140   El Duque en su territorio               No hay libro disponible       
+65391725   Vizcardo Mori Lucero Zkenia              KC34197   Las demoliciones de Paris               Se le entrego el libro        
+61039260   Mejia De La Haza Francisco Edgar         UW23132   House of Pomegranates                   No hay libro disponible       
+11750801   Shirakawa Ortega Angel                   UW23132   House of Pomegranates                   No hay libro disponible       
+56659269   Vega Saenz Alexander Richard             BH96036   Los tesoros del Rajah                   Se le entrego el libro        
+61212473   Castro Suarez Rolando                    PL70268   Lady -- Windermeres Fan                 No hay libro disponible       
+23636303   Piscoya Bravo Cesar Bruno                SV17719   Le Colonel Chabert                      No hay libro disponible       
+87804471   Cerna Durand Martin                      SA04133   An Ideal Husband                        No hay libro disponible       
+61039260   Mejia De La Haza Francisco Edgar         QV96140   El Duque en su territorio               No hay libro disponible       
+71486298   Mori Zavaleta Luz Lourdes                XN48844   The Countess de Charny                  Se le entrego el libro        
+65261145   Chavez Caro Yvonne                       FY82455   La guerra del fin del mundo             Se le entrego el libro        
+26916299   Diaz Antezano Magali Silvana             XN48844   The Countess de Charny                  Supero fecha limite           
+37751890   Shirakawa Miranda Madeleine              QO90975   La Peau de chagrin                      Supero el limite de prestamos 
+92240876   Vega Garcia Janet Rebeca                 ZM20053   The Fencing Master                      No hay libro disponible       
+66152145   Salas Aguero Daniel                      ZK87496   Beat the Devil                          Supero fecha limite           
+92511513   Villa Yallico Tatiana Nancy              XQ03477   Les Ressources de Quinola               Supero fecha limite           
+26916299   Diaz Antezano Magali Silvana             KW25071   La Resurrección de Rocambole            Supero fecha limite           
+37751890   Shirakawa Miranda Madeleine              KC34197   Las demoliciones de Paris               Supero el limite de prestamos 
+72832218   Corrales Tsukazan Irma Lourdes           FY25192   La hermosa jardinera                    Supero fecha limite           
+63602514   Auris Zimic Javier Daniel                BH96036   Los tesoros del Rajah                   Supero fecha limite           
+60400673   Florencio Lam Paul Ronald                BB35881   Una Navidad                             Se le entrego el libro        
+14268463   Raffo Chung Adria Gloria                 FY82455   La guerra del fin del mundo             No hay libro disponible       
+54393647   Norabuena Preciado Cinthia               BB35881   Una Navidad                             Supero fecha limite           
+99666105   Justino Forzani Ericka Victoria          XN48844   The Countess de Charny                  Supero fecha limite           
+15547710   Maldonado Ramirez Silvana                KC34197   Las demoliciones de Paris               Se le entrego el libro        
+17750908   Hernandez Barrios Emilio                 XW06135   The Nutcracker                          Supero el limite de prestamos 
+79057834   Cerna Hijar Jose Rolando                 QO90975   La Peau de chagrin                      Supero fecha limite           
+79057834   Cerna Hijar Jose Rolando                 NF53199   Suspense                                Supero fecha limite           
+72289920   Correa Aguirre Moises                    NF53199   Suspense                                Se le entrego el libro        
+61039260   Mejia De La Haza Francisco Edgar         IW10872   El Club de los explotadores             No hay libro disponible       
+33958767   Aquino Toro Valentina Rocio              SA04133   An Ideal Husband                        No hay libro disponible       
+64682847   Cortez Leiva Surami Silvia               SA04133   An Ideal Husband                        No hay libro disponible       
+57763613   Diaz Sedano Yvonne                       PL70268   Lady -- Windermeres Fan                 No hay libro disponible       

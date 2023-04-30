@@ -1,0 +1,33 @@
+                                          INSTITUTO ABC
+                                  Estado de cuenta de los alumnos
+=========================================================================================================
+    Codigo      Nombre                              Escala   Promedio  Créditos Aprobados  Total pagado
+ 1) 20120476    Henriquez Espino Beatriz             E1        13.33          27.00          25866.75
+ 2) 20110165    Landeo Sueldo Adolfo                 J1        12.00          31.00          56575.26
+ 3) 20114450    Vega Munoz Gonzalo                   I1        10.86          27.50          53001.56
+ 4) 20146553    Coronado Figueroa Johan              E2        13.94          41.00          35890.14
+ 5) 20170596    Portugal Benavente Johana Gloria     B1        11.29          33.00          19085.73
+ 6) 20160658    Arca Amezquita Edric Ronald          J1        12.73          42.50          61498.08
+ 7) 20102075    Moya Aranda Johnny                   E2        12.19          35.00          35213.75
+ 8) 20166965    Antezano Segura Teresa Delia         E1        13.31          47.50          34320.65
+ 9) 20119778    Morales Valverde Ines Martha         G1        11.21          26.00          43502.25
+10) 20003541    Cabrera Canales Guillermo Edric      I2        12.07          29.50          58795.11
+11) 20178528    Zarate Del_Pozo Humberto Antonio     H2        14.36          44.00          51207.20
+12) 20156702    Calixto Tomasiche Monica Doris       B1        14.69          52.00          16903.14
+13) 20150564    Auris Zimic Javier Daniel            J1        13.08          31.00          57450.96
+14) 20109738    Caro Polo Sandro                     A1        12.46          29.00          12240.88
+15) 20127352    Justino Cruz Williams                E1        13.42          35.00          27607.45
+16) 20081346    Hijar Pairazaman Jenny Delicia       J1        13.00          42.00          67701.06
+17) 20160119    Paredes Patino Christian             C1        13.42          31.00          18356.80
+18) 20080667    Lozada Yino Martha                   J1        13.25          35.00          55380.78
+19) 20091994    Ruiz Gordillo Carola Erika           H2        10.83          25.00          47173.50
+20) 20135395    Alamo Pairazaman Miguel Roberto      G1        11.18          25.00          32709.39
+21) 20097877    Coronel Chumpitaz Heli               J1        14.09          26.50          46364.22
+22) 20164217    Palomares Vera Henrry Humberto       C2        10.25          25.00          20750.30
+23) 20125258    Gavidia Mendoza Ronald Johnny        B1        11.62          28.00          14938.51
+24) 20179442    Florian Morales Ydali                C1        10.73          13.50          17742.07
+25) 20177613    Cortez Segura Carmela Ines           F1        12.27          22.00          26478.39
+26) 20083333    Laura Wong Melvin Henrry             B2        12.90          22.00          13073.19
+27) 20167828    Pasquel Quio Surami Janet            F1        13.79          38.50          35038.40
+---------------------------------------------------------------------------------------------------------
+Total recaudado: 984865.54

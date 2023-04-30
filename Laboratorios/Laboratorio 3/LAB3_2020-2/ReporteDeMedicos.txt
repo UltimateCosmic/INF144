@@ -1,0 +1,510 @@
+Médico: ZAMORA CABRERA CARMEN
+Código: 374313
+Especialidad: Endocrinologia
+Honorarios por cita: 445.12
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   2500.19
+Monto a solicitar al seguro:         32502.53
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   4844.33
+Monto a solicitar al seguro:         72664.95
+-----------------------------------------------------
+Total de ingresos:  112512.00
+=====================================================
+Médico: AMEZQUITA CONTRERAS HUMBERTO ALFONSO
+Código: 409939
+Especialidad: Dermatologia
+Honorarios por cita: 397.58
+-----------------------------------------------------
+Pacientes atendidos: 21
+-----------------------------------------------------
+Monto total recibido por pacientes:   4652.04
+Monto a solicitar al seguro:         93040.88
+-----------------------------------------------------
+Pacientes por atender: 22
+-----------------------------------------------------
+Monto total recibido por pacientes:   5793.93
+Monto a solicitar al seguro:        121672.60
+-----------------------------------------------------
+Total de ingresos:  225159.45
+=====================================================
+Médico: CABRERA MORI GLENDA
+Código: 407737
+Especialidad: Oncologia
+Honorarios por cita: 930.66
+-----------------------------------------------------
+Pacientes atendidos: 18
+-----------------------------------------------------
+Monto total recibido por pacientes:  10530.05
+Monto a solicitar al seguro:        179010.78
+-----------------------------------------------------
+Pacientes por atender: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   6786.47
+Monto a solicitar al seguro:        108583.45
+-----------------------------------------------------
+Total de ingresos:  304910.74
+=====================================================
+Médico: SHIRAKAWA FLORIAN JAIME JULIAN PEDRO JOSE
+Código: 994792
+Especialidad: Neumologia
+Honorarios por cita: 336.23
+-----------------------------------------------------
+Pacientes atendidos: 10
+-----------------------------------------------------
+Monto total recibido por pacientes:   2295.95
+Monto a solicitar al seguro:         20663.52
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   2706.28
+Monto a solicitar al seguro:         40594.22
+-----------------------------------------------------
+Total de ingresos:   66259.97
+=====================================================
+Médico: MERCADO CARO OFELIA CARMEN
+Código: 373026
+Especialidad: Neumologia
+Honorarios por cita: 340.19
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   3605.44
+Monto a solicitar al seguro:         46870.66
+-----------------------------------------------------
+Pacientes por atender: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   3499.09
+Monto a solicitar al seguro:         55985.48
+-----------------------------------------------------
+Total de ingresos:  109960.67
+=====================================================
+Médico: CABRERA MORENO DELIA ESTEFANIA MARIA
+Código: 693050
+Especialidad: Urologia
+Honorarios por cita: 380.28
+-----------------------------------------------------
+Pacientes atendidos: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   2459.16
+Monto a solicitar al seguro:         29509.88
+-----------------------------------------------------
+Pacientes por atender: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   2615.79
+Monto a solicitar al seguro:         31389.53
+-----------------------------------------------------
+Total de ingresos:   65974.36
+=====================================================
+Médico: DEL CASTILLO CHUNG FELICITA ERIKA
+Código: 438561
+Especialidad: Traumatologia
+Honorarios por cita: 365.90
+-----------------------------------------------------
+Pacientes atendidos: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   2208.90
+Monto a solicitar al seguro:         26506.82
+-----------------------------------------------------
+Pacientes por atender: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   2976.74
+Monto a solicitar al seguro:         47627.89
+-----------------------------------------------------
+Total de ingresos:   79320.35
+=====================================================
+Médico: SAENZ ARANDA WILMER
+Código: 728983
+Especialidad: Ginecologia
+Honorarios por cita: 140.24
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:    984.19
+Monto a solicitar al seguro:         12794.47
+-----------------------------------------------------
+Pacientes por atender: 20
+-----------------------------------------------------
+Monto total recibido por pacientes:   1347.36
+Monto a solicitar al seguro:         25599.76
+-----------------------------------------------------
+Total de ingresos:   40725.78
+=====================================================
+Médico: CHUNG ZUNIGA ZKENIA IRMA
+Código: 213914
+Especialidad: Traumatologia
+Honorarios por cita: 189.91
+-----------------------------------------------------
+Pacientes atendidos: 11
+-----------------------------------------------------
+Monto total recibido por pacientes:   1222.83
+Monto a solicitar al seguro:         12228.30
+-----------------------------------------------------
+Pacientes por atender: 24
+-----------------------------------------------------
+Monto total recibido por pacientes:   2487.97
+Monto a solicitar al seguro:         57223.38
+-----------------------------------------------------
+Total de ingresos:   73162.49
+=====================================================
+Médico: ZEGARRA CABELLO CINTHIA MILENA
+Código: 634819
+Especialidad: Ginecologia
+Honorarios por cita: 769.00
+-----------------------------------------------------
+Pacientes atendidos: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   7270.43
+Monto a solicitar al seguro:        116326.94
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   7223.76
+Monto a solicitar al seguro:        108356.33
+-----------------------------------------------------
+Total de ingresos:  239177.46
+=====================================================
+Médico: DEL CASTILLO MEJIA GUSTAVO ALONSO
+Código: 295593
+Especialidad: Geriatria
+Honorarios por cita: 523.66
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   4680.00
+Monto a solicitar al seguro:         60840.02
+-----------------------------------------------------
+Pacientes por atender: 18
+-----------------------------------------------------
+Monto total recibido por pacientes:   5260.58
+Monto a solicitar al seguro:         89429.92
+-----------------------------------------------------
+Total de ingresos:  160210.53
+=====================================================
+Médico: ORTIZ GUEVARA YLIANA FLOR
+Código: 666498
+Especialidad: Ginecologia
+Honorarios por cita: 819.90
+-----------------------------------------------------
+Pacientes atendidos: 11
+-----------------------------------------------------
+Monto total recibido por pacientes:   4977.94
+Monto a solicitar al seguro:         49779.41
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   8986.84
+Monto a solicitar al seguro:        134802.63
+-----------------------------------------------------
+Total de ingresos:  198546.82
+=====================================================
+Médico: ACUNA AYLLON BLANCA LUZ
+Código: 181543
+Especialidad: Oftalmologia
+Honorarios por cita: 263.61
+-----------------------------------------------------
+Pacientes atendidos: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   1958.96
+Monto a solicitar al seguro:         27425.51
+-----------------------------------------------------
+Pacientes por atender: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   2264.30
+Monto a solicitar al seguro:         29435.96
+-----------------------------------------------------
+Total de ingresos:   61084.74
+=====================================================
+Médico: COLLADO VILLA RAUL
+Código: 503822
+Especialidad: Cardiologia
+Honorarios por cita: 284.04
+-----------------------------------------------------
+Pacientes atendidos: 18
+-----------------------------------------------------
+Monto total recibido por pacientes:   2467.63
+Monto a solicitar al seguro:         41949.64
+-----------------------------------------------------
+Pacientes por atender: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   2139.22
+Monto a solicitar al seguro:         29949.06
+-----------------------------------------------------
+Total de ingresos:   76505.55
+=====================================================
+Médico: URBINA ANTEZANO VALENTINA PAULA
+Código: 605124
+Especialidad: Pediatria
+Honorarios por cita: 785.22
+-----------------------------------------------------
+Pacientes atendidos: 9
+-----------------------------------------------------
+Monto total recibido por pacientes:   4245.84
+Monto a solicitar al seguro:         33966.73
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   6898.79
+Monto a solicitar al seguro:        103481.79
+-----------------------------------------------------
+Total de ingresos:  148593.15
+=====================================================
+Médico: LANDEO ESTRADA MIGUEL ALEX ANTONIO PEDRO
+Código: 438575
+Especialidad: Cardiologia
+Honorarios por cita: 748.64
+-----------------------------------------------------
+Pacientes atendidos: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   7827.11
+Monto a solicitar al seguro:        125233.70
+-----------------------------------------------------
+Pacientes por atender: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   6335.59
+Monto a solicitar al seguro:         88698.27
+-----------------------------------------------------
+Total de ingresos:  228094.66
+=====================================================
+Médico: ARANDA MINAYA JANET CINTHIA
+Código: 189599
+Especialidad: Neumologia
+Honorarios por cita: 187.03
+-----------------------------------------------------
+Pacientes atendidos: 10
+-----------------------------------------------------
+Monto total recibido por pacientes:   1163.63
+Monto a solicitar al seguro:         10472.63
+-----------------------------------------------------
+Pacientes por atender: 20
+-----------------------------------------------------
+Monto total recibido por pacientes:   2088.73
+Monto a solicitar al seguro:         39685.91
+-----------------------------------------------------
+Total de ingresos:   53410.91
+=====================================================
+Médico: TABORI ARIAS ROSARIO
+Código: 759852
+Especialidad: Oftalmologia
+Honorarios por cita: 955.15
+-----------------------------------------------------
+Pacientes atendidos: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   7031.62
+Monto a solicitar al seguro:         98442.73
+-----------------------------------------------------
+Pacientes por atender: 12
+-----------------------------------------------------
+Monto total recibido por pacientes:   4756.17
+Monto a solicitar al seguro:         52317.86
+-----------------------------------------------------
+Total de ingresos:  162548.38
+=====================================================
+Médico: ZIMIC SALAS FRANCISCO
+Código: 188770
+Especialidad: Endocrinologia
+Honorarios por cita: 989.84
+-----------------------------------------------------
+Pacientes atendidos: 22
+-----------------------------------------------------
+Monto total recibido por pacientes:  13645.44
+Monto a solicitar al seguro:        286554.23
+-----------------------------------------------------
+Pacientes por atender: 18
+-----------------------------------------------------
+Monto total recibido por pacientes:   9349.73
+Monto a solicitar al seguro:        158945.44
+-----------------------------------------------------
+Total de ingresos:  468494.84
+=====================================================
+Médico: FLORENCIO POLO FIORELLA ERIKA
+Código: 931580
+Especialidad: Dermatologia
+Honorarios por cita: 843.53
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   6393.62
+Monto a solicitar al seguro:         83117.06
+-----------------------------------------------------
+Pacientes por atender: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   6158.70
+Monto a solicitar al seguro:         73904.36
+-----------------------------------------------------
+Total de ingresos:  169573.74
+=====================================================
+Médico: PEREZ ANTEZANO DAVID CARLOS
+Código: 732265
+Especialidad: Endocrinologia
+Honorarios por cita: 644.36
+-----------------------------------------------------
+Pacientes atendidos: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   4555.05
+Monto a solicitar al seguro:         59215.59
+-----------------------------------------------------
+Pacientes por atender: 16
+-----------------------------------------------------
+Monto total recibido por pacientes:   5801.43
+Monto a solicitar al seguro:         87021.46
+-----------------------------------------------------
+Total de ingresos:  156593.53
+=====================================================
+Médico: PORTUGAL RAFFO ALEXANDER
+Código: 717574
+Especialidad: Gastroenterologia
+Honorarios por cita: 173.48
+-----------------------------------------------------
+Pacientes atendidos: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   1026.95
+Monto a solicitar al seguro:         12323.39
+-----------------------------------------------------
+Pacientes por atender: 14
+-----------------------------------------------------
+Monto total recibido por pacientes:   1806.34
+Monto a solicitar al seguro:         23482.46
+-----------------------------------------------------
+Total de ingresos:   38639.15
+=====================================================
+Médico: MUNOZ VERGEL EDGAR
+Código: 366990
+Especialidad: Urologia
+Honorarios por cita: 476.20
+-----------------------------------------------------
+Pacientes atendidos: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   3513.55
+Monto a solicitar al seguro:         49189.65
+-----------------------------------------------------
+Pacientes por atender: 21
+-----------------------------------------------------
+Monto total recibido por pacientes:   5748.16
+Monto a solicitar al seguro:        114963.25
+-----------------------------------------------------
+Total de ingresos:  173414.61
+=====================================================
+Médico: SHIRAKAWA SAONA VICTORIA MILAGROS ISABEL
+Código: 748326
+Especialidad: Pediatria
+Honorarios por cita: 728.32
+-----------------------------------------------------
+Pacientes atendidos: 20
+-----------------------------------------------------
+Monto total recibido por pacientes:   7643.72
+Monto a solicitar al seguro:        145230.65
+-----------------------------------------------------
+Pacientes por atender: 9
+-----------------------------------------------------
+Monto total recibido por pacientes:   4329.21
+Monto a solicitar al seguro:         34633.66
+-----------------------------------------------------
+Total de ingresos:  191837.23
+=====================================================
+Médico: ZARATE URBINA DELIA
+Código: 658616
+Especialidad: Gastroenterologia
+Honorarios por cita: 881.79
+-----------------------------------------------------
+Pacientes atendidos: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   6425.78
+Monto a solicitar al seguro:         89960.92
+-----------------------------------------------------
+Pacientes por atender: 13
+-----------------------------------------------------
+Monto total recibido por pacientes:   6085.50
+Monto a solicitar al seguro:         73025.97
+-----------------------------------------------------
+Total de ingresos:  175498.17
+=====================================================
+Médico: JOLAY CHUMPITAZ WALTER
+Código: 595914
+Especialidad: Traumatologia
+Honorarios por cita: 615.50
+-----------------------------------------------------
+Pacientes atendidos: 18
+-----------------------------------------------------
+Monto total recibido por pacientes:   6712.58
+Monto a solicitar al seguro:        114113.88
+-----------------------------------------------------
+Pacientes por atender: 11
+-----------------------------------------------------
+Monto total recibido por pacientes:   4363.16
+Monto a solicitar al seguro:         43631.56
+-----------------------------------------------------
+Total de ingresos:  168821.19
+=====================================================
+Médico: MORI SUAREZ EDILBERTO JESUS TEOBALDO
+Código: 714431
+Especialidad: Endocrinologia
+Honorarios por cita: 562.08
+-----------------------------------------------------
+Pacientes atendidos: 19
+-----------------------------------------------------
+Monto total recibido por pacientes:   6228.18
+Monto a solicitar al seguro:        112107.31
+-----------------------------------------------------
+Pacientes por atender: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   4162.26
+Monto a solicitar al seguro:         66596.14
+-----------------------------------------------------
+Total de ingresos:  189093.89
+=====================================================
+Médico: CUBA POMAJAMBO VICTORIA FIORELLA
+Código: 863001
+Especialidad: Gastroenterologia
+Honorarios por cita: 284.94
+-----------------------------------------------------
+Pacientes atendidos: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   2934.08
+Monto a solicitar al seguro:         41077.18
+-----------------------------------------------------
+Pacientes por atender: 15
+-----------------------------------------------------
+Monto total recibido por pacientes:   1937.54
+Monto a solicitar al seguro:         27125.49
+-----------------------------------------------------
+Total de ingresos:   73074.29
+=====================================================
+Médico: AYALA ZEVALLOS JOHAN ENRIQUE
+Código: 139491
+Especialidad: Traumatologia
+Honorarios por cita: 720.64
+-----------------------------------------------------
+Pacientes atendidos: 22
+-----------------------------------------------------
+Monto total recibido por pacientes:   9728.57
+Monto a solicitar al seguro:        204299.93
+-----------------------------------------------------
+Pacientes por atender: 21
+-----------------------------------------------------
+Monto total recibido por pacientes:   8116.28
+Monto a solicitar al seguro:        162325.60
+-----------------------------------------------------
+Total de ingresos:  384470.38
+=====================================================
+Médico: CALIXTO TORRES MIGUEL
+Código: 576585
+Especialidad: Urologia
+Honorarios por cita: 463.81
+-----------------------------------------------------
+Pacientes atendidos: 17
+-----------------------------------------------------
+Monto total recibido por pacientes:   4507.95
+Monto a solicitar al seguro:         72127.28
+-----------------------------------------------------
+Pacientes por atender: 28
+-----------------------------------------------------
+Monto total recibido por pacientes:   6665.27
+Monto a solicitar al seguro:        179962.41
+-----------------------------------------------------
+Total de ingresos:  263262.92
+=====================================================

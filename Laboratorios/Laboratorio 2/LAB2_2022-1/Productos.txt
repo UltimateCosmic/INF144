@@ -1,0 +1,138 @@
+9058   "Gelatina dany limon 125gr"     5.38      0.0929
+4141     "Galletas suavicremas fresa 158gr"     13.85     0.0663
+5227   "Tortillas de harina del hogar 22p. 840gr"     19.07     0.0561
+6089   "Sal baja pacific bolsa 1kgr"     5.26      0.0284
+3044      "Tortillas de maiz 1kg"        14.93   0.0209
+2414     "Corazones de orejona pza"      10.79        0.0384
+3656   "Yoghurt p beber lactigurt coco 250g"        9.87     0.1168
+8332      "Polvo para hornear rexal 15kilos"   350.22     0.0671
+8600        "Vinagre blanco clemente jacques 3.8lt"      24.29   0.0000
+9911     "Croquetas pedigree beneful 10.1kg"     270.88      0.0865
+7780      "Salsa de chile habanero rojo 260gr"      14.93     0.1051
+4507      "Yoghurt p beber durazno light yop 250gr"      7.18        0.0259
+6337   "Empanizador contadina tradicional 283gr"      16.50     0.1158
+6624   "Palomitas pofets flamin hot 28gr"   6.88   0.0344
+7299        "Yoghurt lala light 240gr"        7.04     0.0990
+2925     "Yoghurt fresa con granola chelsy 240gr"        6.72      0.0220
+6261     "Vainilla molina 500ml"      19.26   0.0736
+1574   "Papaya"      20.99      0.1076
+8668     "Aguacate regional kg.1.000 gr"   26.65   0.1154
+7531      "Flan lala sabor vainilla 100gr"     5.88      0.1247
+7016        "Yoghurt biobalance nuez y fru.secos 250g"      8.83      0.1060
+2909     "Sopa maruchan camaron 71gr"   7.68   0.1127
+8802     "Leche lala semi deslactosada 1lt"      16.98   0.0670
+1312     "Media crema nestle 1lt"        40.80   0.1088
+1301     "Salsa casera enedelia 250gr"     14.46      0.0255
+6468     "Bebida de soya ades guanabana 946ml"        18.07      0.0926
+5515      "Jugo valle frut citrus 12 250ml"   50.49   0.0698
+5111   "Maiz pozolero extra 1kgr"      23.28     0.0000
+3267        "Cuitlacoche monteblanco 215gr"      32.28     0.0607
+3231   "Sandwich combinada 3 flores 150gr"   8.23     0.0433
+5662   "Sabritas caseras jalapeno 42gr"      9.66        0.1048
+2170        "Takis salsa brava 62gr"     7.65      0.0918
+2628      "Salsa habanera roja guacamaya 150gr"     10.25      0.0447
+2580     "Nescafe vainilla fresca 25gr"     6.88        0.0000
+6822      "Frijol amarillo kg"     39.82        0.0000
+1235        "Yoghurt fresa nestle 1kg"        23.27     0.1157
+4910      "Galletas marias cuetara 160gr"      6.10      0.0799
+3810      "Bebida naranja bebere 470ml"      6.72        0.0894
+9967   "Alubias antiqua 540gr"        17.85        0.0566
+2740     "Mango en rebanadas la morena 800gr"     24.11   0.0849
+7506      "Leche de coco calahua 500ml"     13.88      0.1042
+4608      "Miel de abeja virgen 1kg"     30.92   0.0418
+1418     "Mole surtido con especias 250gr"      25.11   0.1035
+7654      "Licuado lala ciruela pasa y nuez 240gr"   10.89     0.0711
+5537   "Condimento para birria cucu."        80.95   0.0849
+6749        "Agua niagara 500ml"        5.64     0.0496
+2598     "Elote dorado del monte 225gr"        5.92      0.0000
+6010      "Pinguinos marinela 40gr"     4.40      0.0336
+9714     "Pastilla pepto bismol"        3.15      0.0457
+9203      "Zapote"   28.39      0.0943
+3761        "Lechuga romana"      20.79   0.0923
+2365     "Chicharron botana con chamoy bolsa"      10.92   0.0900
+3126     "Sabritas original sal 490gr"     63.30   0.1101
+8463        "Yoghurt lala fresa 240gr"      6.68      0.0990
+9260     "Harina mazatl 5kg"      56.07     0.0000
+8881   "Churromais con limon 38gr"      5.62   0.0669
+7742      "Yoghurt natural light lala 1kg"      25.86   0.0554
+2422        "Chamyto big 114ml"        7.58      0.1039
+1855   "Tanjerina"      5.58      0.0735
+3724   "Sal de ajo mccormick 1.16kg"        50.88      0.0524
+8842      "Gelatina de leche vainilla danette 100gr"   5.13     0.0746
+1387     "Jarabe de mamey 1.25kg"        45.49     0.1085
+2200      "Papa en cubos del fuerte 12 380gr."        9.53     0.0226
+9886   "Naranja sin semilla"      10.24   0.0358
+4743   "Mango ecuatoriano"        16.50        0.0482
+1156   "Corazon de alcachofa san miguel"     17.36        0.0573
+1220        "Achiote la extra 1kg"     45.54        0.0000
+2225      "Limonada h2o 250ml"   8.58     0.0681
+9168     "Te de manzanilla nebo 24 1gr"     13.81   0.0803
+4314        "Galletas lors snacks marinela 75gr"      9.54        0.0358
+2514      "Ajo granulado de california kirkland 51."      65.12      0.0385
+4580        "Chiles chipotles la costena 380gr"      18.53      0.0000
+8277        "Frijoles refritos isadora 430gr"   13.28   0.0000
+6459      "Nesquik chocolate 200gr"        13.51        0.0000
+7394        "Te de manzanilla mccormick 100 1.2gr"        55.18   0.0000
+5628        "Yoghurt p beber fruggis fresa 150gr"      5.29        0.0000
+5658      "Chile pasilla mulato largo 100gr"        18.19   0.0231
+9275      "Leche yaqui deslactosada 1lt"        19.31     0.0465
+3138   "Pasta de fideos con pollo knorr 95gr"   8.56        0.0259
+4447     "Yoghurt con durazno lala 1kg"   25.15   0.0765
+3675        "Barra de hoguelas de arroz y trigo 24 gr"     4.83     0.0584
+9186      "Harina de trigo selecta 1kg"      12.05     0.0420
+2467      "Gelatina jello frambuesa 35gr"     9.47        0.1176
+7533      "Pan integral wonder mediano 475gr"        19.89      0.0373
+3555        "Pasta de letras knorr 95gr"        8.46     0.0977
+6919   "Alubia grande."     33.22        0.0493
+1130        "Tostadas horneadas del hogar 210gr"     11.34     0.0956
+9289        "Yoplait batido cereales durazno 1kg"        28.91      0.0000
+8981        "Achiote marin 130gr"   8.71     0.1185
+2837        "Oreo c trozos de chocolate 473ml"      25.95     0.0222
+8738   "Yoghurt p beber fresa danone 250gr"      6.46        0.0000
+7220     "Nescafe dolca 200gr"      42.01        0.0340
+2989   "Galletas surtido rico gamesa 1.42gr"     81.57   0.1271
+3732   "Chile puya de los altos 100gr"      10.85     0.0238
+7449      "Semilla de acelga mina"     15.07      0.0499
+1373      "Pure de tomate del monte 210gr"     5.80        0.0000
+2603     "Sopa maruchan pollo 12 64gr"     66.70     0.0491
+9025        "Caldo de pollo chef 3kg"      72.25     0.1148
+8706     "Harina de arroz dulce 454gr"     21.13      0.0668
+8195   "Zenzo bar fresa 66gr"   4.05      0.0000
+1214     "Sazonador special value 453g"   28.24        0.1019
+6083     "Tempra es3 12 65"     47.99        0.1282
+8758        "Donas bimbo 157.5gr 6 pza promocion"        10.77        0.0275
+3377     "Tortillas de harina del hogar 15pzas"      17.44        0.0409
+1836      "Te lipton natural 100 226gr"      71.68      0.1102
+6435      "Maiz pozolero teasdale 3.06kg"     50.55      0.0000
+2232      "Barra bran frut fresa avena 48gr"        7.76        0.1227
+5332        "Papatinas chilix 25gr"      4.71      0.0779
+8823      "Champiniones trocitos monteblanco 380gr"     18.99   0.0545
+1225   "Tampico citrus punch 3.78lts"   29.35   0.0289
+7556      "Galletas cremax de nieve vainilla 416gr"     26.76        0.0722
+5833        "Nectar good defensas 500ml"   11.36     0.0983
+2325     "Tostilocos preparados"        25.53     0.1070
+4701   "Chips 3 quesos barcel 170gr"      26.99     0.0628
+7706        "Pastilla xl3."     4.55     0.0292
+6610   "Corneto classic love"        19.45     0.0211
+8322        "Leche en polvo nido kinder 400gr"   39.84     0.0000
+9181     "Vuala cajeta 84gr"   5.25     0.0414
+2322      "Salsa de chile peron purhepecha 260gr"      14.47   0.0291
+3413     "Azucar zulka refinada 10 1kgr"     22.62        0.0573
+2916   "Mayonesa best foods 473ml"     30.78   0.0507
+9743        "Polvo para hornear rexal 500gr"     32.56        0.0761
+1785      "Pan p hamburguesa perla 600gr"   28.54        0.0513
+9969   "Ajo en polvo mccormick 595gr"      80.74     0.0430
+9566        "Maizena natural 750gr"        43.62      0.0000
+2937   "Conchas bimbo 120gr"   15.55        0.0649
+3573   "Salsa teriyaki kikkoman b.en grasa 296ml"        14.41      0.0000
+4010     "Jugo jumex surtido caja 24 355ml"      161.29     0.0000
+7746   "Gelatina sabor piña light la gloria 25gr"     8.51      0.0632
+6582   "Licuado de yacka 1lto"     50.81   0.0960
+5609      "Frijoles puercos lilis 500gr"      16.26        0.0955
+2914        "Chamoy rossy 4lts"        40.72     0.0401
+2842        "Jugo de uva minute maid 200ml"      4.39   0.0768
+7257      "Pan de muerto grande"     25.42   0.1202
+6281   "Pina colada p raspados 1.25kg"     40.44   0.0308
+7422      "Semillas de chile habaneromanzano.3gr"      15.31        0.0000
+1219   "Rebanadas bimbo 110gr"        8.73        0.0314
+5272   "Anis verde"   95.95        0.0967

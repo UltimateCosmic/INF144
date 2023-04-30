@@ -1,0 +1,57 @@
+                                                          Editorial TP
+========================================================================================================================
+PAGO A LOS AUTORES:
+------------------------------------------------------------------------------------------------------------------------
+CODIGO    NOMBRE                             TOTAL DE LIBROS VENDIDOS           REGALIAS
+------------------------------------------------------------------------------------------------------------------------
+BR-0384   Felicita Erika Del Castillo Chung              3914                   213.13
+MQ-7769   Edilberto Jesus Mori Suarez                    3848                   230.30
+YS-0040   David Carlos Perez Antezano                    3830                   195.74
+OC-7842   Delicia  Norabuena Zegarra                     3795                   235.54
+LA-0454   Janet Cinthia Aranda Minaya                    3775                   176.32
+WJ-9777   Rosario  Tabori Arias                          3507                   226.03
+FL-0367   Delia Estefania Cabrera Moreno                 3419                   192.32
+HZ-0118   Julio  Vilcara Jugo                            3408                   211.17
+VU-0612   Zkenia Irma Chung Zuniga                       3269                   223.06
+EA-0929   Delicia Rosa Arca Leiva                        3227                   190.08
+HM-0189   Francisco  Zimic Salas                         3153                   174.05
+IV-0934   Ofelia Carmen Mercado Caro                     3093                   152.02
+DS-4787   Walter  Jolay Chumpitaz                        3034                   244.30
+XH-0354   Javier Edgard Landa Cabrera                    3031                   239.83
+PW-9213   Delia  Zarate Urbina                           2919                   192.99
+WC-0049   Humberto Alberto Vargas Guevara                2897                   105.95
+AF-3687   Blanca Luz Acuna Ayllon                        2861                   199.02
+IX-6733   Johan Enrique Ayala Zevallos                   2827                   151.55
+FM-0063   Victoria Fiorella Cuba Pomajambo               2762                   248.81
+VB-0184   Surami Heli Preciado Pinto                     2742                   163.05
+FB-0158   Miguel  Calixto Torres                         2741                   137.84
+GF-0444   Yliana Flor Ortiz Guevara                      2724                   197.13
+YF-1592   Luz Sofia Jauregui Bravo                       2620                   199.17
+WH-0233   Cinthia Milena Zegarra Cabello                 2562                   140.19
+IA-0562   Humberto Alfonso Amezquita Contreras           2540                   109.21
+IK-3556   Valentina Paula Urbina Antezano                2500                   103.48
+BZ-0138   Gustavo Alonso Del Castillo Mejia              2475                   186.81
+NL-0227   Teresa Teresa Martel Mercado                   2468                   123.29
+SS-8708   Wilmer  Saenz Aranda                           2455                   110.41
+TC-0557   Jaime Julian Shirakawa Florian                 2439                   178.29
+KD-4655   Glenda  Cabrera Mori                           2435                   207.43
+YR-8262   Emilio Emigdio Gonzales Aguirre                2421                   100.79
+WS-0789   Victoria Milagros Shirakawa Saona              2320                   156.94
+LV-2063   Milena Cinthia Zarate Acuna                    2310                   111.81
+NG-9768   Marina Natalia Garcia Inga                     2310                   125.19
+UR-1509   Raul  Collado Villa                            2292                   158.28
+RI-0786   Rosario Maribel Yep Zavaleta                   2251                   163.16
+WI-0907   Fiorella Erika Florencio Polo                  2188                   135.45
+YZ-0611   Edgar  Munoz Vergel                            1972                    78.61
+AC-0992   Ofelia Beatriz Montero Bolanos                 1846                   128.17
+WC-0798   Giovana  Mejia Zegarra                         1830                   115.06
+KX-5448   Carmen  Zamora Cabrera                         1769                   163.10
+FL-9313   Alexander  Portugal Raffo                      1619                    87.41
+NF-0082   Alfonso Waldemar Cabello Lam                   1612                    97.83
+GW-4596   Victor Edgar Garcia Astete                     1598                    53.42
+IW-0279   Cesar Jaime Rodriguez Serrano                  1572                    69.56
+VC-4115   Miguel Alex Landeo Estrada                     1113                   125.35
+ZF-0269   Delicia  Arca Aquino                            827                    79.63
+------------------------------------------------------------------------------------------------------------------------
+Total a pagar por regalias:  7608.29
+========================================================================================================================

@@ -1,0 +1,48 @@
+BZ-0138    Gustavo Alonso Del Castillo Mejia                 0         0.00
+SS-8708    Wilmer  Saenz Aranda                              0         0.00
+FB-0158    Miguel  Calixto Torres                            0         0.00
+PW-9213    Delia  Zarate Urbina                              0         0.00
+KX-5448    Carmen  Zamora Cabrera                            0         0.00
+FL-0367    Delia Estefania Cabrera Moreno                    0         0.00
+WI-0907    Fiorella Erika Florencio Polo                     0         0.00
+VU-0612    Zkenia Irma Chung Zuniga                          0         0.00
+DS-4787    Walter  Jolay Chumpitaz                           0         0.00
+WJ-9777    Rosario  Tabori Arias                             0         0.00
+IW-0279    Cesar Jaime Rodriguez Serrano                     0         0.00
+HZ-0118    Julio  Vilcara Jugo                               0         0.00
+IA-0562    Humberto Alfonso Amezquita Contreras              0         0.00
+TC-0557    Jaime Julian Shirakawa Florian                    0         0.00
+UR-1509    Raul  Collado Villa                               0         0.00
+YS-0040    David Carlos Perez Antezano                       0         0.00
+WH-0233    Cinthia Milena Zegarra Cabello                    0         0.00
+OC-7842    Delicia  Norabuena Zegarra                        0         0.00
+AF-3687    Blanca Luz Acuna Ayllon                           0         0.00
+IK-3556    Valentina Paula Urbina Antezano                   0         0.00
+YR-8262    Emilio Emigdio Gonzales Aguirre                   0         0.00
+MQ-7769    Edilberto Jesus Mori Suarez                       0         0.00
+WC-0049    Humberto Alberto Vargas Guevara                   0         0.00
+LA-0454    Janet Cinthia Aranda Minaya                       0         0.00
+YF-1592    Luz Sofia Jauregui Bravo                          0         0.00
+VB-0184    Surami Heli Preciado Pinto                        0         0.00
+NF-0082    Alfonso Waldemar Cabello Lam                      0         0.00
+GW-4596    Victor Edgar Garcia Astete                        0         0.00
+IV-0934    Ofelia Carmen Mercado Caro                        0         0.00
+ZF-0269    Delicia  Arca Aquino                              0         0.00
+WC-0798    Giovana  Mejia Zegarra                            0         0.00
+LV-2063    Milena Cinthia Zarate Acuna                       0         0.00
+HM-0189    Francisco  Zimic Salas                            0         0.00
+VC-4115    Miguel Alex Landeo Estrada                        0         0.00
+EA-0929    Delicia Rosa Arca Leiva                           0         0.00
+GF-0444    Yliana Flor Ortiz Guevara                         0         0.00
+IX-6733    Johan Enrique Ayala Zevallos                      0         0.00
+BR-0384    Felicita Erika Del Castillo Chung                 0         0.00
+WS-0789    Victoria Milagros Shirakawa Saona                 0         0.00
+NL-0227    Teresa Teresa Martel Mercado                      0         0.00
+NG-9768    Marina Natalia Garcia Inga                        0         0.00
+RI-0786    Rosario Maribel Yep Zavaleta                      0         0.00
+YZ-0611    Edgar  Munoz Vergel                               0         0.00
+AC-0992    Ofelia Beatriz Montero Bolanos                    0         0.00
+KD-4655    Glenda  Cabrera Mori                              0         0.00
+XH-0354    Javier Edgard Landa Cabrera                       0         0.00
+FM-0063    Victoria Fiorella Cuba Pomajambo                  0         0.00
+FL-9313    Alexander  Portugal Raffo                         0         0.00

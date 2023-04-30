@@ -1,0 +1,4 @@
+A   Cliente_muy_frecuente    0.15
+B    Cliente_frecuente    0.083
+C      Cliente_ocasional       0.027
+D    Nuevo_cliente   0.0

@@ -1,0 +1,37 @@
+LISTADO DE ALUMNOS
+
+CODIGO        NOMBRE                             FECHA DE NACIMIENTO            EDAD      LONGITUD DEL NOMBRE
+================================================================================================================
+0001275   Lozada Yino,Martha                     03, de diciembre del 2016       5          16 caracteres
+0000938   Vasquez Paz,Alex Martin                04, de julio del 2007          14          20 caracteres
+0008404   Mejia Haza,Francisco Edgar             13, de octuvbre del 2002       19          23 caracteres
+0088095   Camacho Aguero,Elia Rosa               13, de julio del 2007          14          21 caracteres
+0004820   Salas Aguero,Daniel                    12, de marzo del 2016           6          17 caracteres
+0000479   Prado Vergel,Carlos Julian             21, de julio del 2017           4          23 caracteres
+0006895   Auris Zimic,Javier Daniel              08, de octuvbre del 2015        6          22 caracteres
+0008045   Arca Amezquita,Edric Ronald            13, de febrero del 2001        21          24 caracteres
+0003777   Pasquel Quio,Surami Janet              13, de agosto del 2000         21          22 caracteres
+0028009   Landa Piscoya,Christian                21, de abril del 2010          11          21 caracteres
+0001902   Morales Valverde,Ines Martha           15, de julio del 2009          12          25 caracteres
+0077382   Justino Cruz,Williams                  25, de diciembre del 2008      13          19 caracteres
+0000583   Norabuena Preciado,Cinthia             26, de marzo del 2001          21          24 caracteres
+0072453   Cabrera Canales,Guillermo Edric        13, de noviembre del 2008      13          28 caracteres
+0000411   Fernandez Ortega,Elizabeth Elizabeth   26, de febrero del 2011        11          33 caracteres
+0002008   Aquino Toro,Valentina Rocio            07, de noviembre del 2003      18          24 caracteres
+0067563   Henriquez Espino,Beatriz               16, de julio del 2012           9          22 caracteres
+0000143   Velasquez Huayanay,Edgard Henry        24, de febrero del 2009        13          28 caracteres
+0000513   Justino Forzani,Ericka Victoria        21, de agosto del 2007         14          28 caracteres
+0009630   Palomares Vera,Henrry Humberto         06, de junio del 2004          17          27 caracteres
+0027477   Portugal Benavente,Johana Gloria       30, de diciembre del 2017       4          29 caracteres
+0028171   Caro Polo,Sandro                       26, de diciembre del 2003      18          14 caracteres
+0051086   Laura Wong,Melvin Henrry               16, de junio del 2013           8          21 caracteres
+0000757   Pairazaman Amezquita,Moises Miguel     08, de noviembre del 2011      10          31 caracteres
+0007398   Paredes Patino,Christian               25, de enero del 2005          17          22 caracteres
+0008460   Landeo Sueldo,Adolfo                   11, de abril del 2008          14          18 caracteres
+0000793   Villa Yallico,Tatiana Nancy            26, de julio del 2009          12          24 caracteres
+0000610   Corrales Tsukazan,Irma Lourdes         13, de febrero del 2005        17          27 caracteres
+0000450   Inga Flores,Cesar Adolfo               25, de marzo del 2019           3          21 caracteres
+0000780   Cerna Durand,Martin                    20, de enero del 2005          17          17 caracteres
+0099031   Coronel Chumpitaz,Heli                 27, de mayo del 2000           21          20 caracteres
+----------------------------------------------------------------------------------------------------------------
+Cantidad total de alumnos: 31

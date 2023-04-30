@@ -1,0 +1,34 @@
+111263    3.75    Algoritmia
+303270    4    Procesos De Manufactura
+303289    4.25    Turbomaquinas Y Maquinas De Desplazamiento Positivo
+257241    3    Metodos Numericos En Ingenieria
+303206    4.5    Termodinamica 1
+111246    3.75    Bases De Datos
+299220    4.5    Tecnicas Computacionales En Fisica
+111248    5    Sistemas De Informacion 1
+257218    4.5    Ecuaciones Diferenciales Aplicadas
+299247    4.5    Optica Y Fotonica
+299227    4.5    Particulas Elementales
+303209    5.25    Mecanica De Fluidos
+299239    4.5    Estado Solido
+299229    6    Trabajo De Investigacion
+111245    4    Ingenieria De Software
+303523    1    Laboratorio De Introduccion Al Diseno De Maquinas
+111250    5    Sistemas De Informacion 2
+299248    4.5    Mecanica Clasica 1
+111282    5    Lenguaje De Programacion 2
+257781    3    Matematica Computacional Para Control
+303522    4.5    Introduccion Al Diseno De Maquinas
+299218    4.5    Fisica Moderna
+303286    4.25    Transferencia De Calor
+299230    3    Teoria De Campos Electromagneticos
+111220    5    Fundamentos De Programacion
+111239    4    Sistemas Operativos
+257219    4.5    Herramientas Matematicas
+299203    4.5    Fisica 4
+111281    5    Lenguaje De Programacion 1
+299219    4.5    Sistemas Electromagneticos Y Optoelectronicos
+303373    3    Metrologia
+111238    4    Redes De Computadoras
+299208    4.5    Temas De Fisica General
+303269    1    Laboratorio De Termodinamica Y Fluidos

@@ -1,0 +1,113 @@
+35030611   Inga Flores Cesar Adolfo                     2
+              1) XW06135     20210626
+              2) LM05731     20210703
+83265244   Pairazaman Alamo Moises Miguel               3
+              1) BH96036     20210705
+              2) FY25192     20210712
+              3) BB35881     20210704
+49516360   Delgado Gonzales Guillermo Alfonso           4
+              1) KC34197     20210624
+              2) VA35843     20210629
+              3) JO84937     20210626
+              4) ZR63735     20210625
+17750908   Hernandez Barrios Emilio                     7
+              1) SK15788     20210627
+              2) QA53897     20210708
+              3) PT00038     20210627
+              4) OT07742     20210702
+              5) LM05731     20210628
+              6) KC34197     20210630
+              7) BB35881     20210628
+66152145   Salas Aguero Daniel                          1
+              1) XQ03477     20210704
+65071478   Mejia Diaz Blanca Milagros                   5
+              1) XN48844     20210702
+              2) OC73472     20210626
+              3) QA53897     20210701
+              4) KC34197     20210625
+              5) XW06135     20210710
+37500242   Vasquez Paz Alex Martin                      4
+              1) PT00038     20210709
+              2) BH96036     20210630
+              3) LM05731     20210625
+              4) KW25071     20210710
+96056368   Pasquel Quio Surami Janet                    1
+              1) PT00038     20210628
+33958767   Aquino Toro Valentina Rocio                  1
+              1) LM05731     20210701
+50860318   Prado Vergel Carlos Julian                   3
+              1) PT00038     20210625
+              2) BB35881     20210711
+              3) ZK87496     20210706
+61212473   Castro Suarez Rolando                        4
+              1) KC34197     20210704
+              2) LM05731     20210708
+              3) XN48844     20210625
+              4) NF53199     20210628
+54393647   Norabuena Preciado Cinthia                   3
+              1) QO90975     20210627
+              2) QA53897     20210701
+              3) ZR63735     20210625
+14268463   Raffo Chung Adria Gloria                     5
+              1) JO84937     20210711
+              2) KC34197     20210624
+              3) NF53199     20210707
+              4) FW74175     20210709
+              5) XQ03477     20210705
+81082011   Arroyo Gordillo Maria Heli                   7
+              1) QA53897     20210702
+              2) ZR63735     20210705
+              3) LM05731     20210701
+              4) QO90975     20210625
+              5) PT00038     20210702
+              6) FY82455     20210707
+              7) OT07742     20210624
+37751890   Shirakawa Miranda Madeleine                  7
+              1) ZK87496     20210627
+              2) VA35843     20210708
+              3) PT00038     20210706
+              4) ZR63735     20210626
+              5) XQ03477     20210708
+              6) SK15788     20210702
+              7) QA53897     20210704
+72832218   Corrales Tsukazan Irma Lourdes               2
+              1) LM05731     20210702
+              2) QO90975     20210626
+61039260   Mejia De La Haza Francisco Edgar             1
+              1) KW25071     20210628
+87804471   Cerna Durand Martin                          2
+              1) JO84937     20210703
+              2) PT00038     20210710
+26916299   Diaz Antezano Magali Silvana                 5
+              1) OT07742     20210707
+              2) FY25192     20210630
+              3) PT00038     20210704
+              4) BH96036     20210708
+              5) KC34197     20210701
+15129661   Wong Martel Madeleine                        6
+              1) KC34197     20210711
+              2) JO84937     20210702
+              3) OT07742     20210630
+              4) ZR63735     20210626
+              5) QE47018     20210625
+              6) BH96036     20210702
+63602514   Auris Zimic Javier Daniel                    1
+              1) ZK87496     20210708
+92240876   Vega Garcia Janet Rebeca                     6
+              1) ZR63735     20210703
+              2) PT00038     20210629
+              3) VA35843     20210703
+              4) QO90975     20210629
+              5) KC34197     20210709
+              6) JO84937     20210628
+45834351   Velasquez Huayanay Edgard Henry              3
+              1) ZM20053     20210709
+              2) QA53897     20210625
+              3) JO84937     20210707
+11750801   Shirakawa Ortega Angel                       6
+              1) LM05731     20210704
+              2) KC34197     20210707
+              3) QA53897     20210708
+              4) UW23132     20210628
+              5) TA81777     20210624
+              6) XN48844     20210626

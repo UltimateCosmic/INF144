@@ -1,0 +1,414 @@
+                                    INSTITUCION EDUCATIVA LIMA
+                                       CONSOLIDADO DE CURSOS
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT831     ESTADO SOLIDO                    5.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0119    Perez F. Richard S. M.        08
+      2) CIV-0667    Valverde F. Irma Y.           16
+      3) MIN-0441    Fernandez O. Elizabeth E.     15
+      4) IND-0708    Pairazaman A. Moises M. J.    05
+      5) MAT-8980    Velasquez H. Edgard H.        05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT834     ELECTROMAGNETISMO 2              4.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) IND-0844    Justino F. Ericka V. M.       05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC151     ESTETICA Y COMUNICACION          3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) INF-0201    Hernandez B. Emilio           08
+      2) MIN-6665    Delgado G. Guillermo A. L.    08
+      3) IND-0708    Pairazaman A. Moises M. J.    19
+      4) MIN-0119    Perez F. Richard S. M.        08
+      5) MEC-0735    Arroyo G. Maria H.            17
+      6) CIV-5236    Corrales T. Irma L.           05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT359     HISTORIA DEL PERIODISMO          2.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0695    Vasquez P. Alex M.            17
+      2) MIN-7828    Raffo A. Surami A. M.         05
+      3) MEC-0735    Arroyo G. Maria H.            19
+      4) IND-0844    Justino F. Ericka V. M.       20
+      5) IND-7877    Romero P. Gloria T.           07
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT987     PRACTICA SUPERVISADA PRE-PROFESIONAL 3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MAT-0461    Prado V. Carlos J.            10
+      2) MIN-0743    Mejia D. Blanca M.            19
+      3) IND-0844    Justino F. Ericka V. M.       05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF866     SIMULACION DE SISTEMAS           3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MEC-0735    Arroyo G. Maria H.            13
+      2) MIN-6665    Delgado G. Guillermo A. L.    11
+      3) MAT-3172    Villa Y. Tatiana N.           13
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV915     METODOS Y TECNICAS DE INVESTIGACION 1 4.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MEC-0051    Cerna D. Martin               17
+      2) MIN-0658    Chung L. Alvaro               09
+      3) MEC-0735    Arroyo G. Maria H.            20
+      4) CIV-7352    Forzani C. Alonso             12
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV984     DRAMATURGIA 1                    3.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) INF-0158    Prado F. Edgar R.             08
+      2) INF-9778    Chumpitaz I. Ronal            15
+      3) IND-0708    Pairazaman A. Moises M. J.    08
+      4) MAT-3541    Mendoza E. Rosario            18
+      5) MIN-6665    Delgado G. Guillermo A. L.    15
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC841     FUENTES DOCUMENTALES             2.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) IND-0315    Wong M. Madeleine             15
+      2) CIV-7352    Forzani C. Alonso             07
+      3) INF-0158    Prado F. Edgar R.             19
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV394     ELECTIVO PARA FISICA 4           2.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0141    Diaz A. Magali S. S.          13
+      2) INF-0158    Prado F. Edgar R.             10
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV485     PUBLICIDAD INTERACTIVA           2.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0119    Perez F. Richard S. M.        07
+      2) MIN-7828    Raffo A. Surami A. M.         20
+      3) CIV-0667    Valverde F. Irma Y.           05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV834     ELEMENTOS DE MAQUINAS 2          5.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-7828    Raffo A. Surami A. M.         07
+      2) INF-0158    Prado F. Edgar R.             07
+      3) MIN-0743    Mejia D. Blanca M.            05
+      4) MAT-3541    Mendoza E. Rosario            06
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF842     METROLOGIA Y TECNICAS DE MEDICION 3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-3723    Cerna H. Jose R.              17
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT415     HISTORIA DE LA FORMACION DE OCCIDENTE 3.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MEC-0735    Arroyo G. Maria H.            18
+      2) MAT-3541    Mendoza E. Rosario            07
+      3) MIN-0743    Mejia D. Blanca M.            14
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC305     CREATIVIDAD E INNOVACION         5.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) INF-9778    Chumpitaz I. Ronal            13
+      2) CIV-5236    Corrales T. Irma L.           11
+      3) CIV-0813    Inga F. Cesar A.              09
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV315     LENGUAJE DE LOS MEDIOS           3.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) IND-0315    Wong M. Madeleine             11
+      2) CIV-0667    Valverde F. Irma Y.           14
+      3) CIV-0813    Inga F. Cesar A.              05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT358     ALGORITMOS                       3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MAT-0622    Shirakawa M. Madeleine        07
+      2) IND-0844    Justino F. Ericka V. M.       11
+      3) INF-3300    Raffo C. Adria G.             10
+      4) MAT-3541    Mendoza E. Rosario            12
+      5) MIN-0141    Diaz A. Magali S. S.          09
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC451     LEGISLACION EN COMUNICACIONES    2.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) CIV-5236    Corrales T. Irma L.           05
+      2) MAT-0622    Shirakawa M. Madeleine        14
+      3) MIN-0119    Perez F. Richard S. M.        19
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF349     FUENTES Y ESTRUCTURA DEL ESTADO  2.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MAT-3541    Mendoza E. Rosario            20
+      2) CIV-0391    Shirakawa O. Angel            16
+      3) MIN-0658    Chung L. Alvaro               05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC173     TEATRO MUSICAL                   2.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MAT-2529    Castro S. Rolando             17
+      2) CIV-0391    Shirakawa O. Angel            13
+      3) MIN-0441    Fernandez O. Elizabeth E.     11
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV987     INNOVACION Y DESARROLLO          4.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) INF-0158    Prado F. Edgar R.             16
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT387     ACTUACION 1                      5.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0441    Fernandez O. Elizabeth E.     09
+      2) MAT-2529    Castro S. Rolando             10
+      3) INF-9778    Chumpitaz I. Ronal            07
+      4) MIN-0141    Diaz A. Magali S. S.          17
+      5) MAT-0622    Shirakawa M. Madeleine        10
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC915     TOPICOS DE INSTRUMENTACION Y CONTROL 2.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0441    Fernandez O. Elizabeth E.     14
+      2) MAT-3541    Mendoza E. Rosario            07
+      3) IND-0708    Pairazaman A. Moises M. J.    16
+      4) CIV-0391    Shirakawa O. Angel            18
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF877     METODOLOGIA DE LA INVESTIGACION HISTORICA 1 3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0695    Vasquez P. Alex M.            15
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV112     TERMOFLUIDOS                     4.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0441    Fernandez O. Elizabeth E.     17
+      2) CIV-0813    Inga F. Cesar A.              06
+      3) MIN-7828    Raffo A. Surami A. M.         16
+      4) CIV-7352    Forzani C. Alonso             20
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC317     MAQUILLAJE Y CARACTERIZACION     4.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) CIV-5236    Corrales T. Irma L.           08
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT175     ELECTIVO PARA FISICA 5           3.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0141    Diaz A. Magali S. S.          08
+      2) CIV-0667    Valverde F. Irma Y.           05
+      3) IND-0844    Justino F. Ericka V. M.       11
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC882     SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS 4.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0695    Vasquez P. Alex M.            12
+      2) MIN-3723    Cerna H. Jose R.              16
+      3) CIV-7352    Forzani C. Alonso             06
+      4) MAT-8092    Piscoya B. Cesar B. F.        10
+      5) MAT-0622    Shirakawa M. Madeleine        09
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF831     INGENIERIA DE MATERIALES         3.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0119    Perez F. Richard S. M.        20
+      2) CIV-0667    Valverde F. Irma Y.           17
+      3) IND-0844    Justino F. Ericka V. M.       12
+      4) MIN-0743    Mejia D. Blanca M.            05
+      5) MEC-0051    Cerna D. Martin               16
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF986     TECNOLOGIAS DE AUTOMATIZACION    3.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0695    Vasquez P. Alex M.            12
+      2) MEC-0036    Norabuena P. Cinthia          17
+      3) MAT-2529    Castro S. Rolando             14
+      4) INF-3300    Raffo C. Adria G.             14
+      5) IND-7877    Romero P. Gloria T.           09
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV984     DRAMATURGIA 1                    3.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) CIV-0596    Cerna P. Fiorella M. S.       19
+      2) MIN-6665    Delgado G. Guillermo A. L.    05
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV889     ESTADISTICA PARA INGENIERIA      4.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0743    Mejia D. Blanca M.            18
+      2) CIV-5236    Corrales T. Irma L.           11
+      3) MIN-0119    Perez F. Richard S. M.        05
+      4) IND-7877    Romero P. Gloria T.           11
+      5) MIN-6665    Delgado G. Guillermo A. L.    15
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT882     SEMINARIO DE TESIS 2             5.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0743    Mejia D. Blanca M.            17
+      2) CIV-5236    Corrales T. Irma L.           05
+      3) INF-3300    Raffo C. Adria G.             12
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     INF964     PROCESAMIENTO DE SENALES E IMAGENES DIGITALES 4.00
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-3723    Cerna H. Jose R.              17
+      2) INF-0158    Prado F. Edgar R.             11
+      3) MIN-0141    Diaz A. Magali S. S.          20
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV571     ECONOMIA PARA PERIODISTAS        5.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0695    Vasquez P. Alex M.            12
+      2) CIV-9738    Reyes T. Edward               07
+      3) IND-0844    Justino F. Ericka V. M.       06
+      4) MIN-3723    Cerna H. Jose R.              12
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     CIV986     LENGUA Y COMPOSICION             2.25
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) CIV-9738    Reyes T. Edward               19
+      2) CIV-0391    Shirakawa O. Angel            18
+      3) IND-0708    Pairazaman A. Moises M. J.    20
+      4) INF-0158    Prado F. Edgar R.             15
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT877     TECNOLOGIA DE LA INFORMACION     5.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) IND-0844    Justino F. Ericka V. M.       12
+      2) INF-9778    Chumpitaz I. Ronal            19
+      3) MAT-0622    Shirakawa M. Madeleine        05
+      4) CIV-0667    Valverde F. Irma Y.           06
+      5) MEC-0735    Arroyo G. Maria H.            11
+      6) MIN-0141    Diaz A. Magali S. S.          11
+      7) MIN-0119    Perez F. Richard S. M.        13
+      8) MAT-8092    Piscoya B. Cesar B. F.        09
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MEC982     RESISTENCIA DE MATERIALES 1      5.50
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) IND-0708    Pairazaman A. Moises M. J.    08
+========================================================================================================================
+  1) CODIGO     NOMBRE                         CREDITOS
+     MAT866     HISTORIA CULTURAL Y DE MENTALIDADES 2.75
+------------------------------------------------------------------------------------------------------------------------
+     ALUMNOS MATRICULADOS
+         CODIGO      NOMBRE                       NOTA
+      1) MIN-0743    Mejia D. Blanca M.            10
+      2) CIV-7352    Forzani C. Alonso             15
+      3) CIV-0667    Valverde F. Irma Y.           11
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                          RESUMEN DE LOS CURSOS DICTADOS ESTE SEMESTRE
+     CODIGO    NOMBRE                                           CREDITOS     APROBADOS     DESAPROBADOS    PROMEDIO
+  1) MEC305    CREATIVIDAD E INNOVACION                           5.50           2               1          11.00
+  2) INF349    FUENTES Y ESTRUCTURA DEL ESTADO                    2.00           2               1          13.67
+  3) MAT866    HISTORIA CULTURAL Y DE MENTALIDADES                2.75           2               1          12.00
+  4) MAT415    HISTORIA DE LA FORMACION DE OCCIDENTE              3.75           2               1          13.00
+  5) CIV987    INNOVACION Y DESARROLLO                            4.25           1               0          16.00
+  6) MAT987    PRACTICA SUPERVISADA PRE-PROFESIONAL               3.00           1               2          11.33
+  7) MAT877    TECNOLOGIA DE LA INFORMACION                       5.50           5               3          10.75
+  8) INF831    INGENIERIA DE MATERIALES                           3.75           4               1          14.00
+  9) CIV834    ELEMENTOS DE MAQUINAS 2                            5.75           0               4           6.25
+ 10) MEC841    FUENTES DOCUMENTALES                               2.75           2               1          13.67
+ 11) CIV915    METODOS Y TECNICAS DE INVESTIGACION 1              4.25           3               1          14.50
+ 12) MAT882    SEMINARIO DE TESIS 2                               5.50           2               1          11.33
+ 13) MEC317    MAQUILLAJE Y CARACTERIZACION                       4.00           0               1           8.00
+ 14) MAT387    ACTUACION 1                                        5.00           1               4          10.60
+ 15) MEC915    TOPICOS DE INSTRUMENTACION Y CONTROL               2.50           3               1          13.75
+ 16) CIV986    LENGUA Y COMPOSICION                               2.25           4               0          18.00
+ 17) CIV112    TERMOFLUIDOS                                       4.25           3               1          14.75
+ 18) CIV889    ESTADISTICA PARA INGENIERIA                        4.75           4               1          12.00
+ 19) CIV984    DRAMATURGIA 1                                      3.75           4               3          12.57
+ 20) MEC451    LEGISLACION EN COMUNICACIONES                      2.25           2               1          12.67
+ 21) MEC982    RESISTENCIA DE MATERIALES 1                        5.50           0               1           8.00
+ 22) MAT831    ESTADO SOLIDO                                      5.50           2               3           9.80
+ 23) CIV394    ELECTIVO PARA FISICA 4                             2.50           1               1          11.50
+ 24) CIV315    LENGUAJE DE LOS MEDIOS                             3.50           2               1          10.00
+ 25) CIV485    PUBLICIDAD INTERACTIVA                             2.50           1               2          10.67
+ 26) MAT359    HISTORIA DEL PERIODISMO                            2.00           3               2          13.60
+ 27) MAT834    ELECTROMAGNETISMO 2                                4.50           0               1           5.00
+ 28) INF877    METODOLOGIA DE LA INVESTIGACION HISTORICA 1        3.00           1               0          15.00
+ 29) INF866    SIMULACION DE SISTEMAS                             3.00           3               0          12.33
+ 30) CIV984    ROBOTICA AVANZADA                                  3.00           0               0           0.00
+ 31) MAT175    ELECTIVO PARA FISICA 5                             3.00           1               2           8.00
+ 32) MAT358    ALGORITMOS                                         3.00           2               3           9.80
+ 33) INF986    TECNOLOGIAS DE AUTOMATIZACION                      3.50           4               1          13.20
+ 34) MEC882    SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS      4.50           2               3          10.60
+ 35) MEC151    ESTETICA Y COMUNICACION                            3.00           2               4          10.83
+ 36) MEC173    TEATRO MUSICAL                                     2.00           3               0          13.67
+ 37) INF842    METROLOGIA Y TECNICAS DE MEDICION                  3.00           1               0          17.00
+ 38) INF964    PROCESAMIENTO DE SENALES E IMAGENES DIGITALES      4.00           3               0          16.00
+ 39) CIV571    ECONOMIA PARA PERIODISTAS                          5.25           2               2           9.25

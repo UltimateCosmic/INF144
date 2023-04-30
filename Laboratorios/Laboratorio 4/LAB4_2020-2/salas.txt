@@ -1,0 +1,6 @@
+5 100 Piso 2
+1 100 Piso 1 
+4 100 Piso 1
+2 80 Piso 2
+3 100 Piso 2
+6 80 Piso 3

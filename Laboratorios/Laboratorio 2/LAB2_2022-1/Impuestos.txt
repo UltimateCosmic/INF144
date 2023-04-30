@@ -1,0 +1,4 @@
+51   PERU       0.17
+63      BRASIL   0.22
+77    COLOMBIA      0.16
+98   URUGUAY   0.18

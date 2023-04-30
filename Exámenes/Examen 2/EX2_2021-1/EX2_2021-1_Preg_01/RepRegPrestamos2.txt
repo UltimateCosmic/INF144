@@ -1,0 +1,241 @@
+35030611   Inga Flores Cesar Adolfo                  2
+           1)  XW06135       20210626
+           2)  LM05731       20210703
+
+83265244   Pairazaman Alamo Moises Miguel            3
+           1)  BH96036       20210705
+           2)  FY25192       20210712
+           3)  BB35881       20210704
+
+49516360   Delgado Gonzales Guillermo Alfonso        4
+           1)  KC34197       20210624
+           2)  VA35843       20210629
+           3)  JO84937       20210626
+           4)  ZR63735       20210625
+
+17750908   Hernandez Barrios Emilio                  7
+           1)  SK15788       20210627
+           2)  QA53897       20210708
+           3)  PT00038       20210627
+           4)  OT07742       20210702
+           5)  LM05731       20210628
+           6)  KC34197       20210630
+           7)  BB35881       20210628
+
+66152145   Salas Aguero Daniel                       2
+           1)  XQ03477       20210704
+           2)  BB35881       20210712
+
+65071478   Mejia Diaz Blanca Milagros                5
+           1)  XN48844       20210702
+           2)  OC73472       20210626
+           3)  QA53897       20210701
+           4)  KC34197       20210625
+           5)  XW06135       20210710
+
+37500242   Vasquez Paz Alex Martin                   4
+           1)  PT00038       20210709
+           2)  BH96036       20210630
+           3)  LM05731       20210625
+           4)  KW25071       20210710
+
+96056368   Pasquel Quio Surami Janet                 1
+           1)  PT00038       20210628
+
+33958767   Aquino Toro Valentina Rocio               2
+           1)  LM05731       20210701
+           2)  ZM20053       20210712
+
+50860318   Prado Vergel Carlos Julian                3
+           1)  PT00038       20210625
+           2)  BB35881       20210711
+           3)  ZK87496       20210706
+
+61212473   Castro Suarez Rolando                     4
+           1)  KC34197       20210704
+           2)  LM05731       20210708
+           3)  XN48844       20210625
+           4)  NF53199       20210628
+
+54393647   Norabuena Preciado Cinthia                3
+           1)  QO90975       20210627
+           2)  QA53897       20210701
+           3)  ZR63735       20210625
+
+14268463   Raffo Chung Adria Gloria                  5
+           1)  JO84937       20210711
+           2)  KC34197       20210624
+           3)  NF53199       20210707
+           4)  FW74175       20210709
+           5)  XQ03477       20210705
+
+81082011   Arroyo Gordillo Maria Heli                7
+           1)  QA53897       20210702
+           2)  ZR63735       20210705
+           3)  LM05731       20210701
+           4)  QO90975       20210625
+           5)  PT00038       20210702
+           6)  FY82455       20210707
+           7)  OT07742       20210624
+
+37751890   Shirakawa Miranda Madeleine               7
+           1)  ZK87496       20210627
+           2)  VA35843       20210708
+           3)  PT00038       20210706
+           4)  ZR63735       20210626
+           5)  XQ03477       20210708
+           6)  SK15788       20210702
+           7)  QA53897       20210704
+
+72832218   Corrales Tsukazan Irma Lourdes            5
+           1)  LM05731       20210702
+           2)  QO90975       20210626
+           3)  QE47018       20210712
+           4)  OT07742       20210712
+           5)  FY25192       20210712
+
+61039260   Mejia De La Haza Francisco Edgar          1
+           1)  KW25071       20210628
+
+87804471   Cerna Durand Martin                       5
+           1)  JO84937       20210703
+           2)  PT00038       20210710
+           3)  PT00038       20210712
+           4)  SK15788       20210712
+           5)  NF53199       20210712
+
+26916299   Diaz Antezano Magali Silvana              7
+           1)  OT07742       20210707
+           2)  FY25192       20210630
+           3)  PT00038       20210704
+           4)  BH96036       20210708
+           5)  KC34197       20210701
+           6)  KC34197       20210712
+           7)  TA81777       20210712
+
+15129661   Wong Martel Madeleine                     6
+           1)  KC34197       20210711
+           2)  JO84937       20210702
+           3)  OT07742       20210630
+           4)  ZR63735       20210626
+           5)  QE47018       20210625
+           6)  BH96036       20210702
+
+63602514   Auris Zimic Javier Daniel                 6
+           1)  ZK87496       20210708
+           2)  QA53897       20210712
+           3)  JO84937       20210712
+           4)  BB35881       20210712
+           5)  NF53199       20210712
+           6)  BH96036       20210712
+
+92240876   Vega Garcia Janet Rebeca                  7
+           1)  ZR63735       20210703
+           2)  PT00038       20210629
+           3)  VA35843       20210703
+           4)  QO90975       20210629
+           5)  KC34197       20210709
+           6)  JO84937       20210628
+           7)  QO90975       20210712
+
+45834351   Velasquez Huayanay Edgard Henry           3
+           1)  ZM20053       20210709
+           2)  QA53897       20210625
+           3)  JO84937       20210707
+
+11750801   Shirakawa Ortega Angel                    6
+           1)  LM05731       20210704
+           2)  KC34197       20210707
+           3)  QA53897       20210708
+           4)  UW23132       20210628
+           5)  TA81777       20210624
+           6)  XN48844       20210626
+
+23636303   Piscoya Bravo Cesar Bruno                 2
+           1)  BB35881       20210712
+           2)  SK15788       20210712
+
+74295562   Bolanos Fuentes Jorge                     0
+
+70385303   Velasquez Cano Fernando                   1
+           1)  ZM20053       20210712
+
+37067112   Fernandez Ortega Elizabeth Elizabeth      4
+           1)  FW74175       20210712
+           2)  UW23132       20210712
+           3)  KW25071       20210712
+           4)  NF53199       20210712
+
+99666105   Justino Forzani Ericka Victoria           2
+           1)  OT07742       20210712
+           2)  XN48844       20210712
+
+67517268   Gordillo Castro Ronal                     1
+           1)  QE47018       20210712
+
+69561370   Zevallos Prado Ricardo                    1
+           1)  FY25192       20210712
+
+70848926   Minaya Vizcarra Juvenal                   1
+           1)  TA81777       20210712
+
+74228820   Patino Fuentes Milagros Mariella          0
+
+61896832   Zavaleta Lopez Karin Virginia             1
+           1)  UW23132       20210712
+
+75876413   Quispe Berrocal Antonio Alvaro            1
+           1)  FW74175       20210712
+
+68953100   Rivero Rett Rony Antonio                  1
+           1)  QA53897       20210712
+
+76881195   Sanchez De La Cuba Natalia Estefania      1
+           1)  SK15788       20210712
+
+92511513   Villa Yallico Tatiana Nancy               3
+           1)  XN48844       20210712
+           2)  BH96036       20210712
+           3)  XQ03477       20210712
+
+59447743   Palomares Guevara Karina                  0
+
+71654827   Saona Arias Alberto                       0
+
+79057834   Cerna Hijar Jose Rolando                  3
+           1)  QE47018       20210712
+           2)  QO90975       20210712
+           3)  NF53199       20210712
+
+80026981   Prado Falcon Edgar Richard                1
+           1)  SK15788       20210712
+
+67776822   Iberos Zambrano Gonzalo                   1
+           1)  OT07742       20210712
+
+68771233   Cortes Calixto Rosario                    1
+           1)  QO90975       20210712
+
+15547710   Maldonado Ramirez Silvana                 1
+           1)  QE47018       20210712
+
+65391725   Vizcardo Mori Lucero Zkenia               0
+
+56659269   Vega Saenz Alexander Richard              1
+           1)  BH96036       20210712
+
+71486298   Mori Zavaleta Luz Lourdes                 1
+           1)  XN48844       20210712
+
+65261145   Chavez Caro Yvonne                        1
+           1)  FY82455       20210712
+
+60400673   Florencio Lam Paul Ronald                 0
+
+72289920   Correa Aguirre Moises                     1
+           1)  NF53199       20210712
+
+64682847   Cortez Leiva Surami Silvia                0
+
+57763613   Diaz Sedano Yvonne                        0
+

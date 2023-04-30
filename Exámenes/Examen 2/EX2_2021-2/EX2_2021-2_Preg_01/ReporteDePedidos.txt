@@ -1,0 +1,338 @@
+====================================================================================================
+                                      TIENDA VIRTUAL LA MAGNIFICA
+                                          ATENCIÓN DE PEDIDOS
+====================================================================================================
+Pedido No. 829251             Fecha:      13/10/2021                Hora:         18:20:25
+Cliente:
+DNI    71984468
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       3                10.25           30.75
+DE1583       VAINILLA MOLINA 500ML                     1                19.26           19.26
+XT2381       BEBIDA NARANJA BEBERE 470ML               5                 6.72           33.60
+IR1534       MEDIA CREMA NESTLE 1LT                    5                40.80          204.00
+TH8501       SABRITAS CASERAS JALAPENO 42GR            6                 9.66           57.96
+====================================================================================================
+Pedido No. 383622             Fecha:      12/10/2021                Hora:         11:07:58
+Cliente:
+DNI    57263719
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+KD7040       SANDWICH COMBINADA 3 FLORES 150GR         1                 8.23            8.23
+====================================================================================================
+Pedido No. 375611             Fecha:      14/10/2021                Hora:         06:54:28
+Cliente:
+DNI    71984468
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+SB6549       AGUACATE REGIONAL KG.1.000 GR             4                26.65          106.60
+AL5576       GALLETAS MARIAS CUETARA 160GR             9                 6.10           54.90
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  1                23.28           23.28
+====================================================================================================
+Pedido No. 942192             Fecha:      18/10/2021                Hora:         22:04:20
+Cliente:
+DNI    33397650
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+AL5576       GALLETAS MARIAS CUETARA 160GR             8                 6.10           48.80
+FX4528       SOPA MARUCHAN CAMARON 71GR                5                 7.68           38.40
+====================================================================================================
+Pedido No. 326921             Fecha:      18/10/2021                Hora:         01:51:00
+Cliente:
+DNI    48184351
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+TP2703       PAPAYA                                   10                20.99          209.90
+GA4616       FLAN LALA SABOR VAINILLA 100GR            4                 5.88           23.52
+====================================================================================================
+Pedido No. 182169             Fecha:      12/10/2021                Hora:         01:39:43
+Cliente:
+DNI    57263719
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    2                 6.72           13.44
+US9499       TAKIS SALSA BRAVA 62GR                    5                 7.65           38.25
+====================================================================================================
+Pedido No. 227389             Fecha:      14/10/2021                Hora:         17:03:51
+Cliente:
+DNI    32821689
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+XT2381       BEBIDA NARANJA BEBERE 470ML               6                 6.72           40.32
+BD6402       YOGHURT LALA LIGHT 240GR                 10                 7.04           70.40
+====================================================================================================
+Pedido No. 463635             Fecha:      16/10/2021                Hora:         11:21:11
+Cliente:
+DNI    57690875
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+EZ1377       JUGO VALLE FRUT CITRUS 12 250ML           8                50.49          403.92
+BD6402       YOGHURT LALA LIGHT 240GR                  9                 7.04           63.36
+====================================================================================================
+Pedido No. 956965             Fecha:      13/10/2021                Hora:         11:12:31
+Cliente:
+DNI    71378466
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+RE3123       YOGHURT FRESA NESTLE 1KG                  6                23.27          139.62
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       6                10.25           61.50
+AL5576       GALLETAS MARIAS CUETARA 160GR             1                 6.10            6.10
+AG5216       ALUBIAS ANTIQUA 540GR                     7                17.85          124.95
+XT2381       BEBIDA NARANJA BEBERE 470ML               5                 6.72           33.60
+GZ4562       LECHE LALA SEMI DESLACTOSADA 1LT          7                16.98          118.86
+====================================================================================================
+Pedido No. 352235             Fecha:      16/10/2021                Hora:         07:42:49
+Cliente:
+DNI    94326707
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+RX6721       PALOMITAS POFETS FLAMIN HOT 28GR          1                 6.88            6.88
+IY551        NESCAFE VAINILLA FRESCA 25GR              7                 6.88           48.16
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   6                16.50           99.00
+====================================================================================================
+Pedido No. 216842             Fecha:      15/10/2021                Hora:         21:35:26
+Cliente:
+DNI    57263719
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+BD6402       YOGHURT LALA LIGHT 240GR                  9                 7.04           63.36
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  1                23.28           23.28
+RE3123       YOGHURT FRESA NESTLE 1KG                  9                23.27          209.43
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   7                16.50          115.50
+====================================================================================================
+Pedido No. 948358             Fecha:      12/10/2021                Hora:         15:24:47
+Cliente:
+DNI    17913944
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+XT2381       BEBIDA NARANJA BEBERE 470ML               1                 6.72            6.72
+BD6402       YOGHURT LALA LIGHT 240GR                  3                 7.04           21.12
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    3                 6.72           20.16
+TH8501       SABRITAS CASERAS JALAPENO 42GR            2                 9.66           19.32
+IR1534       MEDIA CREMA NESTLE 1LT                    3                40.80          122.40
+====================================================================================================
+Pedido No. 852519             Fecha:      15/10/2021                Hora:         02:58:38
+Cliente:
+DNI    73786035
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+AG5216       ALUBIAS ANTIQUA 540GR                     6                17.85          107.10
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  6                 8.83           52.98
+IR1534       MEDIA CREMA NESTLE 1LT                    3                40.80          122.40
+====================================================================================================
+Pedido No. 159753             Fecha:      14/10/2021                Hora:         13:15:48
+Cliente:
+DNI    32821689
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  5                 8.83           44.15
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       4                10.25           41.00
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   3                16.50           49.50
+RX6721       PALOMITAS POFETS FLAMIN HOT 28GR          7                 6.88           48.16
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    4                 6.72           26.88
+====================================================================================================
+Pedido No. 763303             Fecha:      18/10/2021                Hora:         00:02:12
+Cliente:
+DNI    48184351
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR   10                 6.72           67.20
+====================================================================================================
+Pedido No. 515928             Fecha:      17/10/2021                Hora:         17:33:56
+Cliente:
+DNI    57263719
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+DL9148       MAIZ POZOLERO EXTRA 1KGR                 10                23.28          232.80
+====================================================================================================
+Pedido No. 950760             Fecha:      16/10/2021                Hora:         04:04:01
+Cliente:
+DNI    76388967
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+AG5216       ALUBIAS ANTIQUA 540GR                    10                17.85          178.50
+TP2703       PAPAYA                                    3                20.99           62.97
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  4                23.28           93.12
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML       7                18.07          126.49
+IY551        NESCAFE VAINILLA FRESCA 25GR             10                 6.88           68.80
+====================================================================================================
+Pedido No. 738362             Fecha:      16/10/2021                Hora:         04:10:39
+Cliente:
+DNI    33713901
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+SB6549       AGUACATE REGIONAL KG.1.000 GR             5                26.65          133.25
+DE1583       VAINILLA MOLINA 500ML                     1                19.26           19.26
+XT2381       BEBIDA NARANJA BEBERE 470ML               1                 6.72            6.72
+RE3123       YOGHURT FRESA NESTLE 1KG                  4                23.27           93.08
+====================================================================================================
+Pedido No. 951233             Fecha:      15/10/2021                Hora:         04:17:33
+Cliente:
+DNI    20864087
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+SB6549       AGUACATE REGIONAL KG.1.000 GR             9                26.65          239.85
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    9                 6.72           60.48
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       4                10.25           41.00
+====================================================================================================
+Pedido No. 297851             Fecha:      15/10/2021                Hora:         17:50:35
+Cliente:
+DNI    94326707
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+TP2703       PAPAYA                                    3                20.99           62.97
+FX4528       SOPA MARUCHAN CAMARON 71GR                7                 7.68           53.76
+IS1301       CUITLACOCHE MONTEBLANCO 215GR             3                32.28           96.84
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  3                23.28           69.84
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  1                 8.83            8.83
+====================================================================================================
+Pedido No. 671627             Fecha:      17/10/2021                Hora:         12:40:33
+Cliente:
+DNI    67418025
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   3                16.50           49.50
+KS5385       FRIJOL AMARILLO KG                        9                39.82          358.38
+IS1301       CUITLACOCHE MONTEBLANCO 215GR             4                32.28          129.12
+====================================================================================================
+Pedido No. 410007             Fecha:      16/10/2021                Hora:         10:15:13
+Cliente:
+DNI    57263719
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML       8                18.07          144.56
+====================================================================================================
+Pedido No. 398133             Fecha:      13/10/2021                Hora:         04:04:21
+Cliente:
+DNI    35584593
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+EZ1377       JUGO VALLE FRUT CITRUS 12 250ML           2                50.49          100.98
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       4                10.25           41.00
+====================================================================================================
+Pedido No. 908402             Fecha:      14/10/2021                Hora:         13:11:59
+Cliente:
+DNI    45783712
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   2                16.50           33.00
+====================================================================================================
+Pedido No. 419947             Fecha:      15/10/2021                Hora:         10:31:26
+Cliente:
+DNI    81114108
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+DE1583       VAINILLA MOLINA 500ML                     4                19.26           77.04
+TP2703       PAPAYA                                    2                20.99           41.98
+IS1301       CUITLACOCHE MONTEBLANCO 215GR             3                32.28           96.84
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  6                 8.83           52.98
+====================================================================================================
+Pedido No. 290995             Fecha:      18/10/2021                Hora:         01:35:11
+Cliente:
+DNI    20864087
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+IR1534       MEDIA CREMA NESTLE 1LT                    2                40.80           81.60
+FX4528       SOPA MARUCHAN CAMARON 71GR               10                 7.68           76.80
+DL9148       MAIZ POZOLERO EXTRA 1KGR                 10                23.28          232.80
+EX8123       SALSA CASERA ENEDELIA 250GR               7                14.46          101.22
+RE3123       YOGHURT FRESA NESTLE 1KG                  8                23.27          186.16
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  6                 8.83           52.98
+====================================================================================================
+Pedido No. 577674             Fecha:      15/10/2021                Hora:         18:23:15
+Cliente:
+DNI    71378466
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+GA4616       FLAN LALA SABOR VAINILLA 100GR           10                 5.88           58.80
+AL5576       GALLETAS MARIAS CUETARA 160GR             9                 6.10           54.90
+GZ4562       LECHE LALA SEMI DESLACTOSADA 1LT          9                16.98          152.82
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML      10                18.07          180.70
+====================================================================================================
+Pedido No. 301503             Fecha:      14/10/2021                Hora:         22:44:56
+Cliente:
+DNI    32821689
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+KS5385       FRIJOL AMARILLO KG                       10                39.82          398.20
+IY551        NESCAFE VAINILLA FRESCA 25GR              7                 6.88           48.16
+TP2703       PAPAYA                                    4                20.99           83.96
+KD7040       SANDWICH COMBINADA 3 FLORES 150GR         5                 8.23           41.15
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML       5                18.07           90.35
+TH8501       SABRITAS CASERAS JALAPENO 42GR            2                 9.66           19.32
+====================================================================================================
+Pedido No. 283711             Fecha:      17/10/2021                Hora:         17:48:20
+Cliente:
+DNI    20864087
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML       7                18.07          126.49
+TP2703       PAPAYA                                    6                20.99          125.94
+====================================================================================================
+Pedido No. 850569             Fecha:      14/10/2021                Hora:         05:06:04
+Cliente:
+DNI    67418025
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+IR1534       MEDIA CREMA NESTLE 1LT                    6                40.80          244.80
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       4                10.25           41.00
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    7                 6.72           47.04
+====================================================================================================
+Pedido No. 810352             Fecha:      14/10/2021                Hora:         18:07:02
+Cliente:
+DNI    45783712
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+RX6721       PALOMITAS POFETS FLAMIN HOT 28GR          5                 6.88           34.40
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  1                23.28           23.28
+FX4528       SOPA MARUCHAN CAMARON 71GR                1                 7.68            7.68
+XT2381       BEBIDA NARANJA BEBERE 470ML               9                 6.72           60.48
+MO8561       SALSA HABANERA ROJA GUACAMAYA 150GR       7                10.25           71.75
+RE3123       YOGHURT FRESA NESTLE 1KG                  1                23.27           23.27
+IY551        NESCAFE VAINILLA FRESCA 25GR              3                 6.88           20.64
+AL5576       GALLETAS MARIAS CUETARA 160GR             4                 6.10           24.40
+====================================================================================================
+Pedido No. 693994             Fecha:      16/10/2021                Hora:         02:33:41
+Cliente:
+DNI    71984468
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+AG5216       ALUBIAS ANTIQUA 540GR                     6                17.85          107.10
+WM3524       EMPANIZADOR CONTADINA TRADICIONAL 283GR   9                16.50          148.50
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  5                 8.83           44.15
+====================================================================================================
+Pedido No. 438826             Fecha:      17/10/2021                Hora:         18:05:10
+Cliente:
+DNI    33713901
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+YX2521       BEBIDA DE SOYA ADES GUANABANA 946ML       4                18.07           72.28
+IR1534       MEDIA CREMA NESTLE 1LT                    2                40.80           81.60
+====================================================================================================
+Pedido No. 364355             Fecha:      14/10/2021                Hora:         17:58:07
+Cliente:
+DNI    77642521
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+EH9131       YOGHURT FRESA CON GRANOLA CHELSY 240GR    7                 6.72           47.04
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  9                23.28          209.52
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  4                 8.83           35.32
+====================================================================================================
+Pedido No. 691885             Fecha:      12/10/2021                Hora:         07:17:40
+Cliente:
+DNI    67418025
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+DL9148       MAIZ POZOLERO EXTRA 1KGR                  5                23.28          116.40
+FU6142       YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G  4                 8.83           35.32
+SB6549       AGUACATE REGIONAL KG.1.000 GR             4                26.65          106.60
+TH8501       SABRITAS CASERAS JALAPENO 42GR            3                 9.66           28.98
+====================================================================================================
+Pedido No. 355922             Fecha:      17/10/2021                Hora:         18:26:02
+Cliente:
+DNI    35584593
+Productos:
+Codigo       Descripcion                             Cantidad      Precio Unitario    Subtotal
+RE3123       YOGHURT FRESA NESTLE 1KG                 10                23.27          232.70
+XT2381       BEBIDA NARANJA BEBERE 470ML               6                 6.72           40.32
+====================================================================================================

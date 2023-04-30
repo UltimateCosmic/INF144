@@ -1,0 +1,1262 @@
+
+FM3676XY   El Duque en su territorio           68.13         93       0.00          3
+    1) MQ-7769          6.18
+    2) IX-6733          4.87
+    3) NL-0227          8.26
+
+HX7509SS   Las demoliciones de Paris          161.64        223       0.00          5
+    1) DS-4787          7.82
+    2) GW-4596         11.83
+    3) VB-0184         12.62
+    4) FB-0158          2.76
+    5) TC-0557          6.58
+
+BY2824ZA   L ecole des menages                 21.32        128       0.00          3
+    1) GW-4596          5.57
+    2) TC-0557          3.82
+    3) VC-4115          7.57
+
+LN4392WT   The Countess de Charny             102.09         89       0.00          1
+    1) PW-9213          0.75
+
+LH7856DF   El Club de los explotadores         35.13        138       0.00          2
+    1) MQ-7769          8.28
+    2) TC-0557          6.79
+
+WB6072ZV   Elogio de la madrastra              45.50        164       0.00          6
+    1) XH-0354          5.81
+    2) YS-0040         10.21
+    3) TC-0557          4.95
+    4) UR-1509          1.88
+    5) WI-0907          4.97
+    6) WH-0233         12.88
+
+ZA8543MU   La hermosa jardinera               180.12        133       0.00          1
+    1) WI-0907          0.72
+
+DG3859IW   Le Cousin Pons                     131.84        193       0.00          2
+    1) NG-9768         10.37
+    2) DS-4787         10.62
+
+PF2178PX   El Manuscrito del Domino            38.71        187       0.00          5
+    1) LV-2063          5.96
+    2) WS-0789         12.48
+    3) GW-4596          1.36
+    4) WJ-9777         14.34
+    5) TC-0557         11.03
+
+WG1806UA   House of Pomegranates               35.89        165       0.00          2
+    1) GW-4596          7.95
+    2) AF-3687         12.56
+
+AB6148GL   Le Colonel Chabert                  21.42        207       0.00          6
+    1) TC-0557         11.30
+    2) HM-0189         14.41
+    3) DS-4787          1.54
+    4) VB-0184          2.13
+    5) YS-0040          1.72
+    6) GF-0444          6.22
+
+NI2660ZB   An Ideal Husband                    59.37        102       0.00          4
+    1) NL-0227          2.52
+    2) ZF-0269          5.06
+    3) IV-0934         13.24
+    4) VC-4115          4.20
+
+DB5425JV   Le Chef-d oeuvre inconnu           230.29        168       0.00          3
+    1) HM-0189         12.17
+    2) IX-6733          5.60
+    3) XH-0354         11.63
+
+PP7349PH   Historia de Mayta                   11.27        183       0.00          6
+    1) GF-0444          6.20
+    2) NL-0227         13.82
+    3) EA-0929          3.87
+    4) GF-0444          2.50
+    5) WS-0789         10.92
+    6) WS-0789         12.62
+
+AL2744VA   Suspense2                          107.50        140       0.00          3
+    1) KD-4655         11.40
+    2) GF-0444          4.80
+    3) OC-7842          5.42
+
+SB4803YB   Una Navidad                        232.60        202       0.00          2
+    1) WC-0798          5.33
+    2) NG-9768         11.17
+
+AK2082OC   The Nutcracker                      23.40        217       0.00          1
+    1) IA-0562          0.84
+
+YV5760BW   La Peau de chagrin                 140.27        164       0.00          1
+    1) UR-1509         13.84
+
+AF8015EM   Musica para camaleones              82.46        232       0.00          5
+    1) PW-9213         13.47
+    2) IV-0934          0.67
+    3) HZ-0118         11.07
+    4) MQ-7769          0.99
+    5) OC-7842         12.48
+
+JF9854RG   La Cousine Bette                   147.61        188       0.00          2
+    1) LA-0454         12.88
+    2) KD-4655          6.83
+
+DY7148FQ   La Fille aux yeux d or              34.52         96       0.00          6
+    1) IV-0934         13.94
+    2) YR-8262         12.87
+    3) WI-0907          5.47
+    4) YS-0040          6.91
+    5) AC-0992          5.90
+    6) WS-0789          8.09
+
+RP7586UG   Lady Windermere s Fan               44.29        218       0.00          5
+    1) YS-0040          2.09
+    2) VB-0184         11.61
+    3) LV-2063          7.23
+    4) SS-8708          6.86
+    5) GF-0444          2.93
+
+XE1517PU   The Corsican Brothers              213.27        219       0.00          2
+    1) GF-0444         11.68
+    2) YS-0040          0.37
+
+FK4438CD   La casa verde                      216.30        201       0.00          3
+    1) WI-0907         10.09
+    2) UR-1509          0.37
+    3) FM-0063          7.51
+
+QM1355QW   El nino perdido                     35.52        205       0.00          4
+    1) BR-0384          7.58
+    2) WC-0798          6.41
+    3) FB-0158          5.43
+    4) HZ-0118         10.06
+
+TJ8256BL   La guerra del fin del mundo        199.82        161       0.00          6
+    1) MQ-7769          6.26
+    2) WS-0789          6.20
+    3) RI-0786         13.24
+    4) HZ-0118          5.79
+    5) RI-0786         11.30
+    6) YF-1592         12.94
+
+ER5817MM   La Resurreccion de Rocambole        76.34        174       0.00          1
+    1) FB-0158         14.77
+
+AX2084DP   Beat the Devil                      43.30        142       0.00          5
+    1) VU-0612         11.54
+    2) YS-0040          0.35
+    3) IA-0562         10.42
+    4) KD-4655          8.36
+    5) NF-0082          1.07
+
+RW3837XQ   Los tesoros del Rajah              119.15         85       0.00          3
+    1) WJ-9777         10.10
+    2) HZ-0118          1.43
+    3) YS-0040          1.93
+
+WB8148TN   Le Chevalier de Maison-Rouge        84.13         83       0.00          3
+    1) IV-0934         11.50
+    2) WJ-9777          4.75
+    3) TC-0557          5.11
+
+PD1639EO   Lord Arthur Savile s Crime and Other Stories     241.98        202       0.00          6
+    1) PW-9213          6.32
+    2) ZF-0269         11.80
+    3) EA-0929          2.51
+    4) KD-4655          3.46
+    5) KX-5448         13.39
+    6) BR-0384          9.76
+
+WL4712EJ   Les Ressources de Quinola           47.61        210       0.00          3
+    1) IA-0562          2.83
+    2) OC-7842         12.58
+    3) RI-0786          9.45
+
+JV3344QJ   The Fencing Master                  67.95        136       0.00          6
+    1) HM-0189          2.02
+    2) NG-9768         14.31
+    3) IK-3556          5.02
+    4) KD-4655          7.48
+    5) RI-0786          1.12
+    6) MQ-7769          4.39
+
+CK7628SP   Twenty Years After                 125.28        229       0.00          6
+    1) IW-0279          5.86
+    2) IK-3556          5.24
+    3) HM-0189         12.02
+    4) NG-9768          4.86
+    5) RI-0786          8.59
+    6) FL-0367          6.65
+
+BX3667AP   Conversacion en La Catedral        169.80        214       0.00          6
+    1) WC-0049         11.66
+    2) VU-0612          8.93
+    3) OC-7842          2.56
+    4) HM-0189          3.62
+    5) IV-0934          2.02
+    6) FL-9313          5.14
+
+TO3719OI   La reina de las barricadas         119.04        199       0.00          4
+    1) AC-0992         14.10
+    2) PW-9213         14.58
+    3) MQ-7769         12.31
+    4) FL-0367         10.19
+
+PX3867LY   Alice s Adventures in Wonderland     113.33         83       0.00          2
+    1) AC-0992          6.76
+    2) RI-0786          2.43
+
+SB2546UL   The Ballad of Reading Gaol         222.08        174       0.00          3
+    1) BR-0384          9.68
+    2) IV-0934          0.85
+    3) AC-0992          6.22
+
+FE5059EI   Sylvie and Bruno Concluded         193.90         85       0.00          2
+    1) HM-0189          1.85
+    2) GF-0444          5.67
+
+IJ2633VB   Un breve cuento aparecido en la revista Seventeen     242.04        182       0.00          4
+    1) VC-4115         10.45
+    2) FL-0367          9.53
+    3) WH-0233          9.06
+    4) FB-0158          5.94
+
+XU6411QX   The Companions of Jehu              58.95        147       0.00          6
+    1) BR-0384          9.84
+    2) UR-1509          4.93
+    3) NF-0082          6.29
+    4) WH-0233          3.32
+    5) AF-3687          6.34
+    6) LA-0454          8.13
+
+KL7180EF   The Hunting of the Snark           126.71        217       0.00          2
+    1) BR-0384         12.45
+    2) LA-0454          7.03
+
+LO8581RA   El hablador                        220.45        231       0.00          4
+    1) FB-0158          6.24
+    2) AF-3687         13.09
+    3) OC-7842          7.74
+    4) LA-0454          3.33
+
+RU9919GT   El testamento del grano de sal     189.07         97       0.00          2
+    1) IK-3556          9.91
+    2) BR-0384         10.50
+
+XV8731UB   Unspoiled Monsters y Kate McCloud     210.38         85       0.00          1
+    1) TC-0557         13.99
+
+SJ4820TV   Lituma en los Andes                174.20         97       0.00          2
+    1) VU-0612          3.28
+    2) EA-0929          1.94
+
+TA6107RM   Le Vicaire des Ardennes            230.17        170       0.00          6
+    1) LV-2063          0.94
+    2) TC-0557         14.63
+    3) FL-9313          4.34
+    4) WS-0789          9.53
+    5) OC-7842         12.01
+    6) KX-5448          4.43
+
+CQ7026HG   Redencion2                         165.28        148       0.00          5
+    1) GW-4596          5.20
+    2) NL-0227          2.11
+    3) YS-0040          9.32
+    4) IV-0934          1.33
+    5) WH-0233         14.12
+
+QT6611DW   La jaula de los pajaros            143.81        142       0.00          6
+    1) SS-8708          1.99
+    2) WH-0233          9.86
+    3) UR-1509          2.00
+    4) DS-4787          2.45
+    5) VU-0612          8.96
+    6) EA-0929          5.87
+
+LL1733VC   Georges                            136.05        127       0.00          5
+    1) SS-8708         11.97
+    2) IX-6733         11.10
+    3) YS-0040          1.03
+    4) YZ-0611          0.50
+    5) GW-4596          2.27
+
+FJ7850HZ   El capitan Alatriste               209.24        101       0.00          2
+    1) WS-0789          5.70
+    2) YS-0040          2.75
+
+WO6474BW   La vuelta del Presidiario          166.13        158       0.00          6
+    1) LV-2063         14.08
+    2) IX-6733         14.66
+    3) IA-0562          3.82
+    4) IX-6733         11.25
+    5) XH-0354         12.04
+    6) WI-0907          3.21
+
+RS5412CP   El paraiso en la otra esquina      190.17        140       0.00          1
+    1) KD-4655          9.08
+
+KB6601QW   Joseph Balsamo                     107.91        118       0.00          1
+    1) WI-0907         11.28
+
+DL6219BB   Los Caballeros del Claro de Luna      49.83        214       0.00          5
+    1) HZ-0118          6.91
+    2) FL-0367          6.16
+    3) AC-0992          7.78
+    4) BR-0384          3.75
+    5) MQ-7769         14.04
+
+PK7004PF   Pantaleon y las visitadoras        239.24        194       0.00          5
+    1) WJ-9777          8.64
+    2) IW-0279          3.40
+    3) YS-0040          9.25
+    4) MQ-7769         14.10
+    5) FM-0063          6.16
+
+WN3995HZ   The Page of the Duke of Savoy       11.41        155       0.00          1
+    1) YZ-0611         10.73
+
+XC5683NX   Cabo Trafalgar                     195.43        104       0.00          2
+    1) VC-4115          7.47
+    2) DS-4787          3.60
+
+EW1994FO   Muerte de la luz                   214.15        115       0.00          5
+    1) FL-9313         14.21
+    2) IV-0934         10.17
+    3) AF-3687          9.14
+    4) AC-0992         13.56
+    5) HZ-0118          6.79
+
+ZK6045TQ   Las Miserias de Londres             57.36        149       0.00          3
+    1) IX-6733          7.61
+    2) MQ-7769         10.40
+    3) BZ-0138         11.26
+
+WM9620AU   Wann-Chlore                         55.23         96       0.00          5
+    1) YZ-0611          7.90
+    2) UR-1509          0.87
+    3) KD-4655          8.62
+    4) RI-0786          9.35
+    5) YZ-0611          1.40
+
+NO6758HB   Le Corsaire                        164.86        119       0.00          2
+    1) YR-8262         10.42
+    2) GF-0444         14.28
+
+MS4635LE   El Presidio de Tolon                25.96         98       0.00          5
+    1) TC-0557          1.91
+    2) VU-0612          1.44
+    3) IA-0562         10.11
+    4) IK-3556          1.97
+    5) RI-0786          1.10
+
+UM3196YJ   What the Tortoise Said to Achilles     136.32        166       0.00          1
+    1) EA-0929         10.85
+
+UM6418PQ   Corsarios de Levante               182.89        187       0.00          3
+    1) YZ-0611          4.69
+    2) KD-4655         14.40
+    3) LA-0454          6.30
+
+VK5569WA   Serie Cancion de hielo y fuego      33.80        101       0.00          2
+    1) PW-9213          3.22
+    2) KX-5448          5.00
+
+GZ9782CJ   The Women s War                    153.05        218       0.00          2
+    1) WC-0049          3.29
+    2) LA-0454          9.19
+
+OW7736SR   El pintor de batallas              220.96        190       0.00          1
+    1) OC-7842          8.67
+
+MQ9919FJ   Castle Eppstein; The Specter Mother     225.82        125       0.00          4
+    1) BZ-0138         12.53
+    2) AC-0992          3.15
+    3) IK-3556          0.85
+    4) WI-0907         10.98
+
+XI9387DK   The Queen s Necklace                70.54        228       0.00          3
+    1) NG-9768          5.95
+    2) IK-3556          2.73
+    3) OC-7842          9.25
+
+RV5936UM   The Regent s Daughter              245.49        125       0.00          3
+    1) VU-0612          4.30
+    2) FL-0367          4.35
+    3) FM-0063          9.77
+
+HX6409XN   The horoscope : a romance of the reign of Francois II      85.92        129       0.00          3
+    1) GF-0444          2.43
+    2) YZ-0611         10.01
+    3) XH-0354         10.81
+
+UW7057CE   Robin Hood                         160.81        201       0.00          3
+    1) LV-2063          4.72
+    2) IX-6733          2.62
+    3) IX-6733         10.27
+
+DF9803IR   Carmen la gitana                    72.17         89       0.00          3
+    1) XH-0354          9.69
+    2) OC-7842          3.58
+    3) XH-0354          3.48
+
+MS4911NR   A Dream of Spring                   31.38         93       0.00          2
+    1) VU-0612          5.36
+    2) FM-0063         14.04
+
+VH7346TV   La ciudad y los perros             218.79        198       0.00          1
+    1) VU-0612         14.69
+
+OV9937ME   Clotilde de Lusignan               160.07        143       0.00          3
+    1) YS-0040          8.25
+    2) VB-0184          9.13
+    3) IA-0562          1.11
+
+KE9851ZV   El hombre gris                       4.58         84       0.00          2
+    1) WC-0049         14.56
+    2) AC-0992         11.88
+
+HU6690FK   La tabla de Flandes                184.97        190       0.00          4
+    1) VB-0184          9.75
+    2) AF-3687         12.04
+    3) IV-0934          8.31
+    4) KX-5448         11.29
+
+MY7450BH   Le Cure de Tours                   186.32        200       0.00          2
+    1) NL-0227         13.24
+    2) DS-4787          0.58
+
+VW4512SJ   Code des gens honnetes              92.10        172       0.00          6
+    1) WH-0233         14.24
+    2) SS-8708          2.67
+    3) YS-0040          1.81
+    4) AF-3687          8.35
+    5) YS-0040          3.72
+    6) IW-0279         12.04
+
+TU8727XR   El rag del Armagedon               201.26        131       0.00          6
+    1) FL-0367          5.46
+    2) LA-0454          5.98
+    3) WI-0907          7.57
+    4) MQ-7769          6.17
+    5) GF-0444         14.07
+    6) AF-3687         10.13
+
+CG5614UG   La viuda de Sologne                185.70        159       0.00          4
+    1) WJ-9777         14.97
+    2) SS-8708         14.31
+    3) WC-0049         10.17
+    4) HZ-0118          7.84
+
+YU3404WN   Casa de flores                     195.83        123       0.00          6
+    1) OC-7842         12.08
+    2) IW-0279          3.27
+    3) WI-0907          9.01
+    4) YS-0040          9.60
+    5) BR-0384         11.90
+    6) FL-0367         10.50
+
+NA2262AN   Ange Pitou                         108.97        152       0.00          4
+    1) GF-0444         13.09
+    2) IX-6733         13.92
+    3) WH-0233          4.76
+    4) MQ-7769          2.22
+
+JU3883RV   Crucero de verano                  180.25        208       0.00          2
+    1) WC-0049          6.11
+    2) DS-4787         13.65
+
+XJ9839VJ   El club Dumas o La sombra de Richelieu     206.15        148       0.00          2
+    1) XH-0354         11.59
+    2) UR-1509         10.80
+
+OZ5846TF   La sombra del aguila                49.34        174       0.00          5
+    1) NG-9768         12.94
+    2) IK-3556          4.50
+    3) SS-8708         10.44
+    4) IV-0934          7.51
+    5) IA-0562          4.96
+
+EA3007XC   Hunter s Run                        12.06        113       0.00          1
+    1) OC-7842          1.97
+
+FW3184LU   Annette et le Criminal             249.08        133       0.00          6
+    1) WJ-9777          2.33
+    2) VU-0612          1.16
+    3) MQ-7769          9.82
+    4) WJ-9777         13.18
+    5) WS-0789          9.27
+    6) NF-0082         10.52
+
+II2522RY   Danza de dragones                  158.75        200       0.00          2
+    1) HM-0189          7.54
+    2) VU-0612          6.67
+
+OQ5095ZV   El cementerio de los ajusticiados     207.90        186       0.00          3
+    1) MQ-7769          2.64
+    2) EA-0929         10.45
+    3) NL-0227          5.63
+
+CS5475RW   Through the Looking-Glass and What Alice Found There      57.95        233       0.00          5
+    1) EA-0929          6.95
+    2) WC-0049         14.02
+    3) NL-0227          6.42
+    4) VU-0612          1.92
+    5) LA-0454         13.68
+
+ZN9028MQ   The Soul of Man under Socialism     220.56        156       0.00          1
+    1) MQ-7769          2.24
+
+VM1767KU   Un drama en la India                17.24        126       0.00          2
+    1) WI-0907         12.98
+    2) WC-0049          0.25
+
+CW9116WD   Los Jefes                          120.78        128       0.00          2
+    1) WJ-9777         11.89
+    2) OC-7842          6.88
+
+KQ7486CD   Juego de tronos                    180.31        189       0.00          1
+    1) YR-8262          3.25
+
+NC4839JW   La Reina del Sur                   110.09        137       0.00          6
+    1) IX-6733         10.13
+    2) FM-0063         11.36
+    3) IK-3556         13.52
+    4) YS-0040         13.98
+    5) ZF-0269          4.59
+    6) AF-3687          2.93
+
+GX2188GB   El asedio                          195.60        147       0.00          1
+    1) BR-0384          2.73
+
+LN5471TX   The Two Dianas                      49.66        222       0.00          2
+    1) IK-3556         13.34
+    2) YR-8262         10.33
+
+FY7169DW   Histoire impartiale des Jesuites     149.82        107       0.00          1
+    1) WC-0049          5.78
+
+FY2041OO   El sol de Breda                     72.76        108       0.00          6
+    1) BR-0384         11.30
+    2) VC-4115          2.37
+    3) PW-9213          9.13
+    4) HM-0189          6.44
+    5) FL-0367          6.93
+    6) IV-0934          4.60
+
+NR6542WP   The Picture of Dorian Gray         127.68        119       0.00          1
+    1) IW-0279         12.17
+
+QF8711PB   Las tragedias del matrimonio        25.96        203       0.00          6
+    1) LA-0454         12.42
+    2) GW-4596          6.23
+    3) XH-0354          3.02
+    4) WJ-9777          7.18
+    5) VB-0184         10.28
+    6) NG-9768         13.09
+
+SG8665UE   Las mascaras rojas.                212.66        205       0.00          2
+    1) XH-0354          8.02
+    2) OC-7842          7.94
+
+RG6987WH   Los estranguladores                139.68        142       0.00          5
+    1) SS-8708         13.65
+    2) HZ-0118          8.80
+    3) OC-7842         14.27
+    4) VU-0612          3.53
+    5) BZ-0138          3.58
+
+DQ8701MS   Los millones de la gitana          214.48        162       0.00          5
+    1) YZ-0611          7.78
+    2) EA-0929          7.74
+    3) MQ-7769          4.68
+    4) KX-5448          3.99
+    5) VU-0612          6.56
+
+QJ3474KQ   Pamela Giraud                       31.90        214       0.00          6
+    1) FB-0158          4.67
+    2) FL-0367         14.91
+    3) BZ-0138          8.38
+    4) IV-0934          1.82
+    5) IV-0934         11.45
+    6) FB-0158         13.71
+
+QA5298BS   El caballero errante edicion bolsillo 2011     162.77         99       0.00          3
+    1) BZ-0138         12.57
+    2) NL-0227          1.31
+    3) MQ-7769         12.83
+
+JM5501SW   Vautrin                            196.20        141       0.00          5
+    1) RI-0786          3.57
+    2) FL-0367          9.46
+    3) HZ-0118          9.22
+    4) HM-0189          2.22
+    5) VU-0612         13.92
+
+ZN3167XY   Jean-Louis                         177.87         92       0.00          2
+    1) DS-4787         13.22
+    2) KD-4655          7.03
+
+UZ9158GR   El sueno del celta                  64.03        143       0.00          6
+    1) EA-0929          9.90
+    2) YF-1592         14.49
+    3) BR-0384          4.16
+    4) PW-9213          7.16
+    5) FB-0158          2.55
+    6) WC-0798          4.93
+
+ON6540SA   La Dame de Monsoreau               167.30         81       0.00          3
+    1) XH-0354          0.86
+    2) FB-0158          6.55
+    3) AF-3687          4.80
+
+UT2471OX   Los amores de Aurora               154.38         96       0.00          3
+    1) PW-9213          2.38
+    2) NL-0227          4.25
+    3) VB-0184         15.00
+
+BK6876FI   La Guida di Bragia a Ballad for the Marionette Theatre     203.27        211       0.00          3
+    1) HZ-0118          9.14
+    2) UR-1509         11.95
+    3) HM-0189          6.10
+
+LR8081ER   Los cuadernos de don Rigoberto      87.71        198       0.00          5
+    1) IX-6733          0.51
+    2) MQ-7769         12.71
+    3) IW-0279          1.88
+    4) VB-0184         11.51
+    5) YF-1592         14.76
+
+PY2368UR   Crucero de verano                  101.48        188       0.00          3
+    1) IK-3556         11.56
+    2) EA-0929          6.50
+    3) VB-0184         14.52
+
+TE8991UQ   Sueno del Fevre                    114.04        143       0.00          2
+    1) IW-0279          1.37
+    2) HM-0189         13.42
+
+UB7468SQ   The Happy Prince and Other Stories     155.22        180       0.00          6
+    1) PW-9213         11.31
+    2) NF-0082          5.56
+    3) HZ-0118         13.72
+    4) WS-0789          3.26
+    5) GF-0444         14.54
+    6) XH-0354          8.17
+
+RP6271BL   Limpieza de sangre                  24.87        228       0.00          3
+    1) IK-3556          5.55
+    2) HM-0189         14.71
+    3) VB-0184          9.17
+
+GL7429JW   Three Sunsets and Other Poems      177.46         89       0.00          3
+    1) EA-0929          8.76
+    2) IV-0934         13.78
+    3) TC-0557          1.44
+
+IT8053MF   La maestra de parvulos             176.61        122       0.00          3
+    1) IV-0934         12.54
+    2) BZ-0138         11.11
+    3) KD-4655          0.40
+
+OU5986RW   Otras voces otros ambitos          207.15        213       0.00          1
+    1) IA-0562          7.17
+
+JB8733DZ   Le Pere Goriot                     128.63        171       0.00          3
+    1) TC-0557         10.21
+    2) IK-3556          7.17
+    3) HM-0189          2.40
+
+SC9916YW   Sylvie and Bruno                    47.81        174       0.00          1
+    1) XH-0354          0.52
+
+DK5398LE   Los dramas sangrientos               0.14        102       0.00          6
+    1) NF-0082         14.83
+    2) HZ-0118          0.11
+    3) WI-0907          6.99
+    4) LA-0454          2.41
+    5) AC-0992         13.08
+    6) BZ-0138          0.41
+
+BN3257BY   Du Droit d ainesse                  73.78        193       0.00          5
+    1) WC-0049          0.23
+    2) AF-3687         14.32
+    3) YZ-0611         14.81
+    4) WH-0233         12.14
+    5) XH-0354         10.09
+
+XW1458DU   La pasada maldita                  141.54        155       0.00          1
+    1) WI-0907          4.67
+
+LS7561CB   Le Lys dans la vallee              105.18        232       0.00          2
+    1) RI-0786          5.97
+    2) GF-0444         10.05
+
+AM6250DU   Refugio del viento                 139.34        160       0.00          3
+    1) WC-0798         14.72
+    2) WH-0233          0.60
+    3) YF-1592          7.66
+
+CP6156WG   Illusions perdues                   13.02        209       0.00          2
+    1) SS-8708          9.39
+    2) YR-8262          5.19
+
+WF8130EJ   La Condesa de Artoff                 0.38        158       0.00          4
+    1) IX-6733         11.15
+    2) NG-9768         13.49
+    3) OC-7842          3.87
+    4) MQ-7769          8.37
+
+FL8233NN   El loco de Bedlan                   18.52        101       0.00          1
+    1) WH-0233          8.93
+
+WO4252BX   Louis XIV and His Century           53.12        107       0.00          3
+    1) HM-0189         12.75
+    2) BR-0384          6.72
+    3) YR-8262         12.56
+
+WI4128DM   El regicida                        240.55        184       0.00          1
+    1) FM-0063          8.21
+
+JJ7402FL   Ojos azules                         12.76        132       0.00          3
+    1) WJ-9777          2.36
+    2) EA-0929          4.02
+    3) IV-0934          8.18
+
+WQ3852TB   The Conspirators                    43.41        177       0.00          1
+    1) VU-0612         14.17
+
+UL6621CD   Cromwell                           230.19        231       0.00          1
+    1) VU-0612          2.99
+
+HA9951DJ   Aventuras de Enrique IV             29.05        177       0.00          2
+    1) WC-0049          8.47
+    2) LA-0454          6.90
+
+MY8587XW   The Black Tulip                    248.20        200       0.00          3
+    1) KX-5448         11.17
+    2) GF-0444         10.21
+    3) RI-0786         13.45
+
+KQ2743JR   Miriam                             174.81        185       0.00          6
+    1) KX-5448         12.85
+    2) TC-0557         11.80
+    3) NL-0227          8.11
+    4) DS-4787          9.84
+    5) TC-0557         14.63
+    6) NG-9768         11.73
+
+NH7133NN   Poems                               96.88        127       0.00          1
+    1) PW-9213         11.38
+
+AT6583NT   La Maratre                         121.97        223       0.00          5
+    1) NF-0082          5.33
+    2) WJ-9777          2.34
+    3) WJ-9777          0.53
+    4) WJ-9777          0.63
+    5) OC-7842          5.55
+
+FX4598QC   L Heritiere de Birague             204.68        143       0.00          2
+    1) BR-0384          9.63
+    2) UR-1509         10.93
+
+LC2285UP   Festin de cuervos                  112.68        144       0.00          6
+    1) SS-8708          8.30
+    2) YF-1592          3.02
+    3) HZ-0118         13.67
+    4) VB-0184          7.33
+    5) LV-2063          6.25
+    6) KX-5448         10.00
+
+VA4307HP   La venganza de Bacara              179.03        129       0.00          2
+    1) HM-0189          8.57
+    2) YF-1592          8.60
+
+SA2977ME   Pillow Problems                    198.59         91       0.00          2
+    1) LV-2063          0.60
+    2) VC-4115         14.95
+
+YN1123TS   Sarrasine                            9.30         93       0.00          2
+    1) WH-0233         11.41
+    2) ZF-0269          9.98
+
+IE7034BY   Splendeurs et miseres des courtisanes       1.22         95       0.00          3
+    1) LA-0454         12.94
+    2) YS-0040         14.60
+    3) PW-9213         13.98
+
+GP6444NJ   The Wolf-Leader                    225.89        158       0.00          5
+    1) YF-1592          7.50
+    2) MQ-7769          2.84
+    3) WI-0907          2.96
+    4) XH-0354          9.29
+    5) MQ-7769          3.75
+
+TD1615DN   La juventud de Enrique IV           78.30        135       0.00          5
+    1) HZ-0118         12.98
+    2) YF-1592         14.70
+    3) OC-7842         12.91
+    4) HZ-0118         13.90
+    5) WJ-9777          4.73
+
+IS6885CB   The Count of Moret                 173.76        176       0.00          2
+    1) LV-2063          0.81
+    2) FM-0063          5.21
+
+XG2841HD   Intentions                          85.09        128       0.00          5
+    1) AC-0992          9.95
+    2) YR-8262          7.24
+    3) NL-0227          2.64
+    4) WI-0907          7.90
+    5) YF-1592          3.99
+
+OO7015WT   La casa de locos                    88.51        142       0.00          6
+    1) BZ-0138         12.89
+    2) UR-1509          5.36
+    3) WC-0798          7.19
+    4) BZ-0138         11.44
+    5) VB-0184          5.38
+    6) IA-0562          9.97
+
+HG1768VE   El oro del rey                     119.48        162       0.00          5
+    1) DS-4787         14.00
+    2) YS-0040          0.16
+    3) FL-0367          1.75
+    4) PW-9213         13.75
+    5) FL-0367          1.54
+
+BJ1174AM   Un dia de colera                   131.51        226       0.00          1
+    1) TC-0557         12.47
+
+ZD9824IK   Sor Luisa la hermana de la Caridad      37.56         86       0.00          2
+    1) KX-5448         14.44
+    2) IK-3556          0.47
+
+AV6615NW   La Derniere Fee                     47.98        199       0.00          1
+    1) YR-8262          6.56
+
+YC4855NM   La Carcel de Mujeres               186.91        132       0.00          4
+    1) BR-0384          1.54
+    2) IX-6733          0.27
+    3) FL-9313          4.04
+    4) WH-0233          0.19
+
+HT1525EV   La carta esferica                  168.91        126       0.00          6
+    1) WS-0789          9.05
+    2) AF-3687         10.00
+    3) AF-3687          5.42
+    4) YS-0040          4.50
+    5) WS-0789         11.78
+    6) OC-7842          0.96
+
+RG5641SL   El caballero del jubon amarillo      74.91        148       0.00          2
+    1) LV-2063         12.18
+    2) FB-0158          2.85
+
+BC4893LG   The Whites and the Blues           107.79         99       0.00          6
+    1) EA-0929          0.33
+    2) VB-0184          8.26
+    3) BZ-0138          2.15
+    4) AF-3687          3.29
+    5) FL-0367          0.44
+    6) WC-0798          9.57
+
+NR5876YA   Desayuno en Tiffany s               55.32        126       0.00          2
+    1) OC-7842          0.10
+    2) FM-0063          1.97
+
+IO5911NT   Historia de un crimen                6.47        129       0.00          4
+    1) OC-7842          7.30
+    2) WC-0798         13.91
+    3) LV-2063          2.56
+    4) NF-0082          8.23
+
+FT8646ET   Mercadet ou le faiseur             168.96        162       0.00          1
+    1) VU-0612          9.70
+
+CH3192KQ   La justicia de los gitanos         154.02         82       0.00          6
+    1) IX-6733          1.80
+    2) WH-0233          6.13
+    3) YF-1592         10.53
+    4) BR-0384          8.19
+    5) VB-0184          8.41
+    6) IA-0562          4.31
+
+EQ5904CV   arbol de noche y otras historias     207.98        168       0.00          1
+    1) KD-4655          2.02
+
+SD8512ZT   Daniela                             90.56        134       0.00          3
+    1) FB-0158         12.57
+    2) FL-9313          1.21
+    3) PW-9213          1.43
+
+LF9177YQ   Tormenta de espadas                156.93        214       0.00          5
+    1) FL-9313          2.52
+    2) NF-0082         13.39
+    3) LV-2063         10.42
+    4) WC-0049          1.68
+    5) AC-0992          8.41
+
+YB9897SE   Turquesa la pecadora               196.59        110       0.00          1
+    1) FB-0158          0.91
+
+JR9334YX   La espada leal Edicion bolsillo 2011     143.21        123       0.00          6
+    1) YS-0040         10.21
+    2) DS-4787         11.24
+    3) GW-4596          4.70
+    4) KD-4655          1.32
+    5) FM-0063          9.56
+    6) IK-3556          1.46
+
+UL2816HD   El arpa de hierba                   48.44        106       0.00          1
+    1) XH-0354         11.34
+
+BO7117UM   Captain Pamphile                   114.38        150       0.00          2
+    1) FL-0367         12.21
+    2) LV-2063          8.90
+
+TN9688YA   El herrero del convento             79.06        121       0.00          5
+    1) EA-0929          6.68
+    2) WC-0798          9.00
+    3) IK-3556          7.61
+    4) BR-0384          8.94
+    5) RI-0786          4.58
+
+XX9509ZX   La Rabouilleuse                    137.86        120       0.00          1
+    1) LA-0454          7.55
+
+PE4236AL   Clara de Azay                      173.69         94       0.00          1
+    1) PW-9213         12.35
+
+UM1284HF   La Muerte del Salvaje              246.04         99       0.00          5
+    1) LV-2063          1.09
+    2) HZ-0118          0.75
+    3) UR-1509         11.58
+    4) WI-0907          2.25
+    5) GF-0444          0.75
+
+PU8782TN   A sangre fria                      179.14        135       0.00          4
+    1) WH-0233          0.65
+    2) BZ-0138         14.93
+    3) NG-9768          0.48
+    4) IW-0279          7.66
+
+TO4924XO   Un recuerdo navideno                68.98         98       0.00          4
+    1) OC-7842         12.09
+    2) IX-6733          7.57
+    3) WS-0789          3.89
+    4) YR-8262          5.36
+
+AV2818EB   A Woman of No Importance            66.47        162       0.00          4
+    1) UR-1509          7.67
+    2) IA-0562          5.27
+    3) WS-0789         11.60
+    4) LA-0454          1.07
+
+HT6723QW   Contes drolatiques                  39.13        159       0.00          2
+    1) YF-1592          7.81
+    2) VB-0184          6.87
+
+KR3058OH   El arpa de hierba                  145.61        202       0.00          6
+    1) FM-0063         14.48
+    2) FL-9313          9.25
+    3) ZF-0269         10.11
+    4) FM-0063          8.84
+    5) DS-4787          6.66
+    6) KD-4655         14.77
+
+FX3101KZ   La Prision de Rocambole            225.28        148       0.00          3
+    1) YS-0040         12.97
+    2) LA-0454          0.93
+    3) IV-0934          1.14
+
+QM9331MK   De Profundis                        51.72        223       0.00          3
+    1) PW-9213          6.85
+    2) HZ-0118          3.66
+    3) YZ-0611          8.81
+
+VO3034VH   The Count of Monte Cristo          113.60         92       0.00          1
+    1) XH-0354         14.77
+
+IT4208OQ   The Importance of Being Earnest     176.43        121       0.00          6
+    1) SS-8708          1.62
+    2) VU-0612          6.33
+    3) HM-0189         15.00
+    4) WS-0789         11.60
+    5) UR-1509          3.28
+    6) LA-0454         13.92
+
+IY2902QK   La herencia misteriosa             173.59         92       0.00          1
+    1) WJ-9777         14.55
+
+LP9127DX   The Forty-Five Guardsmen           111.91        178       0.00          5
+    1) GW-4596          1.48
+    2) KD-4655          8.35
+    3) PW-9213          2.54
+    4) WC-0798          2.96
+    5) FL-0367         12.73
+
+RW8740KF   El invitado del Dia de Accion de Gracias     203.59        100       0.00          5
+    1) BR-0384          0.63
+    2) AC-0992          4.25
+    3) KD-4655         12.12
+    4) TC-0557          4.58
+    5) WC-0798          6.45
+
+CI3630ND   La taberna de la sangre             53.06         83       0.00          2
+    1) WI-0907          2.22
+    2) WJ-9777         13.48
+
+UD2381PB   Olympe de Cleves                   233.01        107       0.00          3
+    1) KD-4655          7.82
+    2) WC-0798          7.60
+    3) XH-0354          8.40
+
+CR4882TZ   Los amores de Limosino             201.72        185       0.00          5
+    1) VU-0612          8.95
+    2) BZ-0138          2.87
+    3) VU-0612          1.32
+    4) BZ-0138          6.63
+    5) PW-9213          3.80
+
+DG7117TN   La Grande Breteche                 115.78        163       0.00          5
+    1) HZ-0118          0.60
+    2) YS-0040          7.99
+    3) LA-0454          5.64
+    4) GF-0444          2.68
+    5) AF-3687          8.17
+
+NC9328AG   El maestro de esgrima              178.05        130       0.00          2
+    1) SS-8708          2.63
+    2) FB-0158         11.31
+
+DY4705CM   La piel del tambor                 161.68        139       0.00          4
+    1) YF-1592          3.39
+    2) WS-0789          2.94
+    3) IX-6733          7.71
+    4) BR-0384          0.77
+
+SD3050HJ   El puente de los asesinos          132.10        137       0.00          6
+    1) IK-3556         12.16
+    2) IV-0934          5.89
+    3) NG-9768         12.73
+    4) YR-8262          9.79
+    5) LV-2063          2.56
+    6) EA-0929         12.76
+
+WG3813FU   La Fiesta del Chivo                182.98        112       0.00          5
+    1) WH-0233         10.95
+    2) VC-4115         10.48
+    3) KD-4655         14.54
+    4) DS-4787          9.25
+    5) MQ-7769          5.86
+
+IT8310GB   Los Dramas de Paris                175.88        180       0.00          4
+    1) FM-0063         14.95
+    2) FL-0367          9.08
+    3) NF-0082          9.66
+    4) YZ-0611          4.79
+
+ES3919SN   Las Hazanas de Rocambole           135.81        176       0.00          4
+    1) PW-9213         14.57
+    2) DS-4787         12.81
+    3) IV-0934         10.18
+    4) NG-9768         12.12
+
+VQ1939LH   Vientos de invierno                 86.64        116       0.00          5
+    1) GW-4596          9.28
+    2) FB-0158          1.99
+    3) KX-5448          5.79
+    4) BR-0384          1.06
+    5) FM-0063          7.90
+
+ZT6760GK   Los perros ladran                  106.68        111       0.00          5
+    1) SS-8708         11.22
+    2) WJ-9777         13.02
+    3) HZ-0118          3.85
+    4) WC-0049          1.68
+    5) LA-0454         12.13
+
+SK4804GC   The Knight of Sainte-Hermine       118.74        181       0.00          1
+    1) HM-0189          9.01
+
+AT2717LA   Rhyme? And Reason?                  76.62         88       0.00          4
+    1) IW-0279          5.16
+    2) FM-0063          0.81
+    3) WI-0907          5.25
+    4) IX-6733          1.07
+
+OF6661LN   Quien mato a Palomino Molero       242.23        203       0.00          1
+    1) FM-0063         10.29
+
+BT3315VD   Le Contrat de mariage               31.68        150       0.00          5
+    1) WC-0049          3.09
+    2) HM-0189          3.75
+    3) HZ-0118         10.36
+    4) EA-0929          5.83
+    5) NL-0227          1.89
+
+ZM7428JA   Choque de reyes                      9.15        228       0.00          4
+    1) WJ-9777         14.24
+    2) MQ-7769          4.84
+    3) AF-3687         12.36
+    4) EA-0929          4.79
+
+PF1853PQ   El Conde de Artoff                 228.38        223       0.00          6
+    1) YR-8262          8.52
+    2) WH-0233          4.55
+    3) OC-7842         11.50
+    4) DS-4787         13.27
+    5) YR-8262          2.75
+    6) WJ-9777          0.63
+
+CC8875DL   Mojave y La Costa Vasca 1965        21.77        212       0.00          1
+    1) BR-0384          2.29
+
+WW7693JQ   La tia Julia y el escribidor       196.67        162       0.00          6
+    1) XH-0354         12.22
+    2) EA-0929          9.52
+    3) IA-0562         13.43
+    4) OC-7842          6.84
+    5) VC-4115         10.39
+    6) NF-0082          7.00
+
+NH6288RL   The Vicomte de Bragelonne            7.47        224       0.00          6
+    1) SS-8708          0.37
+    2) WH-0233          9.70
+    3) YF-1592         11.78
+    4) AF-3687          6.03
+    5) FL-0367          9.34
+    6) HM-0189         11.37
+
+PU4782SM   Los cachorros                      120.87        124       0.00          6
+    1) YR-8262          3.80
+    2) VC-4115          8.54
+    3) AC-0992         12.86
+    4) NL-0227          4.81
+    5) FB-0158         12.69
+    6) DS-4787          4.44
+
+CO4540QO   The Muses Are Heard                 72.35        120       0.00          2
+    1) LA-0454         11.35
+    2) YR-8262          0.45
+
+YG2998YZ   Un asunto de honor                  10.13        154       0.00          3
+    1) NG-9768         10.38
+    2) SS-8708         14.55
+    3) WS-0789         14.44
+
+ZA4037ID   Eugenie Grandet                     96.34        222       0.00          4
+    1) LA-0454         12.76
+    2) IA-0562         10.05
+    3) VB-0184         14.43
+    4) BZ-0138         13.33
+
+GW9736BB   La Senorita Elena                   85.29        227       0.00          3
+    1) IA-0562         11.33
+    2) FL-0367         13.25
+    3) YR-8262          4.97
+
+NP8044XS   El husar                           249.96        145       0.00          1
+    1) AF-3687          8.59
+
+MZ7814EO   Les Chouans                         85.63        171       0.00          5
+    1) XH-0354          3.85
+    2) YS-0040         13.07
+    3) IW-0279          0.19
+    4) WJ-9777         10.21
+    5) FL-0367         12.32
+
+VY1210EZ   The Mohicans of Paris               83.93         88       0.00          1
+    1) AC-0992          1.69
+
+ME9511EJ   Escritos selectos de Truman Capote      91.78        200       0.00          2
+    1) FL-0367          4.36
+    2) NL-0227          5.47
+
+VI7832AZ   Plegarias atendidas                149.25        228       0.00          6
+    1) YF-1592          9.64
+    2) SS-8708          2.27
+    3) EA-0929          8.76
+    4) YS-0040          9.67
+    5) WC-0049          7.95
+    6) FB-0158         10.67
+
+RL5677LO   El gran Gatsby                     169.65         88       0.00          6
+    1) EA-0929         14.05
+    2) VU-0612         10.22
+    3) LV-2063         12.75
+    4) HZ-0118          8.95
+    5) XH-0354         10.47
+    6) MQ-7769         13.76
+
+AT2197ZH   The Three Musketeers                12.06        166       0.00          5
+    1) WC-0049          7.12
+    2) BR-0384          4.99
+    3) NL-0227          5.70
+    4) YS-0040          2.56
+    5) XH-0354          1.19
+
+CB4453DW   Travesuras de la nina mala         243.70        199       0.00          5
+    1) FM-0063         13.70
+    2) UR-1509          7.17
+    3) BZ-0138          5.77
+    4) YZ-0611          5.54
+    5) BR-0384          0.87
+
+TR8895WG   El tango de la guardia vieja       209.75         91       0.00          4
+    1) WC-0798          8.10
+    2) ZF-0269         13.05
+    3) EA-0929          2.48
+    4) NL-0227          6.82
+
+CI9105HO   La Reine Margot                    249.08        195       0.00          6
+    1) BR-0384          3.43
+    2) RI-0786         13.33
+    3) WJ-9777         10.57
+    4) PW-9213         12.33
+    5) YF-1592         13.64
+    6) DS-4787         10.05
+
+TQ7085IX   El caballero Misterioso             69.91        188       0.00          4
+    1) AF-3687         11.55
+    2) RI-0786          9.17
+    3) IA-0562         14.85
+    4) BR-0384         12.96
+
+MU4534DD   La cuerda del ahorcado             141.32         84       0.00          6
+    1) WC-0049          8.41
+    2) FB-0158          3.65
+    3) GF-0444         14.73
+    4) BR-0384          8.51
+    5) NL-0227         13.79
+    6) YF-1592         10.66
+
+VG5202TY   La ultima palabra de Rocambole      70.69        163       0.00          5
+    1) DS-4787          3.99
+    2) WJ-9777         12.36
+    3) IX-6733          2.83
+    4) LA-0454          4.38
+    5) LA-0454          5.73
+
+CT7633XV   Territorio comanche                127.29        213       0.00          6
+    1) BZ-0138          6.00
+    2) KX-5448         13.73
+    3) FM-0063          5.75
+    4) MQ-7769          3.38
+    5) FL-9313          9.37
+    6) HZ-0118         14.88
+
+RU2997OR   Ascanio                             11.89        225       0.00          5
+    1) IX-6733         12.65
+    2) FL-9313          2.22
+    3) YZ-0611          2.48
+    4) WC-0049          9.08
+    5) IV-0934         11.32
+
+IS3363GP   Le Centenaire                        9.34        153       0.00          5
+    1) WC-0798          9.39
+    2) UR-1509          4.62
+    3) BR-0384          3.82
+    4) LA-0454          4.64
+    5) YF-1592          7.56

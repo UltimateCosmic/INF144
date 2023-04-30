@@ -1,0 +1,29 @@
+15011   Ate
+15063    Barranco
+15082   Brena
+15121  Carabayllo
+15057 Chorrillos
+15311 Comas
+15004  El Agustino
+15331   Independencia
+15072       Jesus Maria
+15024  La Molina
+15001    Cercado de Lima
+15301   Los Olivos
+15076  Magdalena del Mar
+15074     Miraflores
+15084   Pueblo Libre
+15116    Puente Piedra
+15093   Rimac
+15036      San Borja
+15047 San Isidro
+15401    San Juan de Lurigancho
+15056   San Juan de Miraflores
+15019     San Luis
+15102 San Martin de Porres
+15087   San Miguel
+15008    Santa Anita
+15038  Santiago de Surco
+15048   Surquillo
+15816     Villa el Salvador
+15809    Villa Maria del Triunfo

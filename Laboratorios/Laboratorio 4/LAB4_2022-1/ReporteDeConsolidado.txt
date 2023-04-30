@@ -1,0 +1,81 @@
+                                                 INSTITUCION EDUCATIVA LIMA
+                                                   CONSOLIDADO DE ALUMNOS
+============================================================================================================================================
+    CODIGO     NOMBRE                    CURSOS     CURSOS        PROMEDIO     CREDITOS     CREDITOS      PASA A FACULTAD
+                                         APROBADOS  DESAPROBADOS  PONDERADO    APROBADOS    DESAPROBADOS
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 1) 20030695   Vasquez P. Alex M.            5          0          13.60         113.50           22.75        SI
+ 2) 19990844   Justino F. Ericka V. M.       4          2          10.83          69.50           40.00        No, faltan 1.00 creditos
+ 3) 20003172   Villa Y. Tatiana N.           1          0          13.00          46.50            7.00        SI
+ 4) 20019778   Chumpitaz I. Ronal            0          0          --.--          56.50            5.00        No, faltan 28.00 creditos
+ 5) 20060658   Chung L. Alvaro               0          0          --.--          74.75           34.50        No, faltan 7.00 creditos
+ 6) 20060119   Perez F. Richard S. M.        0          0          --.--           9.00           32.75        No, faltan 25.25 creditos
+ 7) 20110165   Cabrera L. Shirley I.         0          0          --.--          42.00           39.50        No, faltan 31.00 creditos
+ 8) 20064217   Pinto C. Shirley              0          0          --.--          57.25           39.75        No, faltan 23.75 creditos
+ 9) 20097877   Romero P. Gloria T.           0          0          --.--          77.00           35.00        No, faltan 8.00 creditos
+10) 20020476   Santisteban M. Rosa           0          0          --.--           7.50            9.00        No, faltan 29.00 creditos
+11) 19993541   Mendoza E. Rosario            0          0          --.--           8.00           19.00        No, faltan 28.00 creditos
+12) 20083333   Salazar C. Lorena I.          0          0          --.--          80.50           39.75        SI
+13) 20109738   Reyes T. Edward               0          0          --.--          68.50           11.75        No, faltan 1.25 creditos
+14) 20070596   Cerna P. Fiorella M. S.       0          0          --.--          99.00            0.25        No, faltan 24.75 creditos
+15) 20027352   Forzani C. Alonso             0          0          --.--          71.75           20.00        No, faltan 4.25 creditos
+16) 19980622   Shirakawa M. Madeleine        0          0          --.--          33.00           37.25        No, faltan 22.75 creditos
+17) 20060735   Arroyo G. Maria H.            0          0          --.--          97.25           39.75        No, faltan 23.25 creditos
+18) 20100201   Hernandez B. Emilio           0          0          --.--          22.00           11.50        No, faltan 3.25 creditos
+19) 20090888   Vega G. Janet R.              0          0          --.--           5.25            0.50        No, faltan 5.50 creditos
+20) 20050391   Shirakawa O. Angel            0          0          --.--          75.25           24.00        No, faltan 11.50 creditos
+21) 19980315   Wong M. Madeleine             0          0          --.--          58.75           34.75        No, faltan 33.00 creditos
+22) 20010141   Diaz A. Magali S. S.          0          0          --.--          14.00           12.75        No, faltan 3.75 creditos
+23) 20050743   Mejia D. Blanca M.            0          0          --.--          91.75           20.25        No, faltan 19.00 creditos
+24) 20043300   Raffo C. Adria G.             0          0          --.--          17.50           22.00        No, faltan 31.50 creditos
+25) 20052529   Castro S. Rolando             0          0          --.--          70.50           30.25        No, faltan 23.25 creditos
+26) 20046665   Delgado G. Guillermo A. L.    0          0          --.--          69.50            3.50        No, faltan 28.75 creditos
+27) 20020158   Prado F. Edgar R.             0          0          --.--          45.50           12.75        No, faltan 14.00 creditos
+28) 20090107   Maldonado R. Silvana          0          0          --.--          41.00           17.50        No, faltan 31.25 creditos
+29) 20078092   Piscoya B. Cesar B. F.        0          0          --.--          56.25           13.75        No, faltan 16.50 creditos
+30) 20013723   Cerna H. Jose R.              0          0          --.--          24.00           15.00        No, faltan 33.00 creditos
+31) 20067828   Raffo A. Surami A. M.         0          0          --.--          99.75            3.50        No, faltan 15.50 creditos
+32) 20020441   Fernandez O. Elizabeth E.     0          0          --.--          67.75           30.75        No, faltan 17.50 creditos
+33) 20110564   Diaz C. Irma V.               0          0          --.--          27.75            5.25        No, faltan 16.00 creditos
+34) 19980667   Valverde F. Irma Y.           0          0          --.--          70.25           36.75        No, faltan 23.00 creditos
+35) 20080708   Pairazaman A. Moises M. J.    0          0          --.--          37.75            3.00        No, faltan 7.50 creditos
+36) 20070461   Prado V. Carlos J.            0          1          10.00          29.50           34.50        No, faltan 20.25 creditos
+37) 19990036   Norabuena P. Cinthia          0          0          --.--          13.50           25.00        No, faltan 10.75 creditos
+38) 19998980   Velasquez H. Edgard H.        0          0          --.--          89.00           28.75        No, faltan 25.75 creditos
+39) 20110813   Inga F. Cesar A.              0          1           6.00          61.50           15.00        No, faltan 19.25 creditos
+40) 20015236   Corrales T. Irma L.           0          0          --.--          81.50           13.75        No, faltan 35.50 creditos
+41) 20060051   Cerna D. Martin               0          0          --.--          44.25           22.75        No, faltan 30.00 creditos
+--------------------------------------------------------------------------------------------------------------------------------------------
+Cantidad de alumnos que pasaran a Facultad:      3
+Cantidad de alumnos que no pasaran a Facultad:  38
+============================================================================================================================================
+TOTAL DE ALUMNOS MATRICULADOS EN EL CICLO:      41
+============================================================================================================================================
+
+                                RESULTADOS POR CURSO
+     CODIGO  NOMBRE                                       APROBADOS     DESAPROBADOS
+  1) 1123    METODOS Y TECNICAS DE INVESTIGACION 1             2               0
+  2) 1510    MAQUILLAJE Y CARACTERIZACION                      0               0
+  3) 1730    ESTADISTICA PARA INGENIERIA                       0               0
+  4) 1755    PRACTICA SUPERVISADA PRE-PROFESIONAL              1               0
+  5) 3055    ELECTIVO PARA FISICA 4                            1               0
+  6) 3155    ELEMENTOS DE MAQUINAS 2                           0               0
+  7) 3171    ACTUACION 1                                       0               0
+  8) 3492    TECNOLOGIA DE LA INFORMACION                      1               0
+  9) 3580    DRAMATURGIA 1                                     0               1
+ 10) 3590    CREATIVIDAD E INNOVACION                          1               1
+ 11) 3879    HISTORIA CULTURAL Y DE MENTALIDADES               0               0
+ 12) 3948    RESISTENCIA DE MATERIALES 1                       1               0
+ 13) 4159    LENGUAJE DE LOS MEDIOS                            0               0
+ 14) 4513    TERMOFLUIDOS                                      0               0
+ 15) 4850    INGENIERIA DE MATERIALES                          1               0
+ 16) 5712    SEMINARIO DE TESIS 2                              0               0
+ 17) 8318    INNOVACION Y DESARROLLO                           0               0
+ 18) 8349    PUBLICIDAD INTERACTIVA                            0               0
+ 19) 8664    FUENTES Y ESTRUCTURA DEL ESTADO                   1               0
+ 20) 8775    HISTORIA DE LA FORMACION DE OCCIDENTE             1               0
+ 21) 8826    FUENTES DOCUMENTALES                              0               0
+ 22) 9158    ESTADO SOLIDO                                     0               0
+ 23) 9844    LEGISLACION EN COMUNICACIONES                     0               0
+ 24) 9860    TOPICOS DE INSTRUMENTACION Y CONTROL              0               0
+ 25) 9873    LENGUA Y COMPOSICION                              0               2

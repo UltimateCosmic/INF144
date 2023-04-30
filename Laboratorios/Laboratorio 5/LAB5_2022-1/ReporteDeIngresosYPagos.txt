@@ -1,0 +1,294 @@
+                                                          Editorial TP
+========================================================================================================================
+PAGO A LOS AUTORES:
+------------------------------------------------------------------------------------------------------------------------
+CODIGO    NOMBRE                             TOTAL DE LIBROS VENDIDOS           REGALIAS
+------------------------------------------------------------------------------------------------------------------------
+BR-0384   Felicita Erika Del Castillo Chung              3914                   213.13
+MQ-7769   Edilberto Jesus Mori Suarez                    3848                   230.30
+YS-0040   David Carlos Perez Antezano                    3830                   195.74
+OC-7842   Delicia  Norabuena Zegarra                     3795                   235.54
+LA-0454   Janet Cinthia Aranda Minaya                    3775                   176.32
+WJ-9777   Rosario  Tabori Arias                          3507                   226.03
+FL-0367   Delia Estefania Cabrera Moreno                 3419                   192.32
+HZ-0118   Julio  Vilcara Jugo                            3408                   211.17
+VU-0612   Zkenia Irma Chung Zuniga                       3269                   223.06
+EA-0929   Delicia Rosa Arca Leiva                        3227                   190.08
+HM-0189   Francisco  Zimic Salas                         3153                   174.05
+IV-0934   Ofelia Carmen Mercado Caro                     3093                   152.02
+DS-4787   Walter  Jolay Chumpitaz                        3034                   244.30
+XH-0354   Javier Edgard Landa Cabrera                    3031                   239.83
+PW-9213   Delia  Zarate Urbina                           2919                   192.99
+WC-0049   Humberto Alberto Vargas Guevara                2897                   105.95
+AF-3687   Blanca Luz Acuna Ayllon                        2861                   199.02
+IX-6733   Johan Enrique Ayala Zevallos                   2827                   151.55
+FM-0063   Victoria Fiorella Cuba Pomajambo               2762                   248.81
+VB-0184   Surami Heli Preciado Pinto                     2742                   163.05
+FB-0158   Miguel  Calixto Torres                         2741                   137.84
+GF-0444   Yliana Flor Ortiz Guevara                      2724                   197.13
+YF-1592   Luz Sofia Jauregui Bravo                       2620                   199.17
+WH-0233   Cinthia Milena Zegarra Cabello                 2562                   140.19
+IA-0562   Humberto Alfonso Amezquita Contreras           2540                   109.21
+IK-3556   Valentina Paula Urbina Antezano                2500                   103.48
+BZ-0138   Gustavo Alonso Del Castillo Mejia              2475                   186.81
+NL-0227   Teresa Teresa Martel Mercado                   2468                   123.29
+SS-8708   Wilmer  Saenz Aranda                           2455                   110.41
+TC-0557   Jaime Julian Shirakawa Florian                 2439                   178.29
+KD-4655   Glenda  Cabrera Mori                           2435                   207.43
+YR-8262   Emilio Emigdio Gonzales Aguirre                2421                   100.79
+WS-0789   Victoria Milagros Shirakawa Saona              2320                   156.94
+LV-2063   Milena Cinthia Zarate Acuna                    2310                   111.81
+NG-9768   Marina Natalia Garcia Inga                     2310                   125.19
+UR-1509   Raul  Collado Villa                            2292                   158.28
+RI-0786   Rosario Maribel Yep Zavaleta                   2251                   163.16
+WI-0907   Fiorella Erika Florencio Polo                  2188                   135.45
+YZ-0611   Edgar  Munoz Vergel                            1972                    78.61
+AC-0992   Ofelia Beatriz Montero Bolanos                 1846                   128.17
+WC-0798   Giovana  Mejia Zegarra                         1830                   115.06
+KX-5448   Carmen  Zamora Cabrera                         1769                   163.10
+FL-9313   Alexander  Portugal Raffo                      1619                    87.41
+NF-0082   Alfonso Waldemar Cabello Lam                   1612                    97.83
+GW-4596   Victor Edgar Garcia Astete                     1598                    53.42
+IW-0279   Cesar Jaime Rodriguez Serrano                  1572                    69.56
+VC-4115   Miguel Alex Landeo Estrada                     1113                   125.35
+ZF-0269   Delicia  Arca Aquino                            827                    79.63
+------------------------------------------------------------------------------------------------------------------------
+Total a pagar por regalias:  7608.29
+========================================================================================================================
+RECAUDACION POR LIBROS VENDIDOS:
+------------------------------------------------------------------------------------------------------------------------
+CODIGO      TITULO                                                   LIBROS VENDIDOS        TOTAL RECAUDADO
+------------------------------------------------------------------------------------------------------------------------
+IS3363GP    Le Centenaire                                                  153                  1429.02
+CI9105HO    La Reine Margot                                                195                 48570.60
+RL5677LO    El gran Gatsby                                                  88                 14929.20
+MZ7814EO    Les Chouans                                                    171                 14642.73
+ZA4037ID    Eugenie Grandet                                                222                 21387.48
+NP8044XS    El husar                                                       145                 36244.20
+ZM7428JA    Choque de reyes                                                228                  2086.20
+PU4782SM    Los cachorros                                                  124                 14987.88
+DG7117TN    La Grande Breteche                                             163                 18872.14
+CR4882TZ    Los amores de Limosino                                         185                 37318.20
+AT2197ZH    The Three Musketeers                                           166                  2001.96
+VY1210EZ    The Mohicans of Paris                                           88                  7385.84
+VI7832AZ    Plegarias atendidas                                            228                 34029.00
+NC9328AG    El maestro de esgrima                                          130                 23146.50
+MU4534DD    La cuerda del ahorcado                                          84                 11870.88
+ZT6760GK    Los perros ladran                                              111                 11841.48
+AT2717LA    Rhyme? And Reason?                                              88                  6742.56
+YG2998YZ    Un asunto de honor                                             154                  1560.02
+GW9736BB    La Senorita Elena                                              227                 19360.83
+BT3315VD    Le Contrat de mariage                                          150                  4752.00
+CO4540QO    The Muses Are Heard                                            120                  8682.00
+WG3813FU    La Fiesta del Chivo                                            112                 20493.76
+TQ7085IX    El caballero Misterioso                                        188                 13143.08
+PF1853PQ    El Conde de Artoff                                             223                 50928.74
+DY4705CM    La piel del tambor                                             139                 22473.52
+CT7633XV    Territorio comanche                                            213                 27112.77
+VQ1939LH    Vientos de invierno                                            116                 10050.24
+IT8310GB    Los Dramas de Paris                                            180                 31658.40
+QM9331MK    De Profundis                                                   223                 11533.56
+XX9509ZX    La Rabouilleuse                                                120                 16543.20
+AV6615NW    La Derniere Fee                                                199                  9548.02
+PE4236AL    Clara de Azay                                                   94                 16326.86
+PU8782TN    A sangre fria                                                  135                 24183.90
+HG1768VE    El oro del rey                                                 162                 19355.76
+SA2977ME    Pillow Problems                                                 91                 18071.69
+YN1123TS    Sarrasine                                                       93                   864.90
+WI4128DM    El regicida                                                    184                 44261.20
+MY8587XW    The Black Tulip                                                200                 49640.00
+AT6583NT    La Maratre                                                     223                 27199.31
+GP6444NJ    The Wolf-Leader                                                158                 35690.62
+UL6621CD    Cromwell                                                       231                 53173.89
+JJ7402FL    Ojos azules                                                    132                  1684.32
+XG2841HD    Intentions                                                     128                 10891.52
+BK6876FI    La Guida di Bragia a Ballad for the Marionette Theatre         211                 42889.97
+QA5298BS    El caballero errante edicion bolsillo 2011                      99                 16114.23
+RW8740KF    El invitado del Dia de Accion de Gracias                       100                 20359.00
+JB8733DZ    Le Pere Goriot                                                 171                 21995.73
+TE8991UQ    Sueno del Fevre                                                143                 16307.72
+QJ3474KQ    Pamela Giraud                                                  214                  6826.60
+KQ7486CD    Juego de tronos                                                189                 34078.59
+GX2188GB    El asedio                                                      147                 28753.20
+LN5471TX    The Two Dianas                                                 222                 11024.52
+CW9116WD    Los Jefes                                                      128                 15459.84
+ZN3167XY    Jean-Louis                                                      92                 16364.04
+FY2041OO    El sol de Breda                                                108                  7858.08
+CS5475RW    Through the Looking-Glass and What Alice Found There           233                 13502.35
+EQ5904CV    arbol de noche y otras historias                               168                 34940.64
+OQ5095ZV    El cementerio de los ajusticiados                              186                 38669.40
+FY7169DW    Histoire impartiale des Jesuites                               107                 16030.74
+IE7034BY    Splendeurs et miseres des courtisanes                           95                   115.90
+ME9511EJ    Escritos selectos de Truman Capote                             200                 18356.00
+JR9334YX    La espada leal Edicion bolsillo 2011                           123                 17614.83
+ZD9824IK    Sor Luisa la hermana de la Caridad                              86                  3230.16
+UB7468SQ    The Happy Prince and Other Stories                             180                 27939.60
+HX6409XN    The horoscope : a romance of the reign of Francois II          129                 11083.68
+XJ9839VJ    El club Dumas o La sombra de Richelieu                         148                 30510.20
+MQ9919FJ    Castle Eppstein; The Specter Mother                            125                 28227.50
+LF9177YQ    Tormenta de espadas                                            214                 33583.02
+VA4307HP    La venganza de Bacara                                          129                 23094.87
+FL8233NN    El loco de Bedlan                                              101                  1870.52
+UL2816HD    El arpa de hierba                                              106                  5134.64
+YC4855NM    La Carcel de Mujeres                                           132                 24672.12
+OO7015WT    La casa de locos                                               142                 12568.42
+BJ1174AM    Un dia de colera                                               226                 29721.26
+IS6885CB    The Count of Moret                                             176                 30581.76
+HT6723QW    Contes drolatiques                                             159                  6221.67
+YB9897SE    Turquesa la pecadora                                           110                 21624.90
+FT8646ET    Mercadet ou le faiseur                                         162                 27371.52
+WQ3852TB    The Conspirators                                               177                  7683.57
+CP6156WG    Illusions perdues                                              209                  2721.18
+LS7561CB    Le Lys dans la vallee                                          232                 24401.76
+IY2902QK    La herencia misteriosa                                          92                 15970.28
+TO4924XO    Un recuerdo navideno                                            98                  6760.04
+NR5876YA    Desayuno en Tiffany s                                          126                  6970.32
+WF8130EJ    La Condesa de Artoff                                           158                    60.04
+AM6250DU    Refugio del viento                                             160                 22294.40
+IO5911NT    Historia de un crimen                                          129                   834.63
+HA9951DJ    Aventuras de Enrique IV                                        177                  5141.85
+TN9688YA    El herrero del convento                                        121                  9566.26
+CI3630ND    La taberna de la sangre                                         83                  4403.98
+FX3101KZ    La Prision de Rocambole                                        148                 33341.44
+KR3058OH    El arpa de hierba                                              202                 29413.22
+HT1525EV    La carta esferica                                              126                 21282.66
+UM1284HF    La Muerte del Salvaje                                           99                 24357.96
+FX4598QC    L Heritiere de Birague                                         143                 29269.24
+BO7117UM    Captain Pamphile                                               150                 17157.00
+LC2285UP    Festin de cuervos                                              144                 16225.92
+TU8727XR    El rag del Armagedon                                           131                 26365.06
+BN3257BY    Du Droit d ainesse                                             193                 14239.54
+FW3184LU    Annette et le Criminal                                         133                 33127.64
+RV5936UM    The Regent s Daughter                                          125                 30686.25
+DK5398LE    Los dramas sangrientos                                         102                    14.28
+SC9916YW    Sylvie and Bruno                                               174                  8318.94
+RP6271BL    Limpieza de sangre                                             228                  5670.36
+XW1458DU    La pasada maldita                                              155                 21938.70
+ON6540SA    La Dame de Monsoreau                                            81                 13551.30
+NC4839JW    La Reina del Sur                                               137                 15082.33
+JU3883RV    Crucero de verano                                              208                 37492.00
+MS4911NR    A Dream of Spring                                               93                  2918.34
+XI9387DK    The Queen s Necklace                                           228                 16083.12
+UZ9158GR    El sueno del celta                                             143                  9156.29
+PY2368UR    Crucero de verano                                              188                 19078.24
+II2522RY    Danza de dragones                                              200                 31750.00
+SG8665UE    Las mascaras rojas.                                            205                 43595.30
+VM1767KU    Un drama en la India                                           126                  2172.24
+OZ5846TF    La sombra del aguila                                           174                  8585.16
+HU6690FK    La tabla de Flandes                                            190                 35144.30
+OV9937ME    Clotilde de Lusignan                                           143                 22890.01
+VH7346TV    La ciudad y los perros                                         198                 43320.42
+VW4512SJ    Code des gens honnetes                                         172                 15841.20
+OW7736SR    El pintor de batallas                                          190                 41982.40
+MY7450BH    Le Cure de Tours                                               200                 37264.00
+IT8053MF    La maestra de parvulos                                         122                 21546.42
+UM6418PQ    Corsarios de Levante                                           187                 34200.43
+UT2471OX    Los amores de Aurora                                            96                 14820.48
+DF9803IR    Carmen la gitana                                                89                  6423.13
+RG6987WH    Los estranguladores                                            142                 19834.56
+CG5614UG    La viuda de Sologne                                            159                 29526.30
+UM3196YJ    What the Tortoise Said to Achilles                             166                 22629.12
+EA3007XC    Hunter s Run                                                   113                  1362.78
+NA2262AN    Ange Pitou                                                     152                 16563.44
+YU3404WN    Casa de flores                                                 123                 24087.09
+KE9851ZV    El hombre gris                                                  84                   384.72
+GZ9782CJ    The Women s War                                                218                 33364.90
+NO6758HB    Le Corsaire                                                    119                 19618.34
+WM9620AU    Wann-Chlore                                                     96                  5302.08
+UW7057CE    Robin Hood                                                     201                 32322.81
+DL6219BB    Los Caballeros del Claro de Luna                               214                 10663.62
+VG5202TY    La ultima palabra de Rocambole                                 163                 11522.47
+QF8711PB    Las tragedias del matrimonio                                   203                  5269.88
+TR8895WG    El tango de la guardia vieja                                    91                 19087.25
+RG5641SL    El caballero del jubon amarillo                                148                 11086.68
+ES3919SN    Las Hazanas de Rocambole                                       176                 23902.56
+NR6542WP    The Picture of Dorian Gray                                     119                 15193.92
+NH6288RL    The Vicomte de Bragelonne                                      224                  1673.28
+WO6474BW    La vuelta del Presidiario                                      158                 26248.54
+DQ8701MS    Los millones de la gitana                                      162                 34745.76
+WW7693JQ    La tia Julia y el escribidor                                   162                 31860.54
+OF6661LN    Quien mato a Palomino Molero                                   203                 49172.69
+IT4208OQ    The Importance of Being Earnest                                121                 21348.03
+WN3995HZ    The Page of the Duke of Savoy                                  155                  1768.55
+GL7429JW    Three Sunsets and Other Poems                                   89                 15793.94
+PK7004PF    Pantaleon y las visitadoras                                    194                 46412.56
+SK4804GC    The Knight of Sainte-Hermine                                   181                 21491.94
+CC8875DL    Mojave y La Costa Vasca 1965                                   212                  4615.24
+TD1615DN    La juventud de Enrique IV                                      135                 10570.50
+AV2818EB    A Woman of No Importance                                       162                 10768.14
+LP9127DX    The Forty-Five Guardsmen                                       178                 19919.98
+RU9919GT    El testamento del grano de sal                                  97                 18339.79
+LR8081ER    Los cuadernos de don Rigoberto                                 198                 17366.58
+WO4252BX    Louis XIV and His Century                                      107                  5683.84
+ZN9028MQ    The Soul of Man under Socialism                                156                 34407.36
+SD3050HJ    El puente de los asesinos                                      137                 18097.70
+CB4453DW    Travesuras de la nina mala                                     199                 48496.30
+VK5569WA    Serie Cancion de hielo y fuego                                 101                  3413.80
+CH3192KQ    La justicia de los gitanos                                      82                 12629.64
+BC4893LG    The Whites and the Blues                                        99                 10671.21
+OU5986RW    Otras voces otros ambitos                                      213                 44122.95
+RS5412CP    El paraiso en la otra esquina                                  140                 26623.80
+VO3034VH    The Count of Monte Cristo                                       92                 10451.20
+IJ2633VB    Un breve cuento aparecido en la revista Seventeen              182                 44051.28
+XV8731UB    Unspoiled Monsters y Kate McCloud                               85                 17882.30
+PX3867LY    Alice s Adventures in Wonderland                                83                  9406.39
+PD1639EO    Lord Arthur Savile s Crime and Other Stories                   202                 48879.96
+KB6601QW    Joseph Balsamo                                                 118                 12733.38
+QM1355QW    El nino perdido                                                205                  7281.60
+LO8581RA    El hablador                                                    231                 50923.95
+AX2084DP    Beat the Devil                                                 142                  6148.60
+CQ7026HG    Redencion2                                                     148                 24461.44
+XC5683NX    Cabo Trafalgar                                                 104                 20324.72
+AK2082OC    The Nutcracker                                                 217                  5077.80
+SB4803YB    Una Navidad                                                    202                 46985.20
+FK4438CD    La casa verde                                                  201                 43476.30
+AL2744VA    Suspense2                                                      140                 15050.00
+DG3859IW    Le Cousin Pons                                                 193                 25445.12
+KQ2743JR    Miriam                                                         185                 32339.85
+JM5501SW    Vautrin                                                        141                 27664.20
+RU2997OR    Ascanio                                                        225                  2675.25
+SD8512ZT    Daniela                                                        134                 12135.04
+NH7133NN    Poems                                                          127                 12303.76
+LL1733VC    Georges                                                        127                 17278.35
+BX3667AP    Conversacion en La Catedral                                    214                 36337.20
+FM3676XY    El Duque en su territorio                                       93                  6336.09
+DB5425JV    Le Chef-d oeuvre inconnu                                       168                 38688.72
+ER5817MM    La Resurreccion de Rocambole                                   174                 13283.16
+PF2178PX    El Manuscrito del Domino                                       187                  7238.77
+WB8148TN    Le Chevalier de Maison-Rouge                                    83                  6982.79
+FE5059EI    Sylvie and Bruno Concluded                                      85                 16481.50
+HX7509SS    Las demoliciones de Paris                                      223                 36045.72
+KL7180EF    The Hunting of the Snark                                       217                 27496.07
+TJ8256BL    La guerra del fin del mundo                                    161                 32171.02
+SB2546UL    The Ballad of Reading Gaol                                     174                 38641.92
+TO3719OI    La reina de las barricadas                                     199                 23688.96
+WL4712EJ    Les Ressources de Quinola                                      210                  9998.10
+LH7856DF    El Club de los explotadores                                    138                  4847.94
+TA6107RM    Le Vicaire des Ardennes                                        170                 39128.90
+JV3344QJ    The Fencing Master                                             136                  9241.20
+DY7148FQ    La Fille aux yeux d or                                          96                  3313.92
+RP7586UG    Lady Windermere s Fan                                          218                  9655.22
+YV5760BW    La Peau de chagrin                                             164                 23004.28
+JF9854RG    La Cousine Bette                                               188                 27750.68
+MS4635LE    El Presidio de Tolon                                            98                  2544.08
+ZK6045TQ    Las Miserias de Londres                                        149                  8546.64
+EW1994FO    Muerte de la luz                                               115                 24627.25
+UD2381PB    Olympe de Cleves                                               107                 24932.07
+QT6611DW    La jaula de los pajaros                                        142                 20421.02
+CK7628SP    Twenty Years After                                             229                 28689.12
+XU6411QX    The Companions of Jehu                                         147                  8665.65
+AF8015EM    Musica para camaleones                                         232                 19130.72
+RW3837XQ    Los tesoros del Rajah                                           85                 10127.75
+XE1517PU    The Corsican Brothers                                          219                 46706.13
+BY2824ZA    L ecole des menages                                            128                  2728.96
+SJ4820TV    Lituma en los Andes                                             97                 16897.40
+NI2660ZB    An Ideal Husband                                               102                  6055.74
+FJ7850HZ    El capitan Alatriste                                           101                 21133.24
+AB6148GL    Le Colonel Chabert                                             207                  4433.94
+WG1806UA    House of Pomegranates                                          165                  5921.85
+PP7349PH    Historia de Mayta                                              183                  2062.41
+ZA8543MU    La hermosa jardinera                                           133                 23955.96
+LN4392WT    The Countess de Charny                                          89                  9086.01
+WB6072ZV    Elogio de la madrastra                                         164                  7462.00
+------------------------------------------------------------------------------------------------------------------------
+Total de recaudado: 4477881.80
